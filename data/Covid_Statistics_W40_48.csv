@@ -1,0 +1,2899 @@
+veckonummer,Kommun_stadsdel,tot_antal_fall_per10000inv,antal_fall_per10000_inv,tot_antal_fall,nya_fall_vecka
+40,Ale,112,2,351,7
+41,Ale,116,4,365,14
+42,Ale,121,4,379,14
+43,Ale,125,5,394,15
+44,Ale,145,19,455,61
+45,Ale,164,19,514,59
+46,Ale,189,25,594,80
+47,Ale,216,26,677,83
+48,Ale,235,19,737,60
+40,Alingsås,121,1,502,4
+41,Alingsås,123,2,510,8
+42,Alingsås,125,2,518,8
+43,Alingsås,129,4,533,15
+44,Alingsås,137,8,567,34
+45,Alingsås,151,14,627,60
+46,Alingsås,168,16,695,68
+47,Alingsås,189,21,784,89
+48,Alingsås,211,22,876,92
+40,Alvesta,119,2,239,5
+41,Alvesta,122,3,245,6
+42,Alvesta,123,1,247,2
+43,Alvesta,130,7,261,14
+44,Alvesta,148,18,298,37
+45,Alvesta,169,21,341,43
+46,Alvesta,199,29,400,59
+47,Alvesta,222,23,446,46
+48,Alvesta,239,17,481,35
+40,Aneby,123,0,84,0
+41,Aneby,124,1,85,1
+42,Aneby,127,3,87,2
+43,Aneby,127,0,87,0
+44,Aneby,140,13,96,9
+45,Aneby,156,16,107,11
+46,Aneby,180,23,123,16
+47,Aneby,215,35,147,24
+48,Aneby,229,15,157,10
+40,Arboga,77,2,108,3
+41,Arboga,77,0,108,0
+42,Arboga,79,2,111,3
+43,Arboga,84,6,119,8
+44,Arboga,99,15,140,21
+45,Arboga,120,21,169,29
+46,Arboga,160,40,225,56
+47,Arboga,199,40,281,56
+48,Arboga,226,27,319,38
+40,Arjeplog,,,<15,<15
+41,Arjeplog,,,<15,<15
+42,Arjeplog,,,<15,<15
+43,Arjeplog,,,<15,<15
+44,Arjeplog,,,<15,<15
+45,Arjeplog,,,<15,<15
+46,Arjeplog,,,<15,<15
+47,Arjeplog,,,<15,<15
+48,Arjeplog,,,<15,<15
+40,Arvidsjaur,,,<15,<15
+41,Arvidsjaur,26,2,16,1
+42,Arvidsjaur,26,0,16,0
+43,Arvidsjaur,26,0,16,0
+44,Arvidsjaur,27,2,17,1
+45,Arvidsjaur,32,5,20,3
+46,Arvidsjaur,42,10,26,6
+47,Arvidsjaur,53,11,33,7
+48,Arvidsjaur,63,10,39,6
+40,Arvika,43,0,111,1
+41,Arvika,43,0,111,0
+42,Arvika,43,0,111,0
+43,Arvika,44,1,114,3
+44,Arvika,53,9,137,23
+45,Arvika,59,7,154,17
+46,Arvika,63,4,164,10
+47,Arvika,65,2,170,6
+48,Arvika,67,2,174,4
+40,Askersund,68,1,77,1
+41,Askersund,68,0,77,0
+42,Askersund,69,1,78,1
+43,Askersund,73,4,83,5
+44,Askersund,80,7,91,8
+45,Askersund,94,14,107,16
+46,Askersund,110,16,125,18
+47,Askersund,133,23,151,26
+48,Askersund,152,19,173,22
+40,Avesta,54,3,125,7
+41,Avesta,55,1,127,2
+42,Avesta,57,2,132,5
+43,Avesta,63,6,146,14
+44,Avesta,74,11,171,25
+45,Avesta,80,6,186,15
+46,Avesta,93,13,216,30
+47,Avesta,114,21,264,48
+48,Avesta,144,30,334,70
+40,Bengtsfors,53,3,52,3
+41,Bengtsfors,54,1,53,1
+42,Bengtsfors,58,4,57,4
+43,Bengtsfors,65,6,63,6
+44,Bengtsfors,80,15,78,15
+45,Bengtsfors,91,11,89,11
+46,Bengtsfors,97,6,95,6
+47,Bengtsfors,141,43,137,42
+48,Bengtsfors,187,46,182,45
+40,Berg,118,0,83,0
+41,Berg,120,3,85,2
+42,Berg,122,1,86,1
+43,Berg,127,6,90,4
+44,Berg,127,0,90,0
+45,Berg,135,7,95,5
+46,Berg,156,21,110,15
+47,Berg,180,24,127,17
+48,Berg,194,14,137,10
+40,Bjurholm,,,<15,<15
+41,Bjurholm,,,<15,<15
+42,Bjurholm,,,<15,<15
+43,Bjurholm,,,<15,<15
+44,Bjurholm,,,<15,<15
+45,Bjurholm,,,<15,<15
+46,Bjurholm,,,<15,<15
+47,Bjurholm,,,<15,<15
+48,Bjurholm,,,<15,<15
+40,Bjuv,26,3,41,5
+41,Bjuv,28,2,44,3
+42,Bjuv,38,10,59,15
+43,Bjuv,53,15,83,24
+44,Bjuv,75,22,118,35
+45,Bjuv,104,29,164,46
+46,Bjuv,166,62,261,97
+47,Bjuv,218,52,342,81
+48,Bjuv,258,41,406,64
+40,Boden,57,0,161,0
+41,Boden,64,7,181,20
+42,Boden,68,4,192,11
+43,Boden,73,5,206,14
+44,Boden,85,11,238,32
+45,Boden,111,26,312,74
+46,Boden,145,34,407,95
+47,Boden,190,45,534,127
+48,Boden,245,55,689,155
+40,Bollebygd,98,2,93,2
+41,Bollebygd,102,4,97,4
+42,Bollebygd,103,1,98,1
+43,Bollebygd,115,12,109,11
+44,Bollebygd,122,7,116,7
+45,Bollebygd,147,25,140,24
+46,Bollebygd,179,32,170,30
+47,Bollebygd,210,31,199,29
+48,Bollebygd,227,18,216,17
+40,Bollnäs,90,3,242,7
+41,Bollnäs,91,1,246,4
+42,Bollnäs,93,1,249,3
+43,Bollnäs,95,2,255,6
+44,Bollnäs,100,5,269,14
+45,Bollnäs,119,19,321,52
+46,Bollnäs,144,25,388,67
+47,Bollnäs,177,33,477,89
+48,Bollnäs,215,38,578,101
+40,Borgholm,33,0,36,0
+41,Borgholm,34,1,37,1
+42,Borgholm,35,1,38,1
+43,Borgholm,38,3,41,3
+44,Borgholm,49,11,53,12
+45,Borgholm,58,9,63,10
+46,Borgholm,67,9,73,10
+47,Borgholm,79,12,86,13
+48,Borgholm,104,25,113,27
+40,Borlänge,122,3,643,15
+41,Borlänge,124,2,653,10
+42,Borlänge,129,4,676,23
+43,Borlänge,132,3,692,16
+44,Borlänge,143,11,750,58
+45,Borlänge,158,16,832,82
+46,Borlänge,175,17,920,88
+47,Borlänge,191,16,1005,85
+48,Borlänge,214,23,1126,121
+40,Borås,146,3,1657,36
+41,Borås,150,4,1701,44
+42,Borås,156,6,1766,65
+43,Borås,165,9,1865,99
+44,Borås,189,24,2138,273
+45,Borås,218,29,2468,330
+46,Borås,256,38,2895,427
+47,Borås,288,32,3256,361
+48,Borås,319,32,3615,359
+40,Botkyrka,125,4,1179,35
+41,Botkyrka,129,4,1217,38
+42,Botkyrka,134,5,1265,48
+43,Botkyrka,141,7,1332,67
+44,Botkyrka,156,15,1474,142
+45,Botkyrka,178,22,1685,211
+46,Botkyrka,208,30,1968,283
+47,Botkyrka,252,44,2386,418
+48,Botkyrka,303,51,2871,485
+40,Boxholm,77,0,42,0
+41,Boxholm,77,0,42,0
+42,Boxholm,77,0,42,0
+43,Boxholm,80,4,44,2
+44,Boxholm,93,13,51,7
+45,Boxholm,97,4,53,2
+46,Boxholm,110,13,60,7
+47,Boxholm,115,5,63,3
+48,Boxholm,124,9,68,5
+40,Bromölla,26,2,34,2
+41,Bromölla,28,2,36,2
+42,Bromölla,30,2,39,3
+43,Bromölla,37,6,47,8
+44,Bromölla,48,12,62,15
+45,Bromölla,64,16,82,20
+46,Bromölla,79,16,102,20
+47,Bromölla,96,16,123,21
+48,Bromölla,114,19,147,24
+40,Bräcke,173,2,109,1
+41,Bräcke,176,3,111,2
+42,Bräcke,179,3,113,2
+43,Bräcke,183,3,115,2
+44,Bräcke,186,3,117,2
+45,Bräcke,191,5,120,3
+46,Bräcke,197,6,124,4
+47,Bräcke,211,14,133,9
+48,Bräcke,276,65,174,41
+40,Burlöv,54,4,104,7
+41,Burlöv,59,4,112,8
+42,Burlöv,67,9,129,17
+43,Burlöv,88,20,168,39
+44,Burlöv,108,20,207,39
+45,Burlöv,129,20,246,39
+46,Burlöv,168,40,322,76
+47,Burlöv,197,29,377,55
+48,Burlöv,242,45,463,86
+40,Båstad,50,6,75,9
+41,Båstad,56,6,84,9
+42,Båstad,62,7,94,10
+43,Båstad,72,10,109,15
+44,Båstad,84,12,127,18
+45,Båstad,106,22,160,33
+46,Båstad,151,46,229,69
+47,Båstad,202,50,305,76
+48,Båstad,239,37,361,56
+40,Dals-Ed,85,0,41,0
+41,Dals-Ed,85,0,41,0
+42,Dals-Ed,89,4,43,2
+43,Dals-Ed,93,4,45,2
+44,Dals-Ed,112,19,54,9
+45,Dals-Ed,168,56,81,27
+46,Dals-Ed,189,21,91,10
+47,Dals-Ed,193,4,93,2
+48,Dals-Ed,204,10,98,5
+40,Danderyd,96,5,317,16
+41,Danderyd,101,5,333,16
+42,Danderyd,116,15,382,49
+43,Danderyd,136,19,446,64
+44,Danderyd,171,35,561,115
+45,Danderyd,199,28,654,93
+46,Danderyd,241,42,791,137
+47,Danderyd,277,36,910,119
+48,Danderyd,323,46,1061,151
+40,Degerfors,121,1,117,1
+41,Degerfors,122,1,118,1
+42,Degerfors,128,6,124,6
+43,Degerfors,130,2,126,2
+44,Degerfors,151,21,146,20
+45,Degerfors,179,28,173,27
+46,Degerfors,213,34,206,33
+47,Degerfors,243,30,235,29
+48,Degerfors,270,27,261,26
+40,Dorotea,,,<15,<15
+41,Dorotea,,,<15,<15
+42,Dorotea,,,<15,<15
+43,Dorotea,,,<15,<15
+44,Dorotea,,,<15,<15
+45,Dorotea,,,<15,<15
+46,Dorotea,,,<15,<15
+47,Dorotea,,,<15,<15
+48,Dorotea,,,<15,<15
+40,Eda,30,1,26,1
+41,Eda,30,0,26,0
+42,Eda,33,2,28,2
+43,Eda,33,0,28,0
+44,Eda,39,6,33,5
+45,Eda,47,8,40,7
+46,Eda,51,5,44,4
+47,Eda,61,9,52,8
+48,Eda,69,8,59,7
+40,Ekerö,62,3,177,10
+41,Ekerö,66,5,190,13
+42,Ekerö,69,3,199,9
+43,Ekerö,82,13,236,37
+44,Ekerö,111,29,319,83
+45,Ekerö,148,37,426,107
+46,Ekerö,187,39,537,111
+47,Ekerö,224,37,644,107
+48,Ekerö,272,47,780,136
+40,Eksjö,101,1,180,1
+41,Eksjö,102,1,181,1
+42,Eksjö,105,3,187,6
+43,Eksjö,108,3,192,5
+44,Eksjö,128,20,227,35
+45,Eksjö,150,23,267,40
+46,Eksjö,181,30,321,54
+47,Eksjö,224,43,397,76
+48,Eksjö,269,46,478,81
+40,Emmaboda,,,<15,<15
+41,Emmaboda,,,<15,<15
+42,Emmaboda,,,<15,<15
+43,Emmaboda,18,3,17,3
+44,Emmaboda,30,12,28,11
+45,Emmaboda,53,23,50,22
+46,Emmaboda,72,19,68,18
+47,Emmaboda,82,10,77,9
+48,Emmaboda,87,5,82,5
+40,Enköping,88,5,397,23
+41,Enköping,96,8,435,38
+42,Enköping,107,11,485,50
+43,Enköping,114,7,516,31
+44,Enköping,127,13,575,59
+45,Enköping,149,22,675,100
+46,Enköping,174,25,788,113
+47,Enköping,209,35,947,159
+48,Enköping,253,44,1148,201
+40,Eskilstuna,105,2,1120,21
+41,Eskilstuna,106,1,1134,14
+42,Eskilstuna,110,4,1180,46
+43,Eskilstuna,117,6,1247,67
+44,Eskilstuna,134,17,1429,182
+45,Eskilstuna,160,26,1710,281
+46,Eskilstuna,193,33,2066,356
+47,Eskilstuna,231,38,2467,401
+48,Eskilstuna,262,31,2799,332
+40,Eslöv,34,1,116,5
+41,Eslöv,35,0,117,1
+42,Eslöv,37,2,124,7
+43,Eslöv,44,8,150,26
+44,Eslöv,59,15,199,49
+45,Eslöv,75,16,253,54
+46,Eslöv,91,17,309,56
+47,Eslöv,110,18,371,62
+48,Eslöv,136,26,459,88
+40,Essunga,81,0,46,0
+41,Essunga,83,2,47,1
+42,Essunga,85,2,48,1
+43,Essunga,94,9,53,5
+44,Essunga,99,5,56,3
+45,Essunga,108,9,61,5
+46,Essunga,111,4,63,2
+47,Essunga,122,11,69,6
+48,Essunga,136,14,77,8
+40,Fagersta,55,1,73,2
+41,Fagersta,60,6,81,8
+42,Fagersta,60,0,81,0
+43,Fagersta,61,1,82,1
+44,Fagersta,63,2,85,3
+45,Fagersta,84,21,113,28
+46,Fagersta,99,14,132,19
+47,Fagersta,117,19,157,25
+48,Fagersta,138,21,185,28
+40,Falkenberg,70,3,316,12
+41,Falkenberg,72,3,328,12
+42,Falkenberg,73,1,333,5
+43,Falkenberg,75,2,340,7
+44,Falkenberg,79,4,360,20
+45,Falkenberg,89,9,402,42
+46,Falkenberg,109,21,496,94
+47,Falkenberg,122,13,553,57
+48,Falkenberg,141,19,640,87
+40,Falköping,70,1,232,3
+41,Falköping,71,1,235,3
+42,Falköping,72,2,240,5
+43,Falköping,77,5,256,16
+44,Falköping,94,17,311,55
+45,Falköping,126,33,420,109
+46,Falköping,180,53,597,177
+47,Falköping,228,48,758,161
+48,Falköping,268,40,892,134
+40,Falun,123,3,731,18
+41,Falun,126,3,747,16
+42,Falun,133,7,791,44
+43,Falun,146,13,867,76
+44,Falun,178,32,1060,193
+45,Falun,224,46,1332,272
+46,Falun,265,41,1573,241
+47,Falun,297,33,1767,194
+48,Falun,331,34,1967,200
+40,Filipstad,81,0,86,0
+41,Filipstad,81,0,86,0
+42,Filipstad,81,0,86,0
+43,Filipstad,82,1,87,1
+44,Filipstad,84,2,89,2
+45,Filipstad,95,11,101,12
+46,Filipstad,103,8,110,9
+47,Filipstad,125,22,133,23
+48,Filipstad,141,16,150,17
+40,Finspång,97,2,212,5
+41,Finspång,98,1,214,2
+42,Finspång,101,3,221,7
+43,Finspång,106,5,232,11
+44,Finspång,112,6,246,14
+45,Finspång,123,11,270,24
+46,Finspång,131,7,286,16
+47,Finspång,139,9,305,19
+48,Finspång,144,5,316,11
+40,Flen,74,1,122,1
+41,Flen,74,1,123,1
+42,Flen,77,2,127,4
+43,Flen,78,1,129,2
+44,Flen,85,7,141,12
+45,Flen,103,17,170,29
+46,Flen,112,10,186,16
+47,Flen,122,10,203,17
+48,Flen,128,6,213,10
+40,Forshaga,40,1,46,1
+41,Forshaga,43,3,50,4
+42,Forshaga,46,3,53,3
+43,Forshaga,46,0,53,0
+44,Forshaga,50,4,58,5
+45,Forshaga,61,10,70,12
+46,Forshaga,72,11,83,13
+47,Forshaga,83,11,96,13
+48,Forshaga,104,21,120,24
+40,Färgelanda,75,0,50,0
+41,Färgelanda,75,0,50,0
+42,Färgelanda,75,0,50,0
+43,Färgelanda,77,2,51,1
+44,Färgelanda,78,2,52,1
+45,Färgelanda,104,26,69,17
+46,Färgelanda,125,21,83,14
+47,Färgelanda,137,12,91,8
+48,Färgelanda,158,21,105,14
+40,Gagnef,97,1,100,1
+41,Gagnef,103,6,106,6
+42,Gagnef,114,11,117,11
+43,Gagnef,120,7,124,7
+44,Gagnef,128,8,132,8
+45,Gagnef,144,16,148,16
+46,Gagnef,159,16,164,16
+47,Gagnef,176,16,181,17
+48,Gagnef,196,20,202,21
+40,Gislaved,199,3,595,8
+41,Gislaved,209,10,625,30
+42,Gislaved,219,11,657,32
+43,Gislaved,230,11,690,33
+44,Gislaved,257,27,770,80
+45,Gislaved,293,36,878,108
+46,Gislaved,333,40,999,121
+47,Gislaved,358,24,1072,73
+48,Gislaved,374,16,1120,48
+40,Gnesta,80,1,91,1
+41,Gnesta,83,3,94,3
+42,Gnesta,84,1,95,1
+43,Gnesta,87,4,99,4
+44,Gnesta,109,22,124,25
+45,Gnesta,129,20,147,23
+46,Gnesta,142,12,161,14
+47,Gnesta,189,48,215,54
+48,Gnesta,212,23,241,26
+40,Gnosjö,169,2,164,2
+41,Gnosjö,175,6,170,6
+42,Gnosjö,183,8,178,8
+43,Gnosjö,202,19,196,18
+44,Gnosjö,242,40,235,39
+45,Gnosjö,270,28,262,27
+46,Gnosjö,293,24,285,23
+47,Gnosjö,317,24,308,23
+48,Gnosjö,347,30,337,29
+40,Gotland,49,3,292,15
+41,Gotland,51,3,307,15
+42,Gotland,54,3,324,17
+43,Gotland,59,5,353,29
+44,Gotland,70,11,418,65
+45,Gotland,98,28,584,166
+46,Gotland,134,36,797,213
+47,Gotland,162,29,969,172
+48,Gotland,200,38,1195,226
+40,Grums,63,14,57,13
+41,Grums,65,2,59,2
+42,Grums,69,3,62,3
+43,Grums,87,19,79,17
+44,Grums,105,18,95,16
+45,Grums,117,12,106,11
+46,Grums,129,12,117,11
+47,Grums,141,12,128,11
+48,Grums,157,15,142,14
+40,Grästorp,86,2,49,1
+41,Grästorp,86,0,49,0
+42,Grästorp,86,0,49,0
+43,Grästorp,86,0,49,0
+44,Grästorp,90,4,51,2
+45,Grästorp,114,25,65,14
+46,Grästorp,146,32,83,18
+47,Grästorp,162,16,92,9
+48,Grästorp,176,14,100,8
+40,Gullspång,63,0,33,0
+41,Gullspång,63,0,33,0
+42,Gullspång,63,0,33,0
+43,Gullspång,63,0,33,0
+44,Gullspång,64,2,34,1
+45,Gullspång,66,2,35,1
+46,Gullspång,76,9,40,5
+47,Gullspång,97,21,51,11
+48,Gullspång,119,23,63,12
+40,Gällivare,343,2,601,4
+41,Gällivare,346,3,606,5
+42,Gällivare,353,7,618,12
+43,Gällivare,360,7,631,13
+44,Gällivare,363,3,637,6
+45,Gällivare,372,9,652,15
+46,Gällivare,376,4,659,7
+47,Gällivare,383,7,671,12
+48,Gällivare,391,8,685,14
+40,Gävle,119,3,1223,32
+41,Gävle,123,4,1263,40
+42,Gävle,126,3,1289,26
+43,Gävle,130,4,1331,42
+44,Gävle,141,11,1442,111
+45,Gävle,165,24,1687,245
+46,Gävle,194,30,1991,304
+47,Gävle,228,33,2334,343
+48,Gävle,271,43,2779,445
+40,Göteborg Angered,161,2,877,13
+41,Göteborg Angered,164,3,893,16
+42,Göteborg Angered,167,2,906,13
+43,Göteborg Angered,174,8,948,42
+44,Göteborg Angered,191,16,1036,88
+45,Göteborg Angered,212,22,1155,119
+46,Göteborg Angered,238,25,1292,137
+47,Göteborg Angered,263,26,1432,140
+48,Göteborg Angered,294,31,1600,168
+40,Göteborg Askim-Frölunda-Högsbo,120,3,771,20
+41,Göteborg Askim-Frölunda-Högsbo,124,4,794,23
+42,Göteborg Askim-Frölunda-Högsbo,130,6,830,36
+43,Göteborg Askim-Frölunda-Högsbo,147,17,941,111
+44,Göteborg Askim-Frölunda-Högsbo,176,29,1129,188
+45,Göteborg Askim-Frölunda-Högsbo,207,31,1327,198
+46,Göteborg Askim-Frölunda-Högsbo,234,27,1500,173
+47,Göteborg Askim-Frölunda-Högsbo,258,23,1650,150
+48,Göteborg Askim-Frölunda-Högsbo,278,20,1781,131
+40,Göteborg Centrum,153,5,984,30
+41,Göteborg Centrum,162,8,1037,53
+42,Göteborg Centrum,170,8,1090,53
+43,Göteborg Centrum,180,10,1155,65
+44,Göteborg Centrum,207,27,1329,174
+45,Göteborg Centrum,236,29,1516,187
+46,Göteborg Centrum,263,27,1691,175
+47,Göteborg Centrum,286,22,1835,144
+48,Göteborg Centrum,305,19,1956,121
+40,Göteborg Lundby,145,4,799,23
+41,Göteborg Lundby,150,5,825,26
+42,Göteborg Lundby,155,5,853,28
+43,Göteborg Lundby,166,11,912,59
+44,Göteborg Lundby,182,17,1005,93
+45,Göteborg Lundby,211,28,1162,157
+46,Göteborg Lundby,236,25,1299,137
+47,Göteborg Lundby,264,28,1455,156
+48,Göteborg Lundby,287,23,1582,127
+40,Göteborg Majorna-Linné,139,5,894,35
+41,Göteborg Majorna-Linné,143,4,922,28
+42,Göteborg Majorna-Linné,154,11,991,69
+43,Göteborg Majorna-Linné,167,13,1074,83
+44,Göteborg Majorna-Linné,195,28,1257,183
+45,Göteborg Majorna-Linné,227,31,1458,201
+46,Göteborg Majorna-Linné,250,23,1609,151
+47,Göteborg Majorna-Linné,280,30,1800,191
+48,Göteborg Majorna-Linné,311,31,1999,199
+40,Göteborg Norra Hisingen,141,3,733,17
+41,Göteborg Norra Hisingen,146,5,758,25
+42,Göteborg Norra Hisingen,154,8,799,41
+43,Göteborg Norra Hisingen,163,9,844,45
+44,Göteborg Norra Hisingen,182,19,943,99
+45,Göteborg Norra Hisingen,206,24,1070,127
+46,Göteborg Norra Hisingen,225,19,1167,97
+47,Göteborg Norra Hisingen,253,28,1311,144
+48,Göteborg Norra Hisingen,288,35,1491,180
+40,Göteborg Västra Göteborg,128,2,689,10
+41,Göteborg Västra Göteborg,130,2,701,12
+42,Göteborg Västra Göteborg,134,4,724,23
+43,Göteborg Västra Göteborg,149,14,801,77
+44,Göteborg Västra Göteborg,179,31,966,165
+45,Göteborg Västra Göteborg,216,37,1165,199
+46,Göteborg Västra Göteborg,244,27,1312,147
+47,Göteborg Västra Göteborg,268,24,1443,131
+48,Göteborg Västra Göteborg,296,28,1596,153
+40,Göteborg Västra Hisingen,114,3,653,16
+41,Göteborg Västra Hisingen,120,6,688,35
+42,Göteborg Västra Hisingen,125,5,714,26
+43,Göteborg Västra Hisingen,136,12,780,66
+44,Göteborg Västra Hisingen,155,19,887,107
+45,Göteborg Västra Hisingen,173,18,989,102
+46,Göteborg Västra Hisingen,194,21,1107,118
+47,Göteborg Västra Hisingen,216,23,1237,130
+48,Göteborg Västra Hisingen,244,27,1392,155
+40,Göteborg Örgryte-Härlanda,157,3,962,17
+41,Göteborg Örgryte-Härlanda,161,5,990,28
+42,Göteborg Örgryte-Härlanda,170,8,1041,51
+43,Göteborg Örgryte-Härlanda,184,15,1130,89
+44,Göteborg Örgryte-Härlanda,212,27,1298,168
+45,Göteborg Örgryte-Härlanda,245,33,1502,204
+46,Göteborg Örgryte-Härlanda,271,26,1662,160
+47,Göteborg Örgryte-Härlanda,296,25,1818,156
+48,Göteborg Örgryte-Härlanda,326,29,1998,180
+40,Göteborg Östra Göteborg,160,3,826,15
+41,Göteborg Östra Göteborg,164,5,850,24
+42,Göteborg Östra Göteborg,171,7,887,37
+43,Göteborg Östra Göteborg,185,13,955,68
+44,Göteborg Östra Göteborg,204,19,1054,99
+45,Göteborg Östra Göteborg,224,20,1160,106
+46,Göteborg Östra Göteborg,249,25,1288,128
+47,Göteborg Östra Göteborg,276,27,1426,138
+48,Göteborg Östra Göteborg,302,27,1564,138
+40,Götene,54,2,71,3
+41,Götene,54,0,71,0
+42,Götene,54,0,71,0
+43,Götene,56,2,74,3
+44,Götene,66,10,87,13
+45,Götene,72,6,95,8
+46,Götene,84,12,111,16
+47,Götene,98,14,129,18
+48,Götene,108,11,143,14
+40,Habo,92,2,114,3
+41,Habo,92,1,115,1
+42,Habo,94,2,117,2
+43,Habo,94,0,117,0
+44,Habo,105,10,130,13
+45,Habo,129,24,160,30
+46,Habo,147,18,183,23
+47,Habo,155,8,193,10
+48,Habo,175,20,218,25
+40,Hagfors,38,0,44,0
+41,Hagfors,38,0,44,0
+42,Hagfors,38,0,44,0
+43,Hagfors,39,1,45,1
+44,Hagfors,41,3,48,3
+45,Hagfors,49,8,57,9
+46,Hagfors,52,3,60,3
+47,Hagfors,58,6,67,7
+48,Hagfors,65,7,75,8
+40,Hallsberg,70,3,112,4
+41,Hallsberg,73,3,117,5
+42,Hallsberg,81,8,129,12
+43,Hallsberg,96,15,153,24
+44,Hallsberg,115,19,184,31
+45,Hallsberg,132,17,211,27
+46,Hallsberg,169,37,270,59
+47,Hallsberg,203,33,323,53
+48,Hallsberg,228,25,363,40
+40,Hallstahammar,99,1,162,2
+41,Hallstahammar,100,1,164,2
+42,Hallstahammar,101,1,165,1
+43,Hallstahammar,105,4,172,7
+44,Hallstahammar,116,11,190,18
+45,Hallstahammar,135,18,220,30
+46,Hallstahammar,156,21,255,35
+47,Hallstahammar,192,36,314,59
+48,Hallstahammar,236,43,385,71
+40,Halmstad,70,7,724,70
+41,Halmstad,75,5,771,47
+42,Halmstad,82,7,838,67
+43,Halmstad,87,6,898,60
+44,Halmstad,98,11,1010,112
+45,Halmstad,112,13,1147,137
+46,Halmstad,135,24,1389,242
+47,Halmstad,148,13,1519,130
+48,Halmstad,167,19,1718,199
+40,Hammarö,43,0,71,0
+41,Hammarö,43,1,72,1
+42,Hammarö,49,6,82,10
+43,Hammarö,54,5,90,8
+44,Hammarö,58,4,96,6
+45,Hammarö,77,19,128,32
+46,Hammarö,91,14,151,23
+47,Hammarö,101,10,167,16
+48,Hammarö,114,13,189,22
+40,Haninge,101,5,932,47
+41,Haninge,106,5,980,48
+42,Haninge,110,4,1016,36
+43,Haninge,119,8,1092,76
+44,Haninge,139,20,1276,184
+45,Haninge,167,29,1541,265
+46,Haninge,203,36,1869,328
+47,Haninge,244,41,2248,379
+48,Haninge,284,40,2613,365
+40,Haparanda,,,<15,<15
+41,Haparanda,,,<15,<15
+42,Haparanda,17,2,16,2
+43,Haparanda,26,9,25,9
+44,Haparanda,57,31,55,30
+45,Haparanda,93,36,90,35
+46,Haparanda,107,14,104,14
+47,Haparanda,119,11,115,11
+48,Haparanda,126,7,122,7
+40,Heby,63,4,89,6
+41,Heby,69,6,97,8
+42,Heby,77,8,108,11
+43,Heby,80,4,113,5
+44,Heby,90,10,127,14
+45,Heby,98,8,138,11
+46,Heby,124,26,174,36
+47,Heby,154,31,217,43
+48,Heby,192,38,270,53
+40,Hedemora,77,1,120,2
+41,Hedemora,79,2,123,3
+42,Hedemora,84,5,130,7
+43,Hedemora,87,3,135,5
+44,Hedemora,93,6,144,9
+45,Hedemora,101,8,156,12
+46,Hedemora,122,21,189,33
+47,Hedemora,143,21,221,32
+48,Hedemora,157,14,243,22
+40,Helsingborg,74,6,1086,83
+41,Helsingborg,77,3,1135,49
+42,Helsingborg,82,5,1211,76
+43,Helsingborg,95,13,1404,193
+44,Helsingborg,115,20,1693,289
+45,Helsingborg,136,22,2015,322
+46,Helsingborg,177,40,2612,597
+47,Helsingborg,225,49,3329,717
+48,Helsingborg,294,69,4344,1015
+40,Herrljunga,91,0,86,0
+41,Herrljunga,91,0,86,0
+42,Herrljunga,94,3,89,3
+43,Herrljunga,96,2,91,2
+44,Herrljunga,114,18,108,17
+45,Herrljunga,137,23,130,22
+46,Herrljunga,151,14,143,13
+47,Herrljunga,167,16,158,15
+48,Herrljunga,175,8,166,8
+40,Hjo,51,1,47,1
+41,Hjo,51,0,47,0
+42,Hjo,51,0,47,0
+43,Hjo,51,0,47,0
+44,Hjo,56,5,52,5
+45,Hjo,62,5,57,5
+46,Hjo,83,21,76,19
+47,Hjo,102,20,94,18
+48,Hjo,118,16,109,15
+40,Hofors,164,1,157,1
+41,Hofors,165,1,158,1
+42,Hofors,169,4,162,4
+43,Hofors,175,6,168,6
+44,Hofors,181,6,174,6
+45,Hofors,194,13,186,12
+46,Hofors,218,24,209,23
+47,Hofors,262,44,251,42
+48,Hofors,304,42,291,40
+40,Huddinge,118,5,1336,53
+41,Huddinge,124,6,1404,68
+42,Huddinge,130,6,1469,65
+43,Huddinge,141,11,1593,124
+44,Huddinge,164,23,1856,263
+45,Huddinge,198,34,2235,379
+46,Huddinge,233,35,2629,394
+47,Huddinge,284,51,3210,581
+48,Huddinge,341,57,3850,640
+40,Hudiksvall,128,4,480,14
+41,Hudiksvall,131,3,492,12
+42,Hudiksvall,133,2,501,9
+43,Hudiksvall,136,2,510,9
+44,Hudiksvall,137,2,517,7
+45,Hudiksvall,142,4,533,16
+46,Hudiksvall,166,25,626,93
+47,Hudiksvall,204,38,769,143
+48,Hudiksvall,251,47,944,175
+40,Hultsfred,37,0,52,0
+41,Hultsfred,37,0,52,0
+42,Hultsfred,37,1,53,1
+43,Hultsfred,41,4,58,5
+44,Hultsfred,63,22,89,31
+45,Hultsfred,110,47,156,67
+46,Hultsfred,150,40,213,57
+47,Hultsfred,179,30,255,42
+48,Hultsfred,207,27,294,39
+40,Hylte,58,9,63,10
+41,Hylte,64,6,69,6
+42,Hylte,65,1,70,1
+43,Hylte,66,1,71,1
+44,Hylte,75,9,81,10
+45,Hylte,86,11,93,12
+46,Hylte,99,13,107,14
+47,Hylte,107,8,116,9
+48,Hylte,123,16,133,17
+40,Hällefors,115,0,81,0
+41,Hällefors,120,4,84,3
+42,Hällefors,121,1,85,1
+43,Hällefors,128,7,90,5
+44,Hällefors,147,19,103,13
+45,Hällefors,198,51,139,36
+46,Hällefors,222,24,156,17
+47,Hällefors,234,11,164,8
+48,Hällefors,242,9,170,6
+40,Härjedalen,96,5,97,5
+41,Härjedalen,97,1,98,1
+42,Härjedalen,100,3,101,3
+43,Härjedalen,101,1,102,1
+44,Härjedalen,101,0,102,0
+45,Härjedalen,107,6,108,6
+46,Härjedalen,119,12,120,12
+47,Härjedalen,130,11,131,11
+48,Härjedalen,139,9,140,9
+40,Härnösand,54,1,136,2
+41,Härnösand,56,2,141,5
+42,Härnösand,60,4,151,10
+43,Härnösand,62,2,156,5
+44,Härnösand,64,2,162,6
+45,Härnösand,73,9,184,22
+46,Härnösand,87,14,220,36
+47,Härnösand,110,23,278,58
+48,Härnösand,156,46,393,115
+40,Härryda,102,2,386,8
+41,Härryda,105,4,400,14
+42,Härryda,109,4,415,15
+43,Härryda,119,10,452,37
+44,Härryda,134,15,510,58
+45,Härryda,162,28,616,106
+46,Härryda,184,22,699,83
+47,Härryda,210,26,799,100
+48,Härryda,237,27,901,102
+40,Hässleholm,45,3,234,15
+41,Hässleholm,46,1,239,5
+42,Hässleholm,51,5,265,26
+43,Hässleholm,56,5,293,28
+44,Hässleholm,81,24,420,127
+45,Hässleholm,102,22,534,114
+46,Hässleholm,137,34,713,179
+47,Hässleholm,159,22,829,116
+48,Hässleholm,193,34,1008,179
+40,Håbo,61,2,133,4
+41,Håbo,63,2,138,5
+42,Håbo,69,6,152,14
+43,Håbo,77,8,169,17
+44,Håbo,103,26,227,58
+45,Håbo,128,25,281,54
+46,Håbo,181,53,398,117
+47,Håbo,228,46,499,101
+48,Håbo,269,42,591,92
+40,Höganäs,53,2,142,6
+41,Höganäs,53,1,144,2
+42,Höganäs,56,3,152,8
+43,Höganäs,63,7,171,19
+44,Höganäs,71,7,191,20
+45,Höganäs,84,13,227,36
+46,Höganäs,114,30,308,81
+47,Höganäs,144,30,388,80
+48,Höganäs,187,43,504,116
+40,Högsby,29,0,17,0
+41,Högsby,29,0,17,0
+42,Högsby,34,5,20,3
+43,Högsby,35,2,21,1
+44,Högsby,39,3,23,2
+45,Högsby,56,17,33,10
+46,Högsby,74,19,44,11
+47,Högsby,86,12,51,7
+48,Högsby,98,12,58,7
+40,Hörby,23,2,36,3
+41,Hörby,24,1,37,1
+42,Hörby,24,0,37,0
+43,Hörby,25,1,39,2
+44,Hörby,36,11,56,17
+45,Hörby,48,12,75,19
+46,Hörby,68,20,107,32
+47,Hörby,79,10,123,16
+48,Hörby,100,22,157,34
+40,Höör,23,2,39,4
+41,Höör,24,1,40,1
+42,Höör,25,1,42,2
+43,Höör,28,3,47,5
+44,Höör,34,5,56,9
+45,Höör,41,8,69,13
+46,Höör,52,11,87,18
+47,Höör,72,20,121,34
+48,Höör,92,19,153,32
+40,Jokkmokk,83,30,41,15
+41,Jokkmokk,93,10,46,5
+42,Jokkmokk,95,2,47,1
+43,Jokkmokk,95,0,47,0
+44,Jokkmokk,95,0,47,0
+45,Jokkmokk,98,2,48,1
+46,Jokkmokk,122,24,60,12
+47,Jokkmokk,158,37,78,18
+48,Jokkmokk,185,26,91,13
+40,Järfälla,109,3,872,27
+41,Järfälla,113,4,902,30
+42,Järfälla,118,5,945,43
+43,Järfälla,127,8,1012,67
+44,Järfälla,143,16,1140,128
+45,Järfälla,167,25,1336,196
+46,Järfälla,197,30,1574,238
+47,Järfälla,230,33,1836,262
+48,Järfälla,270,40,2156,320
+40,Jönköping,188,3,2646,44
+41,Jönköping,191,4,2701,55
+42,Jönköping,196,5,2768,67
+43,Jönköping,202,6,2850,82
+44,Jönköping,218,16,3082,232
+45,Jönköping,240,22,3389,307
+46,Jönköping,273,33,3851,462
+47,Jönköping,307,34,4329,478
+48,Jönköping,333,26,4700,371
+40,Kalix,43,0,68,0
+41,Kalix,44,1,70,2
+42,Kalix,44,0,70,0
+43,Kalix,45,1,72,2
+44,Kalix,47,1,74,2
+45,Kalix,55,8,87,13
+46,Kalix,64,9,101,14
+47,Kalix,89,25,141,40
+48,Kalix,121,33,193,52
+40,Kalmar,46,1,318,4
+41,Kalmar,48,2,330,12
+42,Kalmar,50,2,346,16
+43,Kalmar,57,8,399,53
+44,Kalmar,66,8,456,57
+45,Kalmar,74,8,515,59
+46,Kalmar,87,13,607,92
+47,Kalmar,101,13,699,92
+48,Kalmar,124,23,860,161
+40,Karlsborg,49,3,34,2
+41,Karlsborg,49,0,34,0
+42,Karlsborg,50,1,35,1
+43,Karlsborg,66,16,46,11
+44,Karlsborg,79,13,55,9
+45,Karlsborg,105,26,73,18
+46,Karlsborg,144,39,100,27
+47,Karlsborg,179,35,124,24
+48,Karlsborg,207,29,144,20
+40,Karlshamn,30,6,97,18
+41,Karlshamn,33,3,106,9
+42,Karlshamn,34,1,109,3
+43,Karlshamn,41,8,134,25
+44,Karlshamn,47,6,154,20
+45,Karlshamn,57,9,184,30
+46,Karlshamn,70,14,228,44
+47,Karlshamn,81,10,262,34
+48,Karlshamn,107,26,346,84
+40,Karlskoga,100,1,305,3
+41,Karlskoga,102,1,309,4
+42,Karlskoga,105,3,319,10
+43,Karlskoga,108,3,329,10
+44,Karlskoga,126,18,383,54
+45,Karlskoga,163,37,495,112
+46,Karlskoga,205,42,622,127
+47,Karlskoga,249,44,757,135
+48,Karlskoga,278,29,846,89
+40,Karlskrona,78,5,522,33
+41,Karlskrona,81,3,539,17
+42,Karlskrona,82,2,549,10
+43,Karlskrona,84,1,557,8
+44,Karlskrona,93,9,619,62
+45,Karlskrona,104,11,690,71
+46,Karlskrona,116,12,772,82
+47,Karlskrona,132,16,880,108
+48,Karlskrona,151,19,1005,125
+40,Karlstad,56,2,524,23
+41,Karlstad,58,2,544,20
+42,Karlstad,63,5,591,47
+43,Karlstad,69,6,652,61
+44,Karlstad,81,12,760,108
+45,Karlstad,100,19,939,179
+46,Karlstad,121,21,1136,197
+47,Karlstad,142,21,1336,200
+48,Karlstad,160,17,1500,164
+40,Katrineholm,87,1,303,4
+41,Katrineholm,88,1,305,2
+42,Katrineholm,88,1,307,2
+43,Katrineholm,90,2,314,7
+44,Katrineholm,98,7,339,25
+45,Katrineholm,110,13,383,44
+46,Katrineholm,122,12,423,40
+47,Katrineholm,134,12,464,41
+48,Katrineholm,141,8,491,27
+40,Kil,28,4,34,5
+41,Kil,28,0,34,0
+42,Kil,28,0,34,0
+43,Kil,30,2,36,2
+44,Kil,35,5,42,6
+45,Kil,44,9,53,11
+46,Kil,65,22,79,26
+47,Kil,84,18,101,22
+48,Kil,98,14,118,17
+40,Kinda,87,2,86,2
+41,Kinda,87,0,86,0
+42,Kinda,89,2,88,2
+43,Kinda,93,4,92,4
+44,Kinda,100,7,99,7
+45,Kinda,113,13,112,13
+46,Kinda,124,11,123,11
+47,Kinda,131,7,130,7
+48,Kinda,134,3,133,3
+40,Kiruna,117,2,268,4
+41,Kiruna,121,3,276,8
+42,Kiruna,124,3,283,7
+43,Kiruna,126,3,289,6
+44,Kiruna,129,3,295,6
+45,Kiruna,135,6,309,14
+46,Kiruna,141,6,322,13
+47,Kiruna,157,16,359,37
+48,Kiruna,179,22,410,51
+40,Klippan,20,1,36,2
+41,Klippan,21,1,37,1
+42,Klippan,21,1,38,1
+43,Klippan,24,2,42,4
+44,Klippan,30,7,54,12
+45,Klippan,40,10,71,17
+46,Klippan,60,20,107,36
+47,Klippan,77,17,137,30
+48,Klippan,97,20,173,36
+40,Knivsta,82,6,154,11
+41,Knivsta,86,4,162,8
+42,Knivsta,97,11,183,21
+43,Knivsta,110,13,207,24
+44,Knivsta,132,22,248,41
+45,Knivsta,165,33,310,62
+46,Knivsta,210,45,395,85
+47,Knivsta,247,38,466,71
+48,Knivsta,282,35,532,66
+40,Kramfors,85,1,156,1
+41,Kramfors,85,0,156,0
+42,Kramfors,87,2,159,3
+43,Kramfors,87,0,159,0
+44,Kramfors,88,1,161,2
+45,Kramfors,97,9,178,17
+46,Kramfors,110,13,202,24
+47,Kramfors,124,13,226,24
+48,Kramfors,138,15,253,27
+40,Kristianstad,31,2,270,20
+41,Kristianstad,35,3,296,26
+42,Kristianstad,42,8,363,67
+43,Kristianstad,53,11,454,91
+44,Kristianstad,76,23,655,201
+45,Kristianstad,107,30,916,261
+46,Kristianstad,154,47,1321,405
+47,Kristianstad,194,40,1663,342
+48,Kristianstad,243,49,2086,423
+40,Kristinehamn,63,1,153,2
+41,Kristinehamn,64,1,156,3
+42,Kristinehamn,66,2,161,5
+43,Kristinehamn,70,3,169,8
+44,Kristinehamn,77,7,186,17
+45,Kristinehamn,88,12,214,28
+46,Kristinehamn,106,17,256,42
+47,Kristinehamn,133,27,322,66
+48,Kristinehamn,161,28,391,69
+40,Krokom,73,5,109,8
+41,Krokom,86,13,128,19
+42,Krokom,95,9,142,14
+43,Krokom,99,4,148,6
+44,Krokom,108,9,162,14
+45,Krokom,114,6,171,9
+46,Krokom,121,7,181,10
+47,Krokom,144,23,216,35
+48,Krokom,168,24,252,36
+40,Kumla,107,7,232,15
+41,Kumla,116,10,253,21
+42,Kumla,131,14,284,31
+43,Kumla,151,21,329,45
+44,Kumla,187,36,407,78
+45,Kumla,220,33,479,72
+46,Kumla,256,35,556,77
+47,Kumla,296,40,644,88
+48,Kumla,322,26,701,57
+40,Kungsbacka,78,3,656,23
+41,Kungsbacka,82,4,689,33
+42,Kungsbacka,85,4,719,30
+43,Kungsbacka,93,8,785,66
+44,Kungsbacka,111,18,941,156
+45,Kungsbacka,133,21,1122,181
+46,Kungsbacka,169,36,1426,304
+47,Kungsbacka,191,22,1611,185
+48,Kungsbacka,220,29,1857,246
+40,Kungsör,105,9,91,8
+41,Kungsör,115,10,100,9
+42,Kungsör,120,5,104,4
+43,Kungsör,124,5,108,4
+44,Kungsör,138,14,120,12
+45,Kungsör,164,25,142,22
+46,Kungsör,211,47,183,41
+47,Kungsör,257,46,223,40
+48,Kungsör,297,40,258,35
+40,Kungälv,105,2,486,11
+41,Kungälv,109,4,506,20
+42,Kungälv,112,3,518,12
+43,Kungälv,118,6,546,28
+44,Kungälv,132,14,613,67
+45,Kungälv,159,27,737,124
+46,Kungälv,178,19,826,89
+47,Kungälv,198,20,917,91
+48,Kungälv,219,21,1014,97
+40,Kävlinge,21,2,67,6
+41,Kävlinge,24,3,77,10
+42,Kävlinge,25,1,80,3
+43,Kävlinge,28,3,89,9
+44,Kävlinge,39,11,125,36
+45,Kävlinge,56,17,179,54
+46,Kävlinge,85,29,271,92
+47,Kävlinge,103,18,328,57
+48,Kävlinge,125,22,397,69
+40,Köping,130,12,342,31
+41,Köping,139,8,364,22
+42,Köping,151,12,395,31
+43,Köping,157,6,412,17
+44,Köping,180,23,473,61
+45,Köping,208,27,545,72
+46,Köping,240,32,629,84
+47,Köping,274,34,717,88
+48,Köping,304,31,797,80
+40,Laholm,71,3,183,7
+41,Laholm,77,7,200,17
+42,Laholm,82,5,212,12
+43,Laholm,85,3,219,7
+44,Laholm,97,13,252,33
+45,Laholm,107,10,277,25
+46,Laholm,128,21,331,54
+47,Laholm,141,13,365,34
+48,Laholm,159,19,413,48
+40,Landskrona,31,2,145,7
+41,Landskrona,32,1,148,3
+42,Landskrona,38,6,176,28
+43,Landskrona,53,15,246,70
+44,Landskrona,66,12,303,57
+45,Landskrona,84,18,387,84
+46,Landskrona,117,33,540,153
+47,Landskrona,157,40,725,185
+48,Landskrona,196,39,905,180
+40,Laxå,93,0,53,0
+41,Laxå,95,2,54,1
+42,Laxå,99,4,56,2
+43,Laxå,99,0,56,0
+44,Laxå,113,14,64,8
+45,Laxå,125,12,71,7
+46,Laxå,146,21,83,12
+47,Laxå,164,18,93,10
+48,Laxå,174,11,99,6
+40,Lekeberg,57,5,47,4
+41,Lekeberg,63,6,52,5
+42,Lekeberg,70,7,58,6
+43,Lekeberg,77,6,63,5
+44,Lekeberg,89,12,73,10
+45,Lekeberg,108,19,89,16
+46,Lekeberg,129,21,106,17
+47,Lekeberg,149,21,123,17
+48,Lekeberg,159,10,131,8
+40,Leksand,79,3,125,4
+41,Leksand,84,4,132,7
+42,Leksand,90,7,143,11
+43,Leksand,103,13,163,20
+44,Leksand,120,16,189,26
+45,Leksand,145,25,229,40
+46,Leksand,169,24,267,38
+47,Leksand,196,27,310,43
+48,Leksand,237,40,374,64
+40,Lerum,116,3,493,11
+41,Lerum,118,2,503,10
+42,Lerum,121,2,513,10
+43,Lerum,129,9,550,37
+44,Lerum,144,15,614,64
+45,Lerum,168,24,715,101
+46,Lerum,195,27,830,115
+47,Lerum,221,26,942,112
+48,Lerum,256,35,1089,147
+40,Lessebo,147,5,128,4
+41,Lessebo,151,5,132,4
+42,Lessebo,155,3,135,3
+43,Lessebo,158,3,138,3
+44,Lessebo,167,9,146,8
+45,Lessebo,177,10,155,9
+46,Lessebo,192,15,168,13
+47,Lessebo,215,23,188,20
+48,Lessebo,228,13,199,11
+40,Lidingö,107,5,516,26
+41,Lidingö,118,11,570,54
+42,Lidingö,132,13,634,64
+43,Lidingö,155,23,744,110
+44,Lidingö,182,27,876,132
+45,Lidingö,220,38,1061,185
+46,Lidingö,272,51,1308,247
+47,Lidingö,324,52,1557,249
+48,Lidingö,378,54,1818,261
+40,Lidköping,107,2,427,8
+41,Lidköping,108,1,433,6
+42,Lidköping,108,0,434,1
+43,Lidköping,110,2,441,7
+44,Lidköping,115,5,461,20
+45,Lidköping,127,12,508,47
+46,Lidköping,146,20,587,79
+47,Lidköping,163,17,654,67
+48,Lidköping,171,8,686,32
+40,Lilla Edet,81,1,114,1
+41,Lilla Edet,83,2,117,3
+42,Lilla Edet,84,1,118,1
+43,Lilla Edet,85,1,120,2
+44,Lilla Edet,88,3,124,4
+45,Lilla Edet,100,12,141,17
+46,Lilla Edet,118,18,166,25
+47,Lilla Edet,138,20,194,28
+48,Lilla Edet,161,23,227,33
+40,Lindesberg,72,3,169,6
+41,Lindesberg,76,5,180,11
+42,Lindesberg,78,1,183,3
+43,Lindesberg,85,7,200,17
+44,Lindesberg,109,24,257,57
+45,Lindesberg,134,25,317,60
+46,Lindesberg,162,28,383,66
+47,Lindesberg,201,39,475,92
+48,Lindesberg,225,23,530,55
+40,Linköping,96,5,1572,75
+41,Linköping,101,5,1646,74
+42,Linköping,112,11,1827,181
+43,Linköping,127,15,2066,239
+44,Linköping,157,31,2567,501
+45,Linköping,187,29,3048,481
+46,Linköping,204,17,3327,279
+47,Linköping,218,14,3553,226
+48,Linköping,235,17,3834,281
+40,Ljungby,89,10,254,29
+41,Ljungby,101,12,287,33
+42,Ljungby,113,12,321,34
+43,Ljungby,143,31,408,87
+44,Ljungby,163,20,464,56
+45,Ljungby,191,28,544,80
+46,Ljungby,207,16,591,47
+47,Ljungby,227,20,648,57
+48,Ljungby,251,23,715,67
+40,Ljusdal,74,2,140,4
+41,Ljusdal,77,3,145,5
+42,Ljusdal,78,2,148,3
+43,Ljusdal,78,0,148,0
+44,Ljusdal,81,3,153,5
+45,Ljusdal,90,9,170,17
+46,Ljusdal,99,9,187,17
+47,Ljusdal,123,24,233,46
+48,Ljusdal,150,27,285,52
+40,Ljusnarsberg,,,<15,<15
+41,Ljusnarsberg,,,<15,<15
+42,Ljusnarsberg,,,<15,<15
+43,Ljusnarsberg,,,<15,<15
+44,Ljusnarsberg,,,<15,<15
+45,Ljusnarsberg,50,21,24,10
+46,Ljusnarsberg,73,23,35,11
+47,Ljusnarsberg,78,4,37,2
+48,Ljusnarsberg,90,13,43,6
+40,Lomma,27,1,67,2
+41,Lomma,29,2,72,5
+42,Lomma,33,4,82,10
+43,Lomma,37,4,92,10
+44,Lomma,48,11,120,28
+45,Lomma,64,16,160,40
+46,Lomma,98,34,244,84
+47,Lomma,121,23,301,57
+48,Lomma,142,21,353,52
+40,Ludvika,57,2,152,6
+41,Ludvika,57,1,154,2
+42,Ludvika,57,0,154,0
+43,Ludvika,58,1,157,3
+44,Ludvika,66,8,178,21
+45,Ludvika,78,12,210,32
+46,Ludvika,93,15,251,41
+47,Ludvika,111,17,298,47
+48,Ludvika,138,28,372,74
+40,Luleå,40,3,309,26
+41,Luleå,45,5,349,40
+42,Luleå,50,5,388,39
+43,Luleå,56,7,439,51
+44,Luleå,66,10,517,78
+45,Luleå,92,26,721,204
+46,Luleå,123,31,961,240
+47,Luleå,153,30,1194,233
+48,Luleå,193,40,1508,314
+40,Lund,41,3,511,35
+41,Lund,43,2,532,21
+42,Lund,46,3,570,38
+43,Lund,51,5,636,66
+44,Lund,62,11,775,139
+45,Lund,76,14,949,174
+46,Lund,98,22,1230,281
+47,Lund,116,18,1453,223
+48,Lund,143,27,1788,335
+40,Lycksele,16,1,19,1
+41,Lycksele,16,1,20,1
+42,Lycksele,16,0,20,0
+43,Lycksele,16,0,20,0
+44,Lycksele,17,1,21,1
+45,Lycksele,82,65,100,79
+46,Lycksele,140,58,171,71
+47,Lycksele,176,36,215,44
+48,Lycksele,197,21,241,26
+40,Lysekil,79,1,115,1
+41,Lysekil,80,1,116,1
+42,Lysekil,82,2,119,3
+43,Lysekil,84,2,122,3
+44,Lysekil,89,5,129,7
+45,Lysekil,96,8,140,11
+46,Lysekil,102,6,149,9
+47,Lysekil,119,16,173,24
+48,Lysekil,137,19,200,27
+40,Malmö Centrum,58,5,323,28
+41,Malmö Centrum,63,6,355,32
+42,Malmö Centrum,71,8,399,44
+43,Malmö Centrum,81,10,453,54
+44,Malmö Centrum,102,21,570,117
+45,Malmö Centrum,124,23,696,126
+46,Malmö Centrum,157,32,876,180
+47,Malmö Centrum,188,32,1054,178
+48,Malmö Centrum,232,44,1298,244
+40,Malmö Fosie,77,5,360,21
+41,Malmö Fosie,81,3,375,15
+42,Malmö Fosie,87,6,403,28
+43,Malmö Fosie,96,10,448,45
+44,Malmö Fosie,117,20,543,95
+45,Malmö Fosie,135,19,630,87
+46,Malmö Fosie,171,36,798,168
+47,Malmö Fosie,210,39,978,180
+48,Malmö Fosie,268,58,1247,269
+40,Malmö Husie,57,1,135,3
+41,Malmö Husie,60,3,141,6
+42,Malmö Husie,66,6,156,15
+43,Malmö Husie,77,11,182,26
+44,Malmö Husie,94,17,221,39
+45,Malmö Husie,110,17,260,39
+46,Malmö Husie,153,42,359,99
+47,Malmö Husie,192,40,452,93
+48,Malmö Husie,250,58,588,136
+40,Malmö Hyllie,53,4,207,15
+41,Malmö Hyllie,60,7,234,27
+42,Malmö Hyllie,69,8,267,33
+43,Malmö Hyllie,80,12,312,45
+44,Malmö Hyllie,101,21,393,81
+45,Malmö Hyllie,121,20,470,77
+46,Malmö Hyllie,152,31,591,121
+47,Malmö Hyllie,185,32,717,126
+48,Malmö Hyllie,241,56,936,219
+40,Malmö Kirseberg,52,3,84,5
+41,Malmö Kirseberg,56,4,91,7
+42,Malmö Kirseberg,61,5,99,8
+43,Malmö Kirseberg,77,16,125,26
+44,Malmö Kirseberg,91,14,147,22
+45,Malmö Kirseberg,111,20,180,33
+46,Malmö Kirseberg,138,27,224,44
+47,Malmö Kirseberg,167,30,272,48
+48,Malmö Kirseberg,220,52,357,85
+40,Malmö Limhamn-Bunkeflo,41,2,216,8
+41,Malmö Limhamn-Bunkeflo,43,2,225,9
+42,Malmö Limhamn-Bunkeflo,46,3,243,18
+43,Malmö Limhamn-Bunkeflo,58,11,303,60
+44,Malmö Limhamn-Bunkeflo,76,19,403,100
+45,Malmö Limhamn-Bunkeflo,100,24,529,126
+46,Malmö Limhamn-Bunkeflo,139,39,733,204
+47,Malmö Limhamn-Bunkeflo,178,39,936,203
+48,Malmö Limhamn-Bunkeflo,222,44,1167,231
+40,Malmö Oxie,42,6,58,8
+41,Malmö Oxie,44,1,60,2
+42,Malmö Oxie,47,3,64,4
+43,Malmö Oxie,58,12,80,16
+44,Malmö Oxie,78,20,107,27
+45,Malmö Oxie,104,26,143,36
+46,Malmö Oxie,140,36,192,49
+47,Malmö Oxie,183,43,251,59
+48,Malmö Oxie,249,66,341,90
+40,Malmö Rosengård,87,6,203,14
+41,Malmö Rosengård,93,6,217,14
+42,Malmö Rosengård,98,5,229,12
+43,Malmö Rosengård,110,12,258,29
+44,Malmö Rosengård,125,15,293,35
+45,Malmö Rosengård,146,20,340,47
+46,Malmö Rosengård,190,44,443,103
+47,Malmö Rosengård,230,41,538,95
+48,Malmö Rosengård,289,59,675,137
+40,Malmö Södra Innerstaden,61,1,222,5
+41,Malmö Södra Innerstaden,64,4,235,13
+42,Malmö Södra Innerstaden,71,7,261,26
+43,Malmö Södra Innerstaden,86,15,315,54
+44,Malmö Södra Innerstaden,106,20,389,74
+45,Malmö Södra Innerstaden,128,22,468,79
+46,Malmö Södra Innerstaden,163,35,598,130
+47,Malmö Södra Innerstaden,193,30,707,109
+48,Malmö Södra Innerstaden,235,42,860,153
+40,Malmö Västra Innerstaden,52,3,184,11
+41,Malmö Västra Innerstaden,54,3,193,9
+42,Malmö Västra Innerstaden,62,8,221,28
+43,Malmö Västra Innerstaden,76,14,270,49
+44,Malmö Västra Innerstaden,91,15,323,53
+45,Malmö Västra Innerstaden,115,24,407,84
+46,Malmö Västra Innerstaden,148,33,525,118
+47,Malmö Västra Innerstaden,178,31,634,109
+48,Malmö Västra Innerstaden,213,35,757,123
+40,Malung,33,1,33,1
+41,Malung,38,6,39,6
+42,Malung,58,20,59,20
+43,Malung,77,19,78,19
+44,Malung,87,10,88,10
+45,Malung,106,19,107,19
+46,Malung,142,36,144,37
+47,Malung,178,36,180,36
+48,Malung,241,63,244,64
+40,Malå,,,<15,<15
+41,Malå,,,<15,<15
+42,Malå,,,<15,<15
+43,Malå,,,<15,<15
+44,Malå,,,<15,<15
+45,Malå,,,<15,<15
+46,Malå,62,16,19,5
+47,Malå,65,3,20,1
+48,Malå,72,7,22,2
+40,Mariestad,88,2,216,6
+41,Mariestad,90,2,221,5
+42,Mariestad,91,1,223,2
+43,Mariestad,92,1,225,2
+44,Mariestad,97,5,237,12
+45,Mariestad,103,6,252,15
+46,Mariestad,112,10,276,24
+47,Mariestad,123,11,303,27
+48,Mariestad,139,15,341,38
+40,Mark,120,2,418,7
+41,Mark,126,6,438,20
+42,Mark,129,3,448,10
+43,Mark,137,8,477,29
+44,Mark,160,23,556,79
+45,Mark,189,29,657,101
+46,Mark,207,18,718,61
+47,Mark,222,15,770,52
+48,Mark,238,16,826,56
+40,Markaryd,113,4,117,4
+41,Markaryd,113,0,117,0
+42,Markaryd,113,0,117,0
+43,Markaryd,121,8,125,8
+44,Markaryd,137,16,141,16
+45,Markaryd,148,12,153,12
+46,Markaryd,158,10,163,10
+47,Markaryd,167,9,172,9
+48,Markaryd,182,16,188,16
+40,Mellerud,34,0,32,0
+41,Mellerud,34,0,32,0
+42,Mellerud,38,3,35,3
+43,Mellerud,55,17,51,16
+44,Mellerud,66,11,61,10
+45,Mellerud,76,11,71,10
+46,Mellerud,81,4,75,4
+47,Mellerud,101,20,94,19
+48,Mellerud,122,21,114,20
+40,Mjölby,94,1,262,3
+41,Mjölby,95,1,264,2
+42,Mjölby,108,13,299,35
+43,Mjölby,120,12,333,34
+44,Mjölby,155,35,430,97
+45,Mjölby,186,31,517,87
+46,Mjölby,214,27,593,76
+47,Mjölby,223,10,620,27
+48,Mjölby,235,12,652,32
+40,Mora,108,16,221,33
+41,Mora,111,3,227,6
+42,Mora,114,3,234,7
+43,Mora,117,3,240,6
+44,Mora,121,4,248,8
+45,Mora,130,9,266,18
+46,Mora,153,23,314,48
+47,Mora,177,24,363,49
+48,Mora,206,29,422,59
+40,Motala,77,2,338,10
+41,Motala,79,1,343,5
+42,Motala,81,2,353,10
+43,Motala,90,9,391,38
+44,Motala,105,15,457,66
+45,Motala,124,20,543,86
+46,Motala,148,24,646,103
+47,Motala,169,21,737,91
+48,Motala,188,20,823,86
+40,Mullsjö,86,0,63,0
+41,Mullsjö,88,1,64,1
+42,Mullsjö,89,1,65,1
+43,Mullsjö,91,1,66,1
+44,Mullsjö,93,3,68,2
+45,Mullsjö,117,23,85,17
+46,Mullsjö,137,21,100,15
+47,Mullsjö,159,22,116,16
+48,Mullsjö,171,12,125,9
+40,Munkedal,65,0,68,0
+41,Munkedal,67,2,70,2
+42,Munkedal,68,1,71,1
+43,Munkedal,75,8,79,8
+44,Munkedal,81,6,85,6
+45,Munkedal,91,10,96,11
+46,Munkedal,98,7,103,7
+47,Munkedal,123,25,129,26
+48,Munkedal,135,12,142,13
+40,Munkfors,219,0,82,0
+41,Munkfors,219,0,82,0
+42,Munkfors,219,0,82,0
+43,Munkfors,219,0,82,0
+44,Munkfors,219,0,82,0
+45,Munkfors,222,3,83,1
+46,Munkfors,233,11,87,4
+47,Munkfors,238,5,89,2
+48,Munkfors,243,5,91,2
+40,Mölndal,112,1,776,10
+41,Mölndal,115,3,796,20
+42,Mölndal,118,3,820,24
+43,Mölndal,127,9,879,59
+44,Mölndal,148,21,1026,147
+45,Mölndal,175,27,1214,188
+46,Mölndal,206,31,1426,212
+47,Mölndal,234,28,1620,194
+48,Mölndal,256,22,1775,155
+40,Mönsterås,41,1,55,2
+41,Mönsterås,41,0,55,0
+42,Mönsterås,42,1,57,2
+43,Mönsterås,44,1,59,2
+44,Mönsterås,49,5,66,7
+45,Mönsterås,58,9,78,12
+46,Mönsterås,83,25,111,33
+47,Mönsterås,98,16,132,21
+48,Mönsterås,118,19,158,26
+40,Mörbylånga,30,0,46,0
+41,Mörbylånga,30,0,46,0
+42,Mörbylånga,32,2,49,3
+43,Mörbylånga,39,7,59,10
+44,Mörbylånga,53,14,81,22
+45,Mörbylånga,70,17,107,26
+46,Mörbylånga,90,20,138,31
+47,Mörbylånga,106,16,162,24
+48,Mörbylånga,127,20,193,31
+40,Nacka,108,6,1136,60
+41,Nacka,113,5,1193,57
+42,Nacka,119,6,1254,61
+43,Nacka,133,14,1404,150
+44,Nacka,162,28,1699,295
+45,Nacka,199,38,2096,397
+46,Nacka,241,42,2540,444
+47,Nacka,287,46,3024,484
+48,Nacka,335,48,3524,500
+40,Nora,34,1,37,1
+41,Nora,35,1,38,1
+42,Nora,36,1,39,1
+43,Nora,38,2,41,2
+44,Nora,48,9,51,10
+45,Nora,65,18,70,19
+46,Nora,91,26,98,28
+47,Nora,115,23,123,25
+48,Nora,125,10,134,11
+40,Norberg,47,0,27,0
+41,Norberg,49,2,28,1
+42,Norberg,53,4,30,2
+43,Norberg,56,4,32,2
+44,Norberg,65,9,37,5
+45,Norberg,81,16,46,9
+46,Norberg,111,30,63,17
+47,Norberg,169,58,96,33
+48,Norberg,223,54,127,31
+40,Nordanstig,81,0,77,0
+41,Nordanstig,82,1,78,1
+42,Nordanstig,82,0,78,0
+43,Nordanstig,83,1,79,1
+44,Nordanstig,84,1,80,1
+45,Nordanstig,92,7,87,7
+46,Nordanstig,107,15,101,14
+47,Nordanstig,136,30,129,28
+48,Nordanstig,154,18,146,17
+40,Nordmaling,28,0,20,0
+41,Nordmaling,28,0,20,0
+42,Nordmaling,28,0,20,0
+43,Nordmaling,32,4,23,3
+44,Nordmaling,35,3,25,2
+45,Nordmaling,48,13,34,9
+46,Nordmaling,56,8,40,6
+47,Nordmaling,80,24,57,17
+48,Nordmaling,84,4,60,3
+40,Norrköping,93,3,1333,36
+41,Norrköping,95,2,1363,30
+42,Norrköping,101,6,1447,84
+43,Norrköping,110,8,1568,121
+44,Norrköping,126,17,1805,237
+45,Norrköping,151,25,2163,358
+46,Norrköping,167,16,2395,232
+47,Norrköping,181,13,2586,191
+48,Norrköping,193,12,2760,174
+40,Norrtälje,51,3,321,20
+41,Norrtälje,55,4,347,26
+42,Norrtälje,66,10,412,65
+43,Norrtälje,78,12,487,75
+44,Norrtälje,93,15,584,97
+45,Norrtälje,112,19,701,117
+46,Norrtälje,134,23,842,141
+47,Norrtälje,165,31,1033,191
+48,Norrtälje,198,33,1237,204
+40,Norsjö,,,<15,<15
+41,Norsjö,,,<15,<15
+42,Norsjö,,,<15,<15
+43,Norsjö,,,<15,<15
+44,Norsjö,,,<15,<15
+45,Norsjö,40,8,16,3
+46,Norsjö,60,20,24,8
+47,Norsjö,75,15,30,6
+48,Norsjö,90,15,36,6
+40,Nybro,34,0,70,0
+41,Nybro,35,0,71,1
+42,Nybro,35,0,71,0
+43,Nybro,36,1,73,2
+44,Nybro,41,5,84,11
+45,Nybro,52,10,105,21
+46,Nybro,69,18,141,36
+47,Nybro,89,19,180,39
+48,Nybro,111,22,225,45
+40,Nykvarn,74,4,81,4
+41,Nykvarn,75,2,83,2
+42,Nykvarn,78,3,86,3
+43,Nykvarn,84,5,92,6
+44,Nykvarn,99,15,109,17
+45,Nykvarn,120,21,132,23
+46,Nykvarn,150,30,165,33
+47,Nykvarn,185,35,204,39
+48,Nykvarn,216,31,238,34
+40,Nyköping,75,1,427,5
+41,Nyköping,78,3,444,17
+42,Nyköping,83,4,469,25
+43,Nyköping,87,4,492,23
+44,Nyköping,95,8,535,43
+45,Nyköping,109,14,615,80
+46,Nyköping,133,24,753,138
+47,Nyköping,150,17,848,95
+48,Nyköping,165,15,931,83
+40,Nynäshamn,61,1,174,2
+41,Nynäshamn,63,2,181,7
+42,Nynäshamn,66,3,189,8
+43,Nynäshamn,73,7,209,20
+44,Nynäshamn,81,8,232,23
+45,Nynäshamn,98,16,279,47
+46,Nynäshamn,123,25,351,72
+47,Nynäshamn,159,36,453,102
+48,Nynäshamn,197,38,563,110
+40,Nässjö,141,2,445,6
+41,Nässjö,146,5,460,15
+42,Nässjö,152,6,479,19
+43,Nässjö,156,4,493,14
+44,Nässjö,173,17,546,53
+45,Nässjö,203,29,639,93
+46,Nässjö,229,27,723,84
+47,Nässjö,270,41,851,128
+48,Nässjö,311,41,981,130
+40,Ockelbo,120,0,71,0
+41,Ockelbo,122,2,72,1
+42,Ockelbo,124,2,73,1
+43,Ockelbo,127,3,75,2
+44,Ockelbo,142,15,84,9
+45,Ockelbo,157,15,93,9
+46,Ockelbo,174,17,103,10
+47,Ockelbo,195,20,115,12
+48,Ockelbo,234,39,138,23
+40,Okänd,,,1082,47
+41,Okänd,,,1144,62
+42,Okänd,,,1253,109
+43,Okänd,,,1415,162
+44,Okänd,,,1679,264
+45,Okänd,,,2038,359
+46,Okänd,,,2384,346
+47,Okänd,,,2753,369
+48,Okänd,,,3192,439
+40,Olofström,22,1,29,2
+41,Olofström,22,1,30,1
+42,Olofström,24,1,32,2
+43,Olofström,27,3,36,4
+44,Olofström,40,13,54,18
+45,Olofström,42,1,56,2
+46,Olofström,60,18,80,24
+47,Olofström,89,29,119,39
+48,Olofström,139,50,186,67
+40,Orsa,41,3,28,2
+41,Orsa,43,3,30,2
+42,Orsa,43,0,30,0
+43,Orsa,46,3,32,2
+44,Orsa,51,4,35,3
+45,Orsa,59,9,41,6
+46,Orsa,74,14,51,10
+47,Orsa,95,22,66,15
+48,Orsa,119,23,82,16
+40,Orust,44,2,67,3
+41,Orust,48,4,73,6
+42,Orust,52,4,79,6
+43,Orust,57,5,87,8
+44,Orust,60,3,91,4
+45,Orust,68,8,103,12
+46,Orust,80,12,121,18
+47,Orust,100,20,152,31
+48,Orust,112,12,170,18
+40,Osby,33,2,43,2
+41,Osby,35,2,46,3
+42,Osby,35,0,46,0
+43,Osby,38,3,50,4
+44,Osby,42,5,56,6
+45,Osby,57,14,75,19
+46,Osby,98,42,130,55
+47,Osby,139,40,183,53
+48,Osby,182,44,241,58
+40,Oskarshamn,33,0,89,1
+41,Oskarshamn,33,0,90,1
+42,Oskarshamn,34,1,92,2
+43,Oskarshamn,36,2,98,6
+44,Oskarshamn,40,4,108,10
+45,Oskarshamn,55,15,150,42
+46,Oskarshamn,86,31,234,84
+47,Oskarshamn,104,17,281,47
+48,Oskarshamn,126,22,341,60
+40,Ovanåker,98,0,114,0
+41,Ovanåker,98,0,114,0
+42,Ovanåker,99,1,115,1
+43,Ovanåker,99,0,115,0
+44,Ovanåker,99,0,115,0
+45,Ovanåker,109,10,127,12
+46,Ovanåker,176,67,205,78
+47,Ovanåker,227,51,265,60
+48,Ovanåker,272,45,318,53
+40,Oxelösund,69,0,83,0
+41,Oxelösund,70,1,84,1
+42,Oxelösund,73,3,87,3
+43,Oxelösund,73,0,87,0
+44,Oxelösund,78,6,94,7
+45,Oxelösund,86,8,103,9
+46,Oxelösund,97,11,116,13
+47,Oxelösund,111,14,133,17
+48,Oxelösund,126,15,151,18
+40,Pajala,66,2,40,1
+41,Pajala,69,3,42,2
+42,Pajala,73,3,44,2
+43,Pajala,74,2,45,1
+44,Pajala,76,2,46,1
+45,Pajala,78,2,47,1
+46,Pajala,83,5,50,3
+47,Pajala,89,7,54,4
+48,Pajala,99,10,60,6
+40,Partille,138,4,541,16
+41,Partille,141,3,554,13
+42,Partille,150,9,591,37
+43,Partille,162,11,635,44
+44,Partille,189,28,744,109
+45,Partille,220,31,866,122
+46,Partille,248,28,975,109
+47,Partille,272,23,1067,92
+48,Partille,303,31,1190,123
+40,Perstorp,40,0,30,0
+41,Perstorp,40,0,30,0
+42,Perstorp,40,0,30,0
+43,Perstorp,47,7,35,5
+44,Perstorp,67,20,50,15
+45,Perstorp,84,17,63,13
+46,Perstorp,113,29,85,22
+47,Perstorp,128,15,96,11
+48,Perstorp,148,20,111,15
+40,Piteå,40,2,171,9
+41,Piteå,43,3,182,11
+42,Piteå,47,4,199,17
+43,Piteå,53,6,224,25
+44,Piteå,67,14,282,58
+45,Piteå,100,33,423,141
+46,Piteå,132,32,558,135
+47,Piteå,167,35,706,148
+48,Piteå,212,45,896,190
+40,Ragunda,44,0,23,0
+41,Ragunda,45,2,24,1
+42,Ragunda,51,6,27,3
+43,Ragunda,59,8,31,4
+44,Ragunda,61,2,32,1
+45,Ragunda,74,13,39,7
+46,Ragunda,83,9,44,5
+47,Ragunda,97,13,51,7
+48,Ragunda,108,11,57,6
+40,Robertsfors,53,0,36,0
+41,Robertsfors,56,3,38,2
+42,Robertsfors,58,1,39,1
+43,Robertsfors,61,3,41,2
+44,Robertsfors,61,0,41,0
+45,Robertsfors,65,4,44,3
+46,Robertsfors,74,9,50,6
+47,Robertsfors,92,18,62,12
+48,Robertsfors,108,16,73,11
+40,Ronneby,32,4,96,13
+41,Ronneby,39,7,117,21
+42,Ronneby,43,4,128,11
+43,Ronneby,49,6,145,17
+44,Ronneby,55,6,164,19
+45,Ronneby,65,10,193,29
+46,Ronneby,75,10,222,29
+47,Ronneby,89,14,263,41
+48,Ronneby,108,19,320,57
+40,Rättvik,58,5,64,5
+41,Rättvik,70,12,77,13
+42,Rättvik,87,16,95,18
+43,Rättvik,108,21,118,23
+44,Rättvik,121,14,133,15
+45,Rättvik,132,10,144,11
+46,Rättvik,151,19,165,21
+47,Rättvik,164,14,180,15
+48,Rättvik,185,21,203,23
+40,Sala,120,2,275,5
+41,Sala,126,6,289,14
+42,Sala,131,4,299,10
+43,Sala,135,5,310,11
+44,Sala,150,15,344,34
+45,Sala,176,26,404,60
+46,Sala,211,35,483,79
+47,Sala,242,31,555,72
+48,Sala,280,37,640,85
+40,Salem,112,5,188,8
+41,Salem,117,5,196,8
+42,Salem,122,5,205,9
+43,Salem,128,5,214,9
+44,Salem,150,23,252,38
+45,Salem,186,36,312,60
+46,Salem,222,36,372,60
+47,Salem,278,56,465,93
+48,Salem,331,53,554,89
+40,Sandviken,137,2,537,7
+41,Sandviken,139,2,546,9
+42,Sandviken,143,4,562,16
+43,Sandviken,148,5,582,20
+44,Sandviken,168,19,658,76
+45,Sandviken,188,20,737,79
+46,Sandviken,209,21,819,82
+47,Sandviken,237,28,929,110
+48,Sandviken,267,30,1047,118
+40,Sigtuna,93,2,454,9
+41,Sigtuna,97,4,474,20
+42,Sigtuna,100,3,489,15
+43,Sigtuna,105,5,515,26
+44,Sigtuna,118,13,579,64
+45,Sigtuna,134,16,655,76
+46,Sigtuna,158,24,774,119
+47,Sigtuna,181,23,886,112
+48,Sigtuna,218,37,1066,180
+40,Simrishamn,14,1,26,1
+41,Simrishamn,14,0,26,0
+42,Simrishamn,14,1,27,1
+43,Simrishamn,22,8,43,16
+44,Simrishamn,49,26,93,50
+45,Simrishamn,59,11,114,21
+46,Simrishamn,77,17,147,33
+47,Simrishamn,90,14,173,26
+48,Simrishamn,112,22,215,42
+40,Sjöbo,18,2,35,4
+41,Sjöbo,19,1,37,2
+42,Sjöbo,21,2,40,3
+43,Sjöbo,23,2,44,4
+44,Sjöbo,29,6,56,12
+45,Sjöbo,39,10,75,19
+46,Sjöbo,49,10,95,20
+47,Sjöbo,59,9,113,18
+48,Sjöbo,74,15,142,29
+40,Skara,111,4,210,7
+41,Skara,116,4,218,8
+42,Skara,121,5,228,10
+43,Skara,124,3,234,6
+44,Skara,135,11,254,20
+45,Skara,160,25,301,47
+46,Skara,180,21,340,39
+47,Skara,202,22,381,41
+48,Skara,216,13,406,25
+40,Skellefteå,38,0,274,1
+41,Skellefteå,38,0,277,3
+42,Skellefteå,39,1,281,4
+43,Skellefteå,40,1,289,8
+44,Skellefteå,50,10,365,76
+45,Skellefteå,73,22,527,162
+46,Skellefteå,100,28,727,200
+47,Skellefteå,152,52,1103,376
+48,Skellefteå,222,70,1610,507
+40,Skinnskatteberg,43,2,19,1
+41,Skinnskatteberg,46,2,20,1
+42,Skinnskatteberg,46,0,20,0
+43,Skinnskatteberg,48,2,21,1
+44,Skinnskatteberg,50,2,22,1
+45,Skinnskatteberg,59,9,26,4
+46,Skinnskatteberg,82,23,36,10
+47,Skinnskatteberg,96,14,42,6
+48,Skinnskatteberg,134,39,59,17
+40,Skurup,41,1,65,2
+41,Skurup,43,3,69,4
+42,Skurup,46,3,73,4
+43,Skurup,60,14,96,23
+44,Skurup,74,14,118,22
+45,Skurup,87,13,138,20
+46,Skurup,111,24,176,38
+47,Skurup,143,33,228,52
+48,Skurup,180,37,286,58
+40,Skövde,122,2,688,13
+41,Skövde,123,1,695,7
+42,Skövde,125,1,702,7
+43,Skövde,133,8,749,47
+44,Skövde,150,17,844,95
+45,Skövde,173,23,975,131
+46,Skövde,197,24,1110,135
+47,Skövde,230,33,1295,185
+48,Skövde,265,35,1493,198
+40,Smedjebacken,72,3,78,3
+41,Smedjebacken,73,1,79,1
+42,Smedjebacken,73,0,79,0
+43,Smedjebacken,73,0,79,0
+44,Smedjebacken,81,8,88,9
+45,Smedjebacken,103,22,112,24
+46,Smedjebacken,122,19,133,21
+47,Smedjebacken,138,16,150,17
+48,Smedjebacken,147,9,160,10
+40,Sollefteå,61,1,116,2
+41,Sollefteå,61,1,117,1
+42,Sollefteå,61,0,117,0
+43,Sollefteå,62,1,119,2
+44,Sollefteå,64,2,123,4
+45,Sollefteå,71,6,135,12
+46,Sollefteå,82,11,157,22
+47,Sollefteå,98,16,187,30
+48,Sollefteå,109,11,208,21
+40,Sollentuna,98,4,721,28
+41,Sollentuna,102,4,750,29
+42,Sollentuna,108,6,797,47
+43,Sollentuna,117,9,862,65
+44,Sollentuna,137,20,1009,147
+45,Sollentuna,167,30,1230,221
+46,Sollentuna,204,38,1509,279
+47,Sollentuna,239,34,1762,253
+48,Sollentuna,284,46,2101,339
+40,Solna,111,5,915,38
+41,Solna,117,6,963,48
+42,Solna,123,6,1013,50
+43,Solna,135,12,1109,96
+44,Solna,159,25,1312,203
+45,Solna,187,28,1542,230
+46,Solna,223,36,1841,299
+47,Solna,262,38,2156,315
+48,Solna,310,48,2554,398
+40,Sorsele,,,<15,<15
+41,Sorsele,,,<15,<15
+42,Sorsele,,,<15,<15
+43,Sorsele,,,<15,<15
+44,Sorsele,,,<15,<15
+45,Sorsele,,,<15,<15
+46,Sorsele,68,20,17,5
+47,Sorsele,72,4,18,1
+48,Sorsele,72,0,18,0
+40,Sotenäs,150,6,136,5
+41,Sotenäs,150,0,136,0
+42,Sotenäs,150,0,136,0
+43,Sotenäs,153,3,139,3
+44,Sotenäs,161,8,146,7
+45,Sotenäs,173,12,157,11
+46,Sotenäs,194,21,176,19
+47,Sotenäs,220,25,199,23
+48,Sotenäs,236,17,214,15
+40,Staffanstorp,36,4,92,10
+41,Staffanstorp,40,4,102,10
+42,Staffanstorp,43,3,110,8
+43,Staffanstorp,50,7,128,18
+44,Staffanstorp,60,9,152,24
+45,Staffanstorp,72,13,184,32
+46,Staffanstorp,88,16,224,40
+47,Staffanstorp,112,24,285,61
+48,Staffanstorp,142,30,361,76
+40,Stenungsund,69,1,185,2
+41,Stenungsund,72,3,193,8
+42,Stenungsund,73,1,196,3
+43,Stenungsund,77,4,206,10
+44,Stenungsund,91,15,245,39
+45,Stenungsund,123,32,330,85
+46,Stenungsund,148,25,396,66
+47,Stenungsund,173,25,464,68
+48,Stenungsund,193,19,516,52
+40,Stockholm Bromma,104,5,837,43
+41,Stockholm Bromma,110,7,890,53
+42,Stockholm Bromma,116,6,937,47
+43,Stockholm Bromma,128,12,1035,98
+44,Stockholm Bromma,155,26,1248,213
+45,Stockholm Bromma,192,37,1548,300
+46,Stockholm Bromma,243,51,1961,413
+47,Stockholm Bromma,281,38,2265,304
+48,Stockholm Bromma,328,48,2651,386
+40,Stockholm Enskede-Årsta-Vantör,126,5,1295,55
+41,Stockholm Enskede-Årsta-Vantör,132,6,1358,63
+42,Stockholm Enskede-Årsta-Vantör,137,4,1404,46
+43,Stockholm Enskede-Årsta-Vantör,148,12,1523,119
+44,Stockholm Enskede-Årsta-Vantör,170,22,1746,223
+45,Stockholm Enskede-Årsta-Vantör,207,37,2126,380
+46,Stockholm Enskede-Årsta-Vantör,246,39,2528,402
+47,Stockholm Enskede-Årsta-Vantör,283,38,2915,387
+48,Stockholm Enskede-Årsta-Vantör,333,49,3422,507
+40,Stockholm Farsta,127,5,756,27
+41,Stockholm Farsta,133,6,789,33
+42,Stockholm Farsta,138,6,823,34
+43,Stockholm Farsta,149,11,887,64
+44,Stockholm Farsta,172,23,1026,139
+45,Stockholm Farsta,208,36,1240,214
+46,Stockholm Farsta,254,46,1514,274
+47,Stockholm Farsta,304,49,1808,294
+48,Stockholm Farsta,350,46,2082,274
+40,Stockholm Hägersten-Liljeholmen,107,9,983,78
+41,Stockholm Hägersten-Liljeholmen,117,9,1070,87
+42,Stockholm Hägersten-Liljeholmen,124,7,1134,64
+43,Stockholm Hägersten-Liljeholmen,139,15,1271,137
+44,Stockholm Hägersten-Liljeholmen,168,29,1537,266
+45,Stockholm Hägersten-Liljeholmen,202,34,1853,316
+46,Stockholm Hägersten-Liljeholmen,242,40,2220,367
+47,Stockholm Hägersten-Liljeholmen,280,38,2566,346
+48,Stockholm Hägersten-Liljeholmen,326,46,2990,424
+40,Stockholm Hässelby-Vällingby,104,4,798,33
+41,Stockholm Hässelby-Vällingby,110,6,845,47
+42,Stockholm Hässelby-Vällingby,116,5,886,41
+43,Stockholm Hässelby-Vällingby,126,10,962,76
+44,Stockholm Hässelby-Vällingby,139,14,1068,106
+45,Stockholm Hässelby-Vällingby,161,21,1230,162
+46,Stockholm Hässelby-Vällingby,195,35,1497,267
+47,Stockholm Hässelby-Vällingby,229,33,1751,254
+48,Stockholm Hässelby-Vällingby,273,44,2091,340
+40,Stockholm Kungsholmen,118,7,838,52
+41,Stockholm Kungsholmen,129,11,916,78
+42,Stockholm Kungsholmen,138,10,985,69
+43,Stockholm Kungsholmen,155,17,1108,123
+44,Stockholm Kungsholmen,190,35,1354,246
+45,Stockholm Kungsholmen,233,43,1662,308
+46,Stockholm Kungsholmen,284,51,2025,363
+47,Stockholm Kungsholmen,324,40,2310,285
+48,Stockholm Kungsholmen,368,44,2622,312
+40,Stockholm Norrmalm,135,9,993,69
+41,Stockholm Norrmalm,147,12,1081,88
+42,Stockholm Norrmalm,161,13,1178,97
+43,Stockholm Norrmalm,182,21,1334,156
+44,Stockholm Norrmalm,218,36,1595,261
+45,Stockholm Norrmalm,273,55,2001,406
+46,Stockholm Norrmalm,330,57,2417,416
+47,Stockholm Norrmalm,368,39,2700,283
+48,Stockholm Norrmalm,415,47,3044,344
+40,Stockholm Rinkeby-Kista,147,2,753,9
+41,Stockholm Rinkeby-Kista,150,3,766,13
+42,Stockholm Rinkeby-Kista,151,2,776,10
+43,Stockholm Rinkeby-Kista,157,6,805,29
+44,Stockholm Rinkeby-Kista,170,13,870,65
+45,Stockholm Rinkeby-Kista,184,14,941,71
+46,Stockholm Rinkeby-Kista,208,24,1065,124
+47,Stockholm Rinkeby-Kista,242,35,1242,177
+48,Stockholm Rinkeby-Kista,279,36,1427,185
+40,Stockholm Skarpnäck,121,6,561,29
+41,Stockholm Skarpnäck,127,6,588,27
+42,Stockholm Skarpnäck,135,8,625,37
+43,Stockholm Skarpnäck,152,17,705,80
+44,Stockholm Skarpnäck,175,23,814,109
+45,Stockholm Skarpnäck,208,33,968,154
+46,Stockholm Skarpnäck,247,39,1149,181
+47,Stockholm Skarpnäck,280,32,1299,150
+48,Stockholm Skarpnäck,331,51,1537,238
+40,Stockholm Skärholmen,152,3,576,10
+41,Stockholm Skärholmen,158,5,596,20
+42,Stockholm Skärholmen,164,6,620,24
+43,Stockholm Skärholmen,174,10,657,37
+44,Stockholm Skärholmen,190,17,720,63
+45,Stockholm Skärholmen,215,24,812,92
+46,Stockholm Skärholmen,243,29,920,108
+47,Stockholm Skärholmen,283,39,1069,149
+48,Stockholm Skärholmen,340,57,1284,215
+40,Stockholm Spånga-Tensta,125,3,488,11
+41,Stockholm Spånga-Tensta,128,2,497,9
+42,Stockholm Spånga-Tensta,132,4,512,15
+43,Stockholm Spånga-Tensta,138,6,537,25
+44,Stockholm Spånga-Tensta,148,11,578,41
+45,Stockholm Spånga-Tensta,171,22,664,86
+46,Stockholm Spånga-Tensta,206,35,800,136
+47,Stockholm Spånga-Tensta,241,36,940,140
+48,Stockholm Spånga-Tensta,281,40,1095,155
+40,Stockholm Södermalm,117,9,1535,113
+41,Stockholm Södermalm,126,8,1646,111
+42,Stockholm Södermalm,136,11,1784,138
+43,Stockholm Södermalm,154,18,2016,232
+44,Stockholm Södermalm,187,33,2447,431
+45,Stockholm Södermalm,229,42,3002,555
+46,Stockholm Södermalm,278,49,3640,638
+47,Stockholm Södermalm,318,40,4165,525
+48,Stockholm Södermalm,363,45,4754,589
+40,Stockholm Älvsjö,118,3,373,10
+41,Stockholm Älvsjö,126,7,396,23
+42,Stockholm Älvsjö,134,8,422,26
+43,Stockholm Älvsjö,146,12,459,37
+44,Stockholm Älvsjö,172,27,543,84
+45,Stockholm Älvsjö,207,35,653,110
+46,Stockholm Älvsjö,250,43,788,135
+47,Stockholm Älvsjö,286,36,902,114
+48,Stockholm Älvsjö,332,46,1046,144
+40,Stockholm Östermalm,114,10,897,76
+41,Stockholm Östermalm,125,10,977,80
+42,Stockholm Östermalm,136,11,1064,87
+43,Stockholm Östermalm,159,23,1244,180
+44,Stockholm Östermalm,200,41,1566,322
+45,Stockholm Östermalm,241,41,1887,321
+46,Stockholm Östermalm,290,49,2272,385
+47,Stockholm Östermalm,326,36,2557,285
+48,Stockholm Östermalm,373,46,2920,363
+40,Storfors,52,2,21,1
+41,Storfors,52,0,21,0
+42,Storfors,52,0,21,0
+43,Storfors,55,2,22,1
+44,Storfors,57,2,23,1
+45,Storfors,70,12,28,5
+46,Storfors,80,10,32,4
+47,Storfors,100,20,40,8
+48,Storfors,147,47,59,19
+40,Storuman,,,<15,<15
+41,Storuman,,,<15,<15
+42,Storuman,,,<15,<15
+43,Storuman,,,<15,<15
+44,Storuman,55,39,32,23
+45,Storuman,132,77,77,45
+46,Storuman,198,67,116,39
+47,Storuman,234,36,137,21
+48,Storuman,270,36,158,21
+40,Strängnäs,55,2,201,9
+41,Strängnäs,58,3,213,12
+42,Strängnäs,62,4,226,13
+43,Strängnäs,66,5,243,17
+44,Strängnäs,79,13,289,46
+45,Strängnäs,97,18,355,66
+46,Strängnäs,124,27,454,99
+47,Strängnäs,150,25,547,93
+48,Strängnäs,172,22,629,82
+40,Strömstad,82,5,108,7
+41,Strömstad,83,2,110,2
+42,Strömstad,86,3,114,4
+43,Strömstad,88,2,116,2
+44,Strömstad,95,7,125,9
+45,Strömstad,102,8,135,10
+46,Strömstad,113,11,150,15
+47,Strömstad,120,6,158,8
+48,Strömstad,127,8,168,10
+40,Strömsund,18,0,21,0
+41,Strömsund,19,1,22,1
+42,Strömsund,24,5,28,6
+43,Strömsund,25,1,29,1
+44,Strömsund,26,1,30,1
+45,Strömsund,29,3,34,4
+46,Strömsund,34,4,39,5
+47,Strömsund,55,22,64,25
+48,Strömsund,64,9,74,10
+40,Sundbyberg,114,6,595,30
+41,Sundbyberg,120,6,628,33
+42,Sundbyberg,127,7,664,36
+43,Sundbyberg,138,11,723,59
+44,Sundbyberg,162,24,851,128
+45,Sundbyberg,189,26,989,138
+46,Sundbyberg,228,40,1197,208
+47,Sundbyberg,267,39,1402,205
+48,Sundbyberg,316,48,1655,253
+40,Sundsvall,107,2,1069,16
+41,Sundsvall,109,2,1088,19
+42,Sundsvall,112,2,1110,22
+43,Sundsvall,115,3,1143,33
+44,Sundsvall,123,8,1226,83
+45,Sundsvall,145,22,1442,216
+46,Sundsvall,183,38,1817,375
+47,Sundsvall,240,57,2384,567
+48,Sundsvall,309,70,3076,692
+40,Sunne,30,1,40,1
+41,Sunne,32,2,42,2
+42,Sunne,33,2,44,2
+43,Sunne,38,5,50,6
+44,Sunne,43,5,57,7
+45,Sunne,61,18,81,24
+46,Sunne,79,18,105,24
+47,Sunne,91,12,121,16
+48,Sunne,97,6,129,8
+40,Surahammar,72,3,73,3
+41,Surahammar,75,3,76,3
+42,Surahammar,78,3,79,3
+43,Surahammar,79,1,80,1
+44,Surahammar,84,5,85,5
+45,Surahammar,104,20,105,20
+46,Surahammar,144,41,146,41
+47,Surahammar,193,48,195,49
+48,Surahammar,246,53,249,54
+40,Svalöv,21,1,30,2
+41,Svalöv,22,1,32,2
+42,Svalöv,27,4,38,6
+43,Svalöv,36,10,52,14
+44,Svalöv,48,12,69,17
+45,Svalöv,62,13,88,19
+46,Svalöv,88,26,125,37
+47,Svalöv,122,34,174,49
+48,Svalöv,157,35,224,50
+40,Svedala,29,5,65,11
+41,Svedala,32,3,71,6
+42,Svedala,36,4,79,8
+43,Svedala,45,9,100,21
+44,Svedala,58,13,130,30
+45,Svedala,77,19,172,42
+46,Svedala,101,24,225,53
+47,Svedala,132,31,294,69
+48,Svedala,169,36,375,81
+40,Svenljunga,83,4,90,4
+41,Svenljunga,86,3,93,3
+42,Svenljunga,89,3,96,3
+43,Svenljunga,92,3,99,3
+44,Svenljunga,103,11,111,12
+45,Svenljunga,119,16,128,17
+46,Svenljunga,142,23,153,25
+47,Svenljunga,188,46,203,50
+48,Svenljunga,212,24,229,26
+40,Säffle,18,0,28,0
+41,Säffle,20,2,31,3
+42,Säffle,24,4,37,6
+43,Säffle,28,5,44,7
+44,Säffle,31,3,48,4
+45,Säffle,38,6,58,10
+46,Säffle,51,14,79,21
+47,Säffle,68,17,105,26
+48,Säffle,80,12,124,19
+40,Säter,78,2,86,2
+41,Säter,82,5,91,5
+42,Säter,94,12,104,13
+43,Säter,110,16,122,18
+44,Säter,133,23,147,25
+45,Säter,161,29,179,32
+46,Säter,185,23,205,26
+47,Säter,195,10,216,11
+48,Säter,207,13,230,14
+40,Sävsjö,63,0,74,0
+41,Sävsjö,69,5,80,6
+42,Sävsjö,72,3,84,4
+43,Sävsjö,86,14,100,16
+44,Sävsjö,128,43,150,50
+45,Sävsjö,164,36,192,42
+46,Sävsjö,220,56,257,65
+47,Sävsjö,280,60,327,70
+48,Sävsjö,325,45,379,52
+40,Söderhamn,135,3,347,8
+41,Söderhamn,138,2,353,6
+42,Söderhamn,140,2,358,5
+43,Söderhamn,145,6,373,15
+44,Söderhamn,152,6,389,16
+45,Söderhamn,161,9,412,23
+46,Söderhamn,192,31,492,80
+47,Söderhamn,240,48,615,123
+48,Söderhamn,304,64,779,164
+40,Söderköping,74,1,108,2
+41,Söderköping,75,1,110,2
+42,Söderköping,78,3,114,4
+43,Söderköping,84,6,123,9
+44,Söderköping,92,8,134,11
+45,Söderköping,106,14,155,21
+46,Söderköping,114,8,167,12
+47,Söderköping,122,8,178,11
+48,Söderköping,129,8,189,11
+40,Södertälje,138,4,1367,44
+41,Södertälje,144,6,1428,61
+42,Södertälje,154,9,1521,93
+43,Södertälje,167,13,1651,130
+44,Södertälje,196,29,1939,288
+45,Södertälje,241,45,2384,445
+46,Södertälje,295,54,2916,532
+47,Södertälje,354,59,3502,586
+48,Södertälje,417,64,4132,630
+40,Sölvesborg,25,4,43,7
+41,Sölvesborg,32,7,56,13
+42,Sölvesborg,37,5,64,8
+43,Sölvesborg,45,9,79,15
+44,Sölvesborg,59,14,103,24
+45,Sölvesborg,79,19,137,34
+46,Sölvesborg,103,24,179,42
+47,Sölvesborg,120,17,209,30
+48,Sölvesborg,136,17,238,29
+40,Tanum,60,0,77,0
+41,Tanum,60,0,77,0
+42,Tanum,60,0,77,0
+43,Tanum,62,2,79,2
+44,Tanum,65,3,83,4
+45,Tanum,72,8,93,10
+46,Tanum,80,8,103,10
+47,Tanum,88,8,113,10
+48,Tanum,98,10,126,13
+40,Tibro,150,0,169,0
+41,Tibro,152,2,171,2
+42,Tibro,153,1,172,1
+43,Tibro,153,0,172,0
+44,Tibro,160,7,180,8
+45,Tibro,224,64,252,72
+46,Tibro,320,96,360,108
+47,Tibro,395,75,444,84
+48,Tibro,436,41,490,46
+40,Tidaholm,104,0,133,0
+41,Tidaholm,104,1,134,1
+42,Tidaholm,104,0,134,0
+43,Tidaholm,109,5,140,6
+44,Tidaholm,121,12,156,16
+45,Tidaholm,131,9,168,12
+46,Tidaholm,153,22,196,28
+47,Tidaholm,190,37,244,48
+48,Tidaholm,241,51,310,66
+40,Tierp,82,3,174,7
+41,Tierp,86,4,182,8
+42,Tierp,97,11,205,23
+43,Tierp,109,12,230,25
+44,Tierp,121,12,256,26
+45,Tierp,132,11,279,23
+46,Tierp,150,18,318,39
+47,Tierp,172,22,364,46
+48,Tierp,202,30,427,63
+40,Timrå,120,1,215,1
+41,Timrå,123,3,221,6
+42,Timrå,124,1,223,2
+43,Timrå,126,2,227,4
+44,Timrå,131,5,236,9
+45,Timrå,149,17,267,31
+46,Timrå,175,27,315,48
+47,Timrå,215,40,387,72
+48,Timrå,289,74,520,133
+40,Tingsryd,115,5,143,6
+41,Tingsryd,116,1,144,1
+42,Tingsryd,121,5,150,6
+43,Tingsryd,132,10,163,13
+44,Tingsryd,144,13,179,16
+45,Tingsryd,153,8,189,10
+46,Tingsryd,165,13,205,16
+47,Tingsryd,175,10,217,12
+48,Tingsryd,202,27,250,33
+40,Tjörn,57,1,92,1
+41,Tjörn,58,1,93,1
+42,Tjörn,60,2,96,3
+43,Tjörn,67,7,107,11
+44,Tjörn,81,14,129,22
+45,Tjörn,91,11,146,17
+46,Tjörn,101,10,162,16
+47,Tjörn,116,15,186,24
+48,Tjörn,127,11,203,17
+40,Tomelilla,16,1,22,2
+41,Tomelilla,17,1,23,1
+42,Tomelilla,18,1,24,1
+43,Tomelilla,24,6,32,8
+44,Tomelilla,32,9,44,12
+45,Tomelilla,53,21,72,28
+46,Tomelilla,93,40,127,55
+47,Tomelilla,118,25,161,34
+48,Tomelilla,149,31,203,42
+40,Torsby,40,0,46,0
+41,Torsby,40,0,46,0
+42,Torsby,40,0,46,0
+43,Torsby,41,2,48,2
+44,Torsby,43,2,50,2
+45,Torsby,50,7,58,8
+46,Torsby,67,17,78,20
+47,Torsby,84,17,98,20
+48,Torsby,89,4,103,5
+40,Torsås,51,1,36,1
+41,Torsås,51,0,36,0
+42,Torsås,56,6,40,4
+43,Torsås,59,3,42,2
+44,Torsås,63,4,45,3
+45,Torsås,72,8,51,6
+46,Torsås,74,3,53,2
+47,Torsås,83,8,59,6
+48,Torsås,111,28,79,20
+40,Tranemo,132,3,158,4
+41,Tranemo,133,1,159,1
+42,Tranemo,147,13,175,16
+43,Tranemo,155,8,185,10
+44,Tranemo,186,31,222,37
+45,Tranemo,219,33,261,39
+46,Tranemo,239,20,285,24
+47,Tranemo,265,26,316,31
+48,Tranemo,304,39,363,47
+40,Tranås,73,1,138,1
+41,Tranås,74,1,140,2
+42,Tranås,74,1,141,1
+43,Tranås,76,2,145,4
+44,Tranås,85,9,162,17
+45,Tranås,107,22,204,42
+46,Tranås,138,31,262,58
+47,Tranås,162,24,307,45
+48,Tranås,180,18,342,35
+40,Trelleborg,47,5,212,24
+41,Trelleborg,51,4,230,18
+42,Trelleborg,54,4,246,16
+43,Trelleborg,61,7,276,30
+44,Trelleborg,68,7,310,34
+45,Trelleborg,77,9,350,40
+46,Trelleborg,105,28,475,125
+47,Trelleborg,129,24,585,110
+48,Trelleborg,166,37,753,168
+40,Trollhättan,115,1,677,5
+41,Trollhättan,117,2,690,13
+42,Trollhättan,118,1,697,7
+43,Trollhättan,121,3,712,15
+44,Trollhättan,134,13,789,77
+45,Trollhättan,152,18,896,107
+46,Trollhättan,174,22,1028,132
+47,Trollhättan,207,33,1223,195
+48,Trollhättan,241,34,1422,199
+40,Trosa,70,1,96,1
+41,Trosa,73,4,101,5
+42,Trosa,76,2,104,3
+43,Trosa,79,4,109,5
+44,Trosa,108,28,148,39
+45,Trosa,145,37,199,51
+46,Trosa,172,28,237,38
+47,Trosa,220,48,303,66
+48,Trosa,239,18,328,25
+40,Tyresö,117,6,565,31
+41,Tyresö,122,5,588,23
+42,Tyresö,126,4,609,21
+43,Tyresö,138,12,665,56
+44,Tyresö,166,28,801,136
+45,Tyresö,199,33,961,160
+46,Tyresö,241,42,1166,205
+47,Tyresö,278,36,1342,176
+48,Tyresö,320,42,1546,204
+40,Täby,88,6,633,43
+41,Täby,96,8,689,56
+42,Täby,103,8,743,54
+43,Täby,116,13,833,90
+44,Täby,144,28,1034,201
+45,Täby,178,34,1276,242
+46,Täby,217,39,1558,282
+47,Täby,253,37,1822,264
+48,Täby,300,46,2153,331
+40,Töreboda,195,1,181,1
+41,Töreboda,195,0,181,0
+42,Töreboda,195,0,181,0
+43,Töreboda,196,1,182,1
+44,Töreboda,209,13,194,12
+45,Töreboda,216,8,201,7
+46,Töreboda,234,17,217,16
+47,Töreboda,253,19,235,18
+48,Töreboda,261,9,243,8
+40,Uddevalla,86,1,487,5
+41,Uddevalla,87,1,495,8
+42,Uddevalla,90,3,511,16
+43,Uddevalla,99,8,559,48
+44,Uddevalla,108,10,613,54
+45,Uddevalla,127,19,718,105
+46,Uddevalla,155,29,880,162
+47,Uddevalla,201,45,1137,257
+48,Uddevalla,233,33,1323,186
+40,Ulricehamn,121,2,299,4
+41,Ulricehamn,122,1,301,2
+42,Ulricehamn,123,1,304,3
+43,Ulricehamn,129,6,318,14
+44,Ulricehamn,139,10,343,25
+45,Ulricehamn,165,26,407,64
+46,Ulricehamn,189,24,467,60
+47,Ulricehamn,227,38,561,94
+48,Ulricehamn,253,26,624,63
+40,Umeå,48,4,624,48
+41,Umeå,52,3,664,40
+42,Umeå,54,2,695,31
+43,Umeå,57,3,735,40
+44,Umeå,66,9,848,113
+45,Umeå,85,19,1099,251
+46,Umeå,108,22,1387,288
+47,Umeå,126,19,1630,243
+48,Umeå,147,21,1895,265
+40,Upplands Väsby,113,4,528,19
+41,Upplands Väsby,116,3,542,14
+42,Upplands Väsby,121,5,564,22
+43,Upplands Väsby,126,6,590,26
+44,Upplands Väsby,146,20,685,95
+45,Upplands Väsby,177,31,828,143
+46,Upplands Väsby,219,42,1026,198
+47,Upplands Väsby,256,37,1200,174
+48,Upplands Väsby,302,46,1415,215
+40,Upplands-Bro,84,1,247,4
+41,Upplands-Bro,88,4,258,11
+42,Upplands-Bro,91,3,266,8
+43,Upplands-Bro,96,6,283,17
+44,Upplands-Bro,114,17,334,51
+45,Upplands-Bro,134,20,393,59
+46,Upplands-Bro,173,39,507,114
+47,Upplands-Bro,213,40,625,118
+48,Upplands-Bro,265,52,777,152
+40,Uppsala,132,7,3035,152
+41,Uppsala,140,9,3238,203
+42,Uppsala,155,15,3577,339
+43,Uppsala,166,11,3824,247
+44,Uppsala,192,26,4429,605
+45,Uppsala,220,28,5083,654
+46,Uppsala,256,36,5908,825
+47,Uppsala,294,38,6784,876
+48,Uppsala,329,35,7582,798
+40,Uppvidinge,47,2,45,2
+41,Uppvidinge,55,8,53,8
+42,Uppvidinge,57,2,55,2
+43,Uppvidinge,63,5,60,5
+44,Uppvidinge,92,29,88,28
+45,Uppvidinge,160,68,153,65
+46,Uppvidinge,268,108,257,104
+47,Uppvidinge,332,64,318,61
+48,Uppvidinge,389,57,373,55
+40,Vadstena,96,0,71,0
+41,Vadstena,97,1,72,1
+42,Vadstena,102,5,76,4
+43,Vadstena,110,8,82,6
+44,Vadstena,114,4,85,3
+45,Vadstena,140,26,104,19
+46,Vadstena,171,31,127,23
+47,Vadstena,188,18,140,13
+48,Vadstena,205,16,152,12
+40,Vaggeryd,104,2,149,3
+41,Vaggeryd,111,6,158,9
+42,Vaggeryd,120,10,172,14
+43,Vaggeryd,134,13,191,19
+44,Vaggeryd,174,40,248,57
+45,Vaggeryd,198,25,283,35
+46,Vaggeryd,216,18,308,25
+47,Vaggeryd,233,17,332,24
+48,Vaggeryd,246,13,351,19
+40,Valdemarsvik,97,0,76,0
+41,Valdemarsvik,98,1,77,1
+42,Valdemarsvik,99,1,78,1
+43,Valdemarsvik,103,4,81,3
+44,Valdemarsvik,105,3,83,2
+45,Valdemarsvik,108,3,85,2
+46,Valdemarsvik,112,4,88,3
+47,Valdemarsvik,116,4,91,3
+48,Valdemarsvik,121,5,95,4
+40,Vallentuna,71,7,241,24
+41,Vallentuna,78,7,265,24
+42,Vallentuna,88,10,299,34
+43,Vallentuna,94,7,322,23
+44,Vallentuna,115,21,392,70
+45,Vallentuna,154,39,526,134
+46,Vallentuna,187,32,636,110
+47,Vallentuna,217,31,740,104
+48,Vallentuna,256,39,874,134
+40,Vansbro,69,3,47,2
+41,Vansbro,69,0,47,0
+42,Vansbro,72,3,49,2
+43,Vansbro,73,1,50,1
+44,Vansbro,82,9,56,6
+45,Vansbro,87,4,59,3
+46,Vansbro,106,19,72,13
+47,Vansbro,110,4,75,3
+48,Vansbro,115,4,78,3
+40,Vara,76,1,121,1
+41,Vara,77,2,124,3
+42,Vara,78,1,125,1
+43,Vara,81,2,129,4
+44,Vara,85,4,136,7
+45,Vara,97,12,156,20
+46,Vara,114,17,183,27
+47,Vara,141,27,226,43
+48,Vara,149,8,239,13
+40,Varberg,103,4,664,27
+41,Varberg,108,5,696,32
+42,Varberg,111,4,720,24
+43,Varberg,118,7,763,43
+44,Varberg,136,18,878,115
+45,Varberg,157,21,1012,134
+46,Varberg,190,33,1225,213
+47,Varberg,207,18,1339,114
+48,Varberg,231,24,1494,155
+40,Vaxholm,103,9,124,11
+41,Vaxholm,109,6,131,7
+42,Vaxholm,112,2,134,3
+43,Vaxholm,121,9,145,11
+44,Vaxholm,147,27,177,32
+45,Vaxholm,180,32,216,39
+46,Vaxholm,225,45,270,54
+47,Vaxholm,280,55,336,66
+48,Vaxholm,315,35,378,42
+40,Vellinge,47,5,172,17
+41,Vellinge,51,4,187,15
+42,Vellinge,55,4,202,15
+43,Vellinge,66,11,241,39
+44,Vellinge,74,8,271,30
+45,Vellinge,85,11,312,41
+46,Vellinge,108,23,395,83
+47,Vellinge,134,26,490,95
+48,Vellinge,169,35,620,130
+40,Vetlanda,84,3,232,7
+41,Vetlanda,87,3,240,8
+42,Vetlanda,91,4,251,11
+43,Vetlanda,100,9,276,25
+44,Vetlanda,140,39,384,108
+45,Vetlanda,201,61,552,168
+46,Vetlanda,266,65,731,179
+47,Vetlanda,336,70,923,192
+48,Vetlanda,387,51,1063,140
+40,Vilhelmina,,,<15,<15
+41,Vilhelmina,,,<15,<15
+42,Vilhelmina,,,<15,<15
+43,Vilhelmina,,,<15,<15
+44,Vilhelmina,,,<15,<15
+45,Vilhelmina,40,21,27,14
+46,Vilhelmina,60,19,40,13
+47,Vilhelmina,70,10,47,7
+48,Vilhelmina,81,10,54,7
+40,Vimmerby,32,0,50,0
+41,Vimmerby,32,0,50,0
+42,Vimmerby,33,1,51,1
+43,Vimmerby,33,0,51,0
+44,Vimmerby,35,3,55,4
+45,Vimmerby,39,4,61,6
+46,Vimmerby,52,13,81,20
+47,Vimmerby,75,23,117,36
+48,Vimmerby,107,33,168,51
+40,Vindeln,76,7,41,4
+41,Vindeln,76,0,41,0
+42,Vindeln,76,0,41,0
+43,Vindeln,76,0,41,0
+44,Vindeln,77,2,42,1
+45,Vindeln,81,4,44,2
+46,Vindeln,87,6,47,3
+47,Vindeln,96,9,52,5
+48,Vindeln,111,15,60,8
+40,Vingåker,82,1,75,1
+41,Vingåker,82,0,75,0
+42,Vingåker,86,3,78,3
+43,Vingåker,100,14,91,13
+44,Vingåker,109,9,99,8
+45,Vingåker,120,11,109,10
+46,Vingåker,123,3,112,3
+47,Vingåker,128,5,117,5
+48,Vingåker,138,10,126,9
+40,Vänersborg,85,2,335,6
+41,Vänersborg,86,1,340,5
+42,Vänersborg,88,2,347,7
+43,Vänersborg,91,3,359,12
+44,Vänersborg,101,10,399,40
+45,Vänersborg,113,13,449,50
+46,Vänersborg,124,11,492,43
+47,Vänersborg,142,18,563,71
+48,Vänersborg,156,14,617,54
+40,Vännäs,21,0,19,0
+41,Vännäs,24,2,21,2
+42,Vännäs,24,0,21,0
+43,Vännäs,24,0,21,0
+44,Vännäs,27,3,24,3
+45,Vännäs,39,12,35,11
+46,Vännäs,54,15,48,13
+47,Vännäs,65,11,58,10
+48,Vännäs,76,10,67,9
+40,Värmdö,92,4,413,18
+41,Värmdö,97,5,436,23
+42,Värmdö,101,4,454,18
+43,Värmdö,110,9,494,40
+44,Värmdö,130,20,584,90
+45,Värmdö,154,24,693,109
+46,Värmdö,187,33,843,150
+47,Värmdö,227,40,1023,180
+48,Värmdö,266,38,1195,172
+40,Värnamo,143,11,493,37
+41,Värnamo,161,19,557,64
+42,Värnamo,192,30,662,105
+43,Värnamo,210,18,725,63
+44,Värnamo,262,52,904,179
+45,Värnamo,291,29,1005,101
+46,Värnamo,329,38,1138,133
+47,Värnamo,366,36,1264,126
+48,Värnamo,390,24,1348,84
+40,Västervik,40,2,145,6
+41,Västervik,42,2,154,9
+42,Västervik,44,2,161,7
+43,Västervik,47,3,171,10
+44,Västervik,50,4,184,13
+45,Västervik,65,15,239,55
+46,Västervik,86,21,317,78
+47,Västervik,117,31,430,113
+48,Västervik,164,46,600,170
+40,Västerås,128,4,1971,56
+41,Västerås,132,4,2028,57
+42,Västerås,136,5,2101,73
+43,Västerås,144,8,2220,119
+44,Västerås,164,20,2525,305
+45,Västerås,199,35,3062,537
+46,Västerås,242,43,3730,668
+47,Västerås,294,51,4522,792
+48,Västerås,350,57,5394,872
+40,Växjö,75,2,702,22
+41,Växjö,76,1,712,10
+42,Växjö,79,3,743,31
+43,Växjö,88,9,827,84
+44,Växjö,115,27,1081,254
+45,Växjö,158,43,1483,402
+46,Växjö,201,43,1888,405
+47,Växjö,235,35,2216,328
+48,Växjö,272,37,2560,344
+40,Vårgårda,103,0,122,0
+41,Vårgårda,104,1,123,1
+42,Vårgårda,106,2,125,2
+43,Vårgårda,107,1,126,1
+44,Vårgårda,118,11,139,13
+45,Vårgårda,140,22,165,26
+46,Vårgårda,171,31,202,37
+47,Vårgårda,194,23,229,27
+48,Vårgårda,218,25,258,29
+40,Ydre,45,3,17,1
+41,Ydre,45,0,17,0
+42,Ydre,45,0,17,0
+43,Ydre,45,0,17,0
+44,Ydre,56,11,21,4
+45,Ydre,72,16,27,6
+46,Ydre,91,19,34,7
+47,Ydre,107,16,40,6
+48,Ydre,120,13,45,5
+40,Ystad,26,0,79,1
+41,Ystad,26,0,79,0
+42,Ystad,28,2,84,5
+43,Ystad,31,4,95,11
+44,Ystad,40,9,121,26
+45,Ystad,63,24,193,72
+46,Ystad,98,34,298,105
+47,Ystad,122,25,374,76
+48,Ystad,149,27,456,82
+40,Älmhult,74,2,131,3
+41,Älmhult,79,5,139,8
+42,Älmhult,99,20,175,36
+43,Älmhult,145,46,256,81
+44,Älmhult,177,32,313,57
+45,Älmhult,214,37,378,65
+46,Älmhult,244,30,431,53
+47,Älmhult,259,15,458,27
+48,Älmhult,287,27,506,48
+40,Älvdalen,26,3,18,2
+41,Älvdalen,28,3,20,2
+42,Älvdalen,30,1,21,1
+43,Älvdalen,31,1,22,1
+44,Älvdalen,40,9,28,6
+45,Älvdalen,55,16,39,11
+46,Älvdalen,77,21,54,15
+47,Älvdalen,108,31,76,22
+48,Älvdalen,139,31,98,22
+40,Älvkarleby,75,1,71,1
+41,Älvkarleby,76,1,72,1
+42,Älvkarleby,77,1,73,1
+43,Älvkarleby,79,2,75,2
+44,Älvkarleby,111,32,105,30
+45,Älvkarleby,164,53,155,50
+46,Älvkarleby,196,32,185,30
+47,Älvkarleby,219,23,207,22
+48,Älvkarleby,237,18,224,17
+40,Älvsbyn,,,<15,<15
+41,Älvsbyn,,,<15,<15
+42,Älvsbyn,,,<15,<15
+43,Älvsbyn,,,<15,<15
+44,Älvsbyn,,,<15,<15
+45,Älvsbyn,27,9,22,7
+46,Älvsbyn,61,33,49,27
+47,Älvsbyn,145,84,117,68
+48,Älvsbyn,262,117,211,94
+40,Ängelholm,40,2,168,8
+41,Ängelholm,42,2,177,9
+42,Ängelholm,48,6,202,25
+43,Ängelholm,62,14,262,60
+44,Ängelholm,93,31,394,132
+45,Ängelholm,133,40,563,169
+46,Ängelholm,190,58,809,246
+47,Ängelholm,229,39,973,164
+48,Ängelholm,259,30,1102,129
+40,Åmål,68,1,86,1
+41,Åmål,68,0,86,0
+42,Åmål,71,3,90,4
+43,Åmål,75,3,94,4
+44,Åmål,82,7,103,9
+45,Åmål,87,6,110,7
+46,Åmål,109,22,138,28
+47,Åmål,129,20,163,25
+48,Åmål,148,19,187,24
+40,Ånge,53,1,49,1
+41,Ånge,59,6,55,6
+42,Ånge,60,1,56,1
+43,Ånge,63,3,59,3
+44,Ånge,74,11,69,10
+45,Ånge,82,8,76,7
+46,Ånge,109,28,102,26
+47,Ånge,146,36,136,34
+48,Ånge,195,49,182,46
+40,Åre,131,5,154,6
+41,Åre,145,14,170,16
+42,Åre,155,10,182,12
+43,Åre,155,0,182,0
+44,Åre,156,1,183,1
+45,Åre,172,16,202,19
+46,Åre,192,20,225,23
+47,Åre,234,42,274,49
+48,Åre,260,26,305,31
+40,Årjäng,21,2,21,2
+41,Årjäng,22,1,22,1
+42,Årjäng,26,4,26,4
+43,Årjäng,30,4,30,4
+44,Årjäng,32,2,32,2
+45,Årjäng,38,6,38,6
+46,Årjäng,43,5,43,5
+47,Årjäng,66,23,66,23
+48,Årjäng,142,76,143,77
+40,Åsele,,,<15,<15
+41,Åsele,,,<15,<15
+42,Åsele,,,<15,<15
+43,Åsele,,,<15,<15
+44,Åsele,,,<15,<15
+45,Åsele,,,<15,<15
+46,Åsele,,,<15,<15
+47,Åsele,72,21,20,6
+48,Åsele,72,0,20,0
+40,Åstorp,29,1,47,1
+41,Åstorp,33,3,52,5
+42,Åstorp,38,5,60,8
+43,Åstorp,45,8,72,12
+44,Åstorp,55,9,87,15
+45,Åstorp,71,16,113,26
+46,Åstorp,104,33,165,52
+47,Åstorp,141,38,225,60
+48,Åstorp,185,44,295,70
+40,Åtvidaberg,76,1,87,1
+41,Åtvidaberg,77,2,89,2
+42,Åtvidaberg,79,2,91,2
+43,Åtvidaberg,88,9,101,10
+44,Åtvidaberg,106,18,122,21
+45,Åtvidaberg,123,17,141,19
+46,Åtvidaberg,130,8,150,9
+47,Åtvidaberg,137,7,158,8
+48,Åtvidaberg,143,6,165,7
+40,Öckerö,115,2,149,2
+41,Öckerö,117,2,151,2
+42,Öckerö,120,3,155,4
+43,Öckerö,127,7,164,9
+44,Öckerö,143,16,185,21
+45,Öckerö,165,22,213,28
+46,Öckerö,183,18,236,23
+47,Öckerö,201,18,259,23
+48,Öckerö,220,19,284,25
+40,Ödeshög,49,0,26,0
+41,Ödeshög,49,0,26,0
+42,Ödeshög,52,4,28,2
+43,Ödeshög,56,4,30,2
+44,Ödeshög,62,6,33,3
+45,Ödeshög,73,11,39,6
+46,Ödeshög,84,11,45,6
+47,Ödeshög,96,11,51,6
+48,Ödeshög,105,9,56,5
+40,Örebro,116,7,1810,111
+41,Örebro,129,13,2006,196
+42,Örebro,144,16,2248,242
+43,Örebro,175,30,2721,473
+44,Örebro,218,43,3391,670
+45,Örebro,269,51,4188,797
+46,Örebro,318,49,4951,763
+47,Örebro,364,46,5660,709
+48,Örebro,399,35,6212,552
+40,Örkelljunga,21,2,22,2
+41,Örkelljunga,21,0,22,0
+42,Örkelljunga,21,0,22,0
+43,Örkelljunga,23,2,24,2
+44,Örkelljunga,34,11,35,11
+45,Örkelljunga,43,9,44,9
+46,Örkelljunga,68,25,70,26
+47,Örkelljunga,95,27,98,28
+48,Örkelljunga,125,30,129,31
+40,Örnsköldsvik,35,1,196,6
+41,Örnsköldsvik,36,1,199,3
+42,Örnsköldsvik,36,1,204,5
+43,Örnsköldsvik,37,1,209,5
+44,Örnsköldsvik,41,3,227,18
+45,Örnsköldsvik,47,7,265,38
+46,Örnsköldsvik,57,10,320,55
+47,Örnsköldsvik,79,22,442,122
+48,Örnsköldsvik,108,29,607,165
+40,Östersund,109,6,693,36
+41,Östersund,121,12,771,78
+42,Östersund,130,10,832,61
+43,Östersund,137,6,872,40
+44,Östersund,141,5,901,29
+45,Östersund,155,14,989,88
+46,Östersund,186,31,1189,200
+47,Östersund,230,43,1465,276
+48,Östersund,264,34,1682,217
+40,Österåker,78,4,356,20
+41,Österåker,86,8,394,38
+42,Österåker,95,9,434,40
+43,Österåker,109,13,495,61
+44,Österåker,130,22,594,99
+45,Österåker,157,27,716,122
+46,Österåker,199,42,908,192
+47,Österåker,235,35,1069,161
+48,Österåker,274,39,1248,179
+40,Östhammar,81,7,181,15
+41,Östhammar,85,4,189,8
+42,Östhammar,89,4,199,10
+43,Östhammar,92,3,205,6
+44,Östhammar,103,11,230,25
+45,Östhammar,120,16,266,36
+46,Östhammar,144,25,321,55
+47,Östhammar,176,31,391,70
+48,Östhammar,202,26,449,58
+40,Östra Göinge,31,3,46,5
+41,Östra Göinge,35,5,53,7
+42,Östra Göinge,37,2,56,3
+43,Östra Göinge,53,15,79,23
+44,Östra Göinge,81,28,121,42
+45,Östra Göinge,122,41,183,62
+46,Östra Göinge,149,27,224,41
+47,Östra Göinge,167,17,250,26
+48,Östra Göinge,204,37,306,56
+40,Överkalix,,,<15,<15
+41,Överkalix,,,<15,<15
+42,Överkalix,,,<15,<15
+43,Överkalix,,,<15,<15
+44,Överkalix,,,<15,<15
+45,Överkalix,,,<15,<15
+46,Överkalix,54,12,18,4
+47,Överkalix,54,0,18,0
+48,Överkalix,57,3,19,1
+40,Övertorneå,60,0,26,0
+41,Övertorneå,60,0,26,0
+42,Övertorneå,60,0,26,0
+43,Övertorneå,60,0,26,0
+44,Övertorneå,63,2,27,1
+45,Övertorneå,65,2,28,1
+46,Övertorneå,79,14,34,6
+47,Övertorneå,93,14,40,6
+48,Övertorneå,98,5,42,2

@@ -1,0 +1,1611 @@
+veckonummer,Kommun_stadsdel,tot_antal_fall_per10000inv,antal_fall_per10000_inv,tot_antal_fall,nya_fall_vecka
+6,Ale,0,0,0,0
+6,Alingsås,0,0,0,0
+6,Alvesta,0,0,0,0
+6,Aneby,0,0,0,0
+6,Arboga,0,0,0,0
+6,Arjeplog,0,0,0,0
+6,Arvidsjaur,0,0,0,0
+6,Arvika,0,0,0,0
+6,Askersund,0,0,0,0
+6,Avesta,0,0,0,0
+6,Bengtsfors,0,0,0,0
+6,Berg,0,0,0,0
+6,Bjurholm,0,0,0,0
+6,Bjuv,0,0,0,0
+6,Boden,0,0,0,0
+6,Bollebygd,0,0,0,0
+6,Bollnäs,0,0,0,0
+6,Borgholm,0,0,0,0
+6,Borlänge,0,0,0,0
+6,Borås,0,0,0,0
+6,Botkyrka,0,0,0,0
+6,Boxholm,0,0,0,0
+6,Bromölla,0,0,0,0
+6,Bräcke,0,0,0,0
+6,Burlöv,0,0,0,0
+6,Båstad,0,0,0,0
+6,Dals-Ed,0,0,0,0
+6,Danderyd,0,0,0,0
+6,Degerfors,0,0,0,0
+6,Dorotea,0,0,0,0
+6,Eda,0,0,0,0
+6,Ekerö,0,0,0,0
+6,Eksjö,0,0,0,0
+6,Emmaboda,0,0,0,0
+6,Enköping,0,0,0,0
+6,Eskilstuna,0,0,0,0
+6,Eslöv,0,0,0,0
+6,Essunga,0,0,0,0
+6,Fagersta,0,0,0,0
+6,Falkenberg,0,0,0,0
+6,Falköping,0,0,0,0
+6,Falun,0,0,0,0
+6,Filipstad,0,0,0,0
+6,Finspång,0,0,0,0
+6,Flen,0,0,0,0
+6,Forshaga,0,0,0,0
+6,Färgelanda,0,0,0,0
+6,Gagnef,0,0,0,0
+6,Gislaved,0,0,0,0
+6,Gnesta,0,0,0,0
+6,Gnosjö,0,0,0,0
+6,Gotland,0,0,0,0
+6,Grums,0,0,0,0
+6,Grästorp,0,0,0,0
+6,Gullspång,0,0,0,0
+6,Gällivare,0,0,0,0
+6,Gävle,0,0,0,0
+6,Göteborg Lundby,0,0,0,0
+6,Göteborg Askim-Frölunda-Högsbo,0,0,0,0
+6,Göteborg Östra Göteborg,0,0,0,0
+6,Göteborg Majorna-Linné,0,0,0,0
+6,Göteborg Örgryte-Härlanda,0,0,0,0
+6,Göteborg Centrum,0,0,0,0
+6,Göteborg Västra Göteborg,0,0,0,0
+6,Gbg Angered,0,0,0,0
+6,Göteborg Västra Hisingen,0,0,0,0
+6,Göteborg Norra Hisingen,0,0,0,0
+6,Götene,0,0,0,0
+6,Habo,0,0,0,0
+6,Hagfors,0,0,0,0
+6,Hallsberg,0,0,0,0
+6,Hallstahammar,0,0,0,0
+6,Halmstad,0,0,0,0
+6,Hammarö,0,0,0,0
+6,Haninge,0,0,0,0
+6,Haparanda,0,0,0,0
+6,Heby,0,0,0,0
+6,Hedemora,0,0,0,0
+6,Helsingborg,0,0,0,0
+6,Herrljunga,0,0,0,0
+6,Hjo,0,0,0,0
+6,Hofors,0,0,0,0
+6,Huddinge,0,0,0,0
+6,Hudiksvall,0,0,0,0
+6,Hultsfred,0,0,0,0
+6,Hylte,0,0,0,0
+6,Håbo,0,0,0,0
+6,Hällefors,0,0,0,0
+6,Härjedalen,0,0,0,0
+6,Härnösand,0,0,0,0
+6,Härryda,0,0,0,0
+6,Hässleholm,0,0,0,0
+6,Höganäs,0,0,0,0
+6,Högsby,0,0,0,0
+6,Hörby,0,0,0,0
+6,Höör,0,0,0,0
+6,Jokkmokk,0,0,0,0
+6,Järfälla,0,0,0,0
+6,Jönköping,,,<15,<15
+6,Kalix,0,0,0,0
+6,Kalmar,0,0,0,0
+6,Karlsborg,0,0,0,0
+6,Karlshamn,0,0,0,0
+6,Karlskoga,0,0,0,0
+6,Karlskrona,0,0,0,0
+6,Karlstad,0,0,0,0
+6,Katrineholm,0,0,0,0
+6,Kil,0,0,0,0
+6,Kinda,0,0,0,0
+6,Kiruna,0,0,0,0
+6,Klippan,0,0,0,0
+6,Knivsta,0,0,0,0
+6,Kramfors,0,0,0,0
+6,Kristianstad,0,0,0,0
+6,Kristinehamn,0,0,0,0
+6,Krokom,0,0,0,0
+6,Kumla,0,0,0,0
+6,Kungsbacka,0,0,0,0
+6,Kungsör,0,0,0,0
+6,Kungälv,0,0,0,0
+6,Kävlinge,0,0,0,0
+6,Köping,0,0,0,0
+6,Laholm,0,0,0,0
+6,Landskrona,0,0,0,0
+6,Laxå,0,0,0,0
+6,Lekeberg,0,0,0,0
+6,Leksand,0,0,0,0
+6,Lerum,0,0,0,0
+6,Lessebo,0,0,0,0
+6,Lidingö,0,0,0,0
+6,Lidköping,0,0,0,0
+6,Lilla Edet,0,0,0,0
+6,Lindesberg,0,0,0,0
+6,Linköping,0,0,0,0
+6,Ljungby,0,0,0,0
+6,Ljusdal,0,0,0,0
+6,Ljusnarsberg,0,0,0,0
+6,Lomma,0,0,0,0
+6,Ludvika,0,0,0,0
+6,Luleå,0,0,0,0
+6,Lund,0,0,0,0
+6,Lycksele,0,0,0,0
+6,Lysekil,0,0,0,0
+6,Malmö Rosengård,0,0,0,0
+6,Malmö Fosie,0,0,0,0
+6,Malmö Limhamn-Bunkeflo,0,0,0,0
+6,Malmö Husie,0,0,0,0
+6,Malmö Södra Innerstaden,0,0,0,0
+6,Malmö kommun Centrum,0,0,0,0
+6,Malmö Hyllie,0,0,0,0
+6,Malmös kmn Kirseberg,0,0,0,0
+6,Malmö Oxie,0,0,0,0
+6,Malmö Västra Innerstaden,0,0,0,0
+6,Malung,0,0,0,0
+6,Malå,0,0,0,0
+6,Mariestad,0,0,0,0
+6,Mark,0,0,0,0
+6,Markaryd,0,0,0,0
+6,Mellerud,0,0,0,0
+6,Mjölby,0,0,0,0
+6,Mora,0,0,0,0
+6,Motala,0,0,0,0
+6,Mullsjö,0,0,0,0
+6,Munkedal,0,0,0,0
+6,Munkfors,0,0,0,0
+6,Mölndal,0,0,0,0
+6,Mönsterås,0,0,0,0
+6,Mörbylånga,0,0,0,0
+6,Nacka,0,0,0,0
+6,Nora,0,0,0,0
+6,Norberg,0,0,0,0
+6,Nordanstig,0,0,0,0
+6,Nordmaling,0,0,0,0
+6,Norrköping,0,0,0,0
+6,Norrtälje,0,0,0,0
+6,Norsjö,0,0,0,0
+6,Nybro,0,0,0,0
+6,Nykvarn,0,0,0,0
+6,Nyköping,0,0,0,0
+6,Nynäshamn,0,0,0,0
+6,Nässjö,0,0,0,0
+6,Ockelbo,0,0,0,0
+6,Okänd,,,0,0
+6,Olofström,0,0,0,0
+6,Orsa,0,0,0,0
+6,Orust,0,0,0,0
+6,Osby,0,0,0,0
+6,Oskarshamn,0,0,0,0
+6,Ovanåker,0,0,0,0
+6,Oxelösund,0,0,0,0
+6,Pajala,0,0,0,0
+6,Partille,0,0,0,0
+6,Perstorp,0,0,0,0
+6,Piteå,0,0,0,0
+6,Ragunda,0,0,0,0
+6,Robertsfors,0,0,0,0
+6,Ronneby,0,0,0,0
+6,Rättvik,0,0,0,0
+6,Sala,0,0,0,0
+6,Salem,0,0,0,0
+6,Sandviken,0,0,0,0
+6,Sigtuna,0,0,0,0
+6,Simrishamn,0,0,0,0
+6,Sjöbo,0,0,0,0
+6,Skara,0,0,0,0
+6,Skellefteå,0,0,0,0
+6,Skinnskatteberg,0,0,0,0
+6,Skurup,0,0,0,0
+6,Skövde,0,0,0,0
+6,Smedjebacken,0,0,0,0
+6,Sollefteå,0,0,0,0
+6,Sollentuna,0,0,0,0
+6,Solna,0,0,0,0
+6,Sorsele,0,0,0,0
+6,Sotenäs,0,0,0,0
+6,Staffanstorp,0,0,0,0
+6,Stenungsund,0,0,0,0
+6,Stockholm Östermalm,0,0,0,0
+6,Stockholm Norrmalm,0,0,0,0
+6,Skhlm Spånga-Tensta,0,0,0,0
+6,Stockholm Hägersten-Liljeholmen,0,0,0,0
+6,Stockholm kommun Skärholmen,0,0,0,0
+6,Stockholm - Kungsholmen,0,0,0,0
+6,Stockholm Älvsjö,0,0,0,0
+6,Stockholm Skarpnäck,0,0,0,0
+6,Stockholms kommun Enskede-Årsta-Vantör,0,0,0,0
+6,Stockholm Bromma,0,0,0,0
+6,Stockholm Södermalm,0,0,0,0
+6,Stockholm Rinkeby-Kista,0,0,0,0
+6,Stockholm Hässelby-Vällingby,0,0,0,0
+6,Stockholm Farsta,0,0,0,0
+6,Storfors,0,0,0,0
+6,Storuman,0,0,0,0
+6,Strängnäs,0,0,0,0
+6,Strömstad,0,0,0,0
+6,Strömsund,0,0,0,0
+6,Sundbyberg,0,0,0,0
+6,Sundsvall,0,0,0,0
+6,Sunne,0,0,0,0
+6,Surahammar,0,0,0,0
+6,Svalöv,0,0,0,0
+6,Svedala,0,0,0,0
+6,Svenljunga,0,0,0,0
+6,Säffle,0,0,0,0
+6,Säter,0,0,0,0
+6,Sävsjö,0,0,0,0
+6,Söderhamn,0,0,0,0
+6,Söderköping,0,0,0,0
+6,Södertälje,0,0,0,0
+6,Sölvesborg,0,0,0,0
+6,Tanum,0,0,0,0
+6,Tibro,0,0,0,0
+6,Tidaholm,0,0,0,0
+6,Tierp,0,0,0,0
+6,Timrå,0,0,0,0
+6,Tingsryd,0,0,0,0
+6,Tjörn,0,0,0,0
+6,Tomelilla,0,0,0,0
+6,Torsby,0,0,0,0
+6,Torsås,0,0,0,0
+6,Tranemo,0,0,0,0
+6,Tranås,0,0,0,0
+6,Trelleborg,0,0,0,0
+6,Trollhättan,0,0,0,0
+6,Trosa,0,0,0,0
+6,Tyresö,0,0,0,0
+6,Täby,0,0,0,0
+6,Töreboda,0,0,0,0
+6,Uddevalla,0,0,0,0
+6,Ulricehamn,0,0,0,0
+6,Umeå,0,0,0,0
+6,Upplands Väsby,0,0,0,0
+6,Upplands-Bro,0,0,0,0
+6,Uppsala,0,0,0,0
+6,Uppvidinge,0,0,0,0
+6,Vadstena,0,0,0,0
+6,Vaggeryd,0,0,0,0
+6,Valdemarsvik,0,0,0,0
+6,Vallentuna,0,0,0,0
+6,Vansbro,0,0,0,0
+6,Vara,0,0,0,0
+6,Varberg,0,0,0,0
+6,Vaxholm,0,0,0,0
+6,Vellinge,0,0,0,0
+6,Vetlanda,0,0,0,0
+6,Vilhelmina,0,0,0,0
+6,Vimmerby,0,0,0,0
+6,Vindeln,0,0,0,0
+6,Vingåker,0,0,0,0
+6,Vårgårda,0,0,0,0
+6,Vänersborg,0,0,0,0
+6,Vännäs,0,0,0,0
+6,Värmdö,0,0,0,0
+6,Värnamo,0,0,0,0
+6,Västervik,0,0,0,0
+6,Västerås,0,0,0,0
+6,Växjö,0,0,0,0
+6,Ydre,0,0,0,0
+6,Ystad,0,0,0,0
+6,Åmål,0,0,0,0
+6,Ånge,0,0,0,0
+6,Åre,0,0,0,0
+6,Årjäng,0,0,0,0
+6,Åsele,0,0,0,0
+6,Åstorp,0,0,0,0
+6,Åtvidaberg,0,0,0,0
+6,Älmhult,0,0,0,0
+6,Älvdalen,0,0,0,0
+6,Älvkarleby,0,0,0,0
+6,Älvsbyn,0,0,0,0
+6,Ängelholm,0,0,0,0
+6,Öckerö,0,0,0,0
+6,Ödeshög,0,0,0,0
+6,Örebro,0,0,0,0
+6,Örkelljunga,0,0,0,0
+6,Örnsköldsvik,0,0,0,0
+6,Östersund,0,0,0,0
+6,Österåker,0,0,0,0
+6,Östhammar,0,0,0,0
+6,Östra Göinge,0,0,0,0
+6,Överkalix,0,0,0,0
+6,Övertorneå,0,0,0,0
+7,Ale,0,0,0,0
+7,Alingsås,0,0,0,0
+7,Alvesta,0,0,0,0
+7,Aneby,0,0,0,0
+7,Arboga,0,0,0,0
+7,Arjeplog,0,0,0,0
+7,Arvidsjaur,0,0,0,0
+7,Arvika,0,0,0,0
+7,Askersund,0,0,0,0
+7,Avesta,0,0,0,0
+7,Bengtsfors,0,0,0,0
+7,Berg,0,0,0,0
+7,Bjurholm,0,0,0,0
+7,Bjuv,0,0,0,0
+7,Boden,0,0,0,0
+7,Bollebygd,0,0,0,0
+7,Bollnäs,0,0,0,0
+7,Borgholm,0,0,0,0
+7,Borlänge,0,0,0,0
+7,Borås,0,0,0,0
+7,Botkyrka,0,0,0,0
+7,Boxholm,0,0,0,0
+7,Bromölla,0,0,0,0
+7,Bräcke,0,0,0,0
+7,Burlöv,0,0,0,0
+7,Båstad,0,0,0,0
+7,Dals-Ed,0,0,0,0
+7,Danderyd,0,0,0,0
+7,Degerfors,0,0,0,0
+7,Dorotea,0,0,0,0
+7,Eda,0,0,0,0
+7,Ekerö,0,0,0,0
+7,Eksjö,0,0,0,0
+7,Emmaboda,0,0,0,0
+7,Enköping,0,0,0,0
+7,Eskilstuna,0,0,0,0
+7,Eslöv,0,0,0,0
+7,Essunga,0,0,0,0
+7,Fagersta,0,0,0,0
+7,Falkenberg,0,0,0,0
+7,Falköping,0,0,0,0
+7,Falun,0,0,0,0
+7,Filipstad,0,0,0,0
+7,Finspång,0,0,0,0
+7,Flen,0,0,0,0
+7,Forshaga,0,0,0,0
+7,Färgelanda,0,0,0,0
+7,Gagnef,0,0,0,0
+7,Gislaved,0,0,0,0
+7,Gnesta,0,0,0,0
+7,Gnosjö,0,0,0,0
+7,Gotland,0,0,0,0
+7,Grums,0,0,0,0
+7,Grästorp,0,0,0,0
+7,Gullspång,0,0,0,0
+7,Gällivare,0,0,0,0
+7,Gävle,0,0,0,0
+7,Göteborg Askim-Frölunda-Högsbo,0,0,0,0
+7,Göteborg Centrum,0,0,0,0
+7,Göteborg Västra Hisingen,0,0,0,0
+7,Göteborg Östra Göteborg,0,0,0,0
+7,Gbg Angered,0,0,0,0
+7,Göteborg Norra Hisingen,0,0,0,0
+7,Göteborg Majorna-Linné,0,0,0,0
+7,Göteborg Lundby,0,0,0,0
+7,Göteborg Västra Göteborg,0,0,0,0
+7,Göteborg Örgryte-Härlanda,0,0,0,0
+7,Götene,0,0,0,0
+7,Habo,0,0,0,0
+7,Hagfors,0,0,0,0
+7,Hallsberg,0,0,0,0
+7,Hallstahammar,0,0,0,0
+7,Halmstad,0,0,0,0
+7,Hammarö,0,0,0,0
+7,Haninge,0,0,0,0
+7,Haparanda,0,0,0,0
+7,Heby,0,0,0,0
+7,Hedemora,0,0,0,0
+7,Helsingborg,0,0,0,0
+7,Herrljunga,0,0,0,0
+7,Hjo,0,0,0,0
+7,Hofors,0,0,0,0
+7,Huddinge,0,0,0,0
+7,Hudiksvall,0,0,0,0
+7,Hultsfred,0,0,0,0
+7,Hylte,0,0,0,0
+7,Håbo,0,0,0,0
+7,Hällefors,0,0,0,0
+7,Härjedalen,0,0,0,0
+7,Härnösand,0,0,0,0
+7,Härryda,0,0,0,0
+7,Hässleholm,0,0,0,0
+7,Höganäs,0,0,0,0
+7,Högsby,0,0,0,0
+7,Hörby,0,0,0,0
+7,Höör,0,0,0,0
+7,Jokkmokk,0,0,0,0
+7,Järfälla,0,0,0,0
+7,Jönköping,,,<15,<15
+7,Kalix,0,0,0,0
+7,Kalmar,0,0,0,0
+7,Karlsborg,0,0,0,0
+7,Karlshamn,0,0,0,0
+7,Karlskoga,0,0,0,0
+7,Karlskrona,0,0,0,0
+7,Karlstad,0,0,0,0
+7,Katrineholm,0,0,0,0
+7,Kil,0,0,0,0
+7,Kinda,0,0,0,0
+7,Kiruna,0,0,0,0
+7,Klippan,0,0,0,0
+7,Knivsta,0,0,0,0
+7,Kramfors,0,0,0,0
+7,Kristianstad,0,0,0,0
+7,Kristinehamn,0,0,0,0
+7,Krokom,0,0,0,0
+7,Kumla,0,0,0,0
+7,Kungsbacka,0,0,0,0
+7,Kungsör,0,0,0,0
+7,Kungälv,0,0,0,0
+7,Kävlinge,0,0,0,0
+7,Köping,0,0,0,0
+7,Laholm,0,0,0,0
+7,Landskrona,0,0,0,0
+7,Laxå,0,0,0,0
+7,Lekeberg,0,0,0,0
+7,Leksand,0,0,0,0
+7,Lerum,0,0,0,0
+7,Lessebo,0,0,0,0
+7,Lidingö,0,0,0,0
+7,Lidköping,0,0,0,0
+7,Lilla Edet,0,0,0,0
+7,Lindesberg,0,0,0,0
+7,Linköping,0,0,0,0
+7,Ljungby,0,0,0,0
+7,Ljusdal,0,0,0,0
+7,Ljusnarsberg,0,0,0,0
+7,Lomma,0,0,0,0
+7,Ludvika,0,0,0,0
+7,Luleå,0,0,0,0
+7,Lund,0,0,0,0
+7,Lycksele,0,0,0,0
+7,Lysekil,0,0,0,0
+7,Malmös kmn Kirseberg,0,0,0,0
+7,Malmö Fosie,0,0,0,0
+7,Malmö Södra Innerstaden,0,0,0,0
+7,Malmö Västra Innerstaden,0,0,0,0
+7,Malmö kommun Centrum,0,0,0,0
+7,Malmö Rosengård,0,0,0,0
+7,Malmö Hyllie,0,0,0,0
+7,Malmö Husie,0,0,0,0
+7,Malmö Limhamn-Bunkeflo,0,0,0,0
+7,Malmö Oxie,0,0,0,0
+7,Malung,0,0,0,0
+7,Malå,0,0,0,0
+7,Mariestad,0,0,0,0
+7,Mark,0,0,0,0
+7,Markaryd,0,0,0,0
+7,Mellerud,0,0,0,0
+7,Mjölby,0,0,0,0
+7,Mora,0,0,0,0
+7,Motala,0,0,0,0
+7,Mullsjö,0,0,0,0
+7,Munkedal,0,0,0,0
+7,Munkfors,0,0,0,0
+7,Mölndal,0,0,0,0
+7,Mönsterås,0,0,0,0
+7,Mörbylånga,0,0,0,0
+7,Nacka,0,0,0,0
+7,Nora,0,0,0,0
+7,Norberg,0,0,0,0
+7,Nordanstig,0,0,0,0
+7,Nordmaling,0,0,0,0
+7,Norrköping,0,0,0,0
+7,Norrtälje,0,0,0,0
+7,Norsjö,0,0,0,0
+7,Nybro,0,0,0,0
+7,Nykvarn,0,0,0,0
+7,Nyköping,0,0,0,0
+7,Nynäshamn,0,0,0,0
+7,Nässjö,0,0,0,0
+7,Ockelbo,0,0,0,0
+7,Okänd,,,0,0
+7,Olofström,0,0,0,0
+7,Orsa,0,0,0,0
+7,Orust,0,0,0,0
+7,Osby,0,0,0,0
+7,Oskarshamn,0,0,0,0
+7,Ovanåker,0,0,0,0
+7,Oxelösund,0,0,0,0
+7,Pajala,0,0,0,0
+7,Partille,0,0,0,0
+7,Perstorp,0,0,0,0
+7,Piteå,0,0,0,0
+7,Ragunda,0,0,0,0
+7,Robertsfors,0,0,0,0
+7,Ronneby,0,0,0,0
+7,Rättvik,0,0,0,0
+7,Sala,0,0,0,0
+7,Salem,0,0,0,0
+7,Sandviken,0,0,0,0
+7,Sigtuna,0,0,0,0
+7,Simrishamn,0,0,0,0
+7,Sjöbo,0,0,0,0
+7,Skara,0,0,0,0
+7,Skellefteå,0,0,0,0
+7,Skinnskatteberg,0,0,0,0
+7,Skurup,0,0,0,0
+7,Skövde,0,0,0,0
+7,Smedjebacken,0,0,0,0
+7,Sollefteå,0,0,0,0
+7,Sollentuna,0,0,0,0
+7,Solna,0,0,0,0
+7,Sorsele,0,0,0,0
+7,Sotenäs,0,0,0,0
+7,Staffanstorp,0,0,0,0
+7,Stenungsund,0,0,0,0
+7,Stockholm Älvsjö,0,0,0,0
+7,Stockholms kommun Enskede-Årsta-Vantör,0,0,0,0
+7,Stockholm Skarpnäck,0,0,0,0
+7,Stockholm - Kungsholmen,0,0,0,0
+7,Stockholm Södermalm,0,0,0,0
+7,Stockholm Rinkeby-Kista,0,0,0,0
+7,Stockholm Norrmalm,0,0,0,0
+7,Stockholm Hägersten-Liljeholmen,0,0,0,0
+7,Stockholm kommun Skärholmen,0,0,0,0
+7,Skhlm Spånga-Tensta,0,0,0,0
+7,Stockholm Östermalm,0,0,0,0
+7,Stockholm Bromma,0,0,0,0
+7,Stockholm Farsta,0,0,0,0
+7,Stockholm Hässelby-Vällingby,0,0,0,0
+7,Storfors,0,0,0,9999999
+7,Storuman,0,0,0,0
+7,Strängnäs,0,0,0,0
+7,Strömstad,0,0,0,0
+7,Strömsund,0,0,0,0
+7,Sundbyberg,0,0,0,0
+7,Sundsvall,0,0,0,0
+7,Sunne,0,0,0,0
+7,Surahammar,0,0,0,0
+7,Svalöv,0,0,0,0
+7,Svedala,0,0,0,0
+7,Svenljunga,0,0,0,0
+7,Säffle,0,0,0,0
+7,Säter,0,0,0,0
+7,Sävsjö,0,0,0,0
+7,Söderhamn,0,0,0,0
+7,Söderköping,0,0,0,0
+7,Södertälje,0,0,0,9999999
+7,Sölvesborg,0,0,0,0
+7,Tanum,0,0,0,0
+7,Tibro,0,0,0,0
+7,Tidaholm,0,0,0,0
+7,Tierp,0,0,0,0
+7,Timrå,0,0,0,0
+7,Tingsryd,0,0,0,0
+7,Tjörn,0,0,0,0
+7,Tomelilla,0,0,0,0
+7,Torsby,0,0,0,0
+7,Torsås,0,0,0,0
+7,Tranemo,0,0,0,0
+7,Tranås,0,0,0,0
+7,Trelleborg,0,0,0,0
+7,Trollhättan,0,0,0,0
+7,Trosa,0,0,0,0
+7,Tyresö,0,0,0,0
+7,Täby,0,0,0,0
+7,Töreboda,0,0,0,0
+7,Uddevalla,0,0,0,0
+7,Ulricehamn,0,0,0,0
+7,Umeå,0,0,0,0
+7,Upplands Väsby,0,0,0,0
+7,Upplands-Bro,0,0,0,0
+7,Uppsala,0,0,0,0
+7,Uppvidinge,0,0,0,0
+7,Vadstena,0,0,0,0
+7,Vaggeryd,0,0,0,0
+7,Valdemarsvik,0,0,0,0
+7,Vallentuna,0,0,0,0
+7,Vansbro,0,0,0,0
+7,Vara,0,0,0,0
+7,Varberg,0,0,0,0
+7,Vaxholm,0,0,0,0
+7,Vellinge,0,0,0,0
+7,Vetlanda,0,0,0,0
+7,Vilhelmina,0,0,0,0
+7,Vimmerby,0,0,0,0
+7,Vindeln,0,0,0,0
+7,Vingåker,0,0,0,0
+7,Vårgårda,0,0,0,0
+7,Vänersborg,0,0,0,0
+7,Vännäs,0,0,0,0
+7,Värmdö,0,0,0,0
+7,Värnamo,0,0,0,0
+7,Västervik,0,0,0,0
+7,Västerås,0,0,0,0
+7,Växjö,0,0,0,0
+7,Ydre,0,0,0,0
+7,Ystad,0,0,0,0
+7,Åmål,0,0,0,0
+7,Ånge,0,0,0,0
+7,Åre,0,0,0,0
+7,Årjäng,0,0,0,0
+7,Åsele,0,0,0,0
+7,Åstorp,0,0,0,0
+7,Åtvidaberg,0,0,0,0
+7,Älmhult,0,0,0,0
+7,Älvdalen,0,0,0,0
+7,Älvkarleby,0,0,0,0
+7,Älvsbyn,0,0,0,0
+7,Ängelholm,0,0,0,0
+7,Öckerö,0,0,0,0
+7,Ödeshög,0,0,0,0
+7,Örebro,0,0,0,0
+7,Örkelljunga,0,0,0,0
+7,Örnsköldsvik,0,0,0,0
+7,Östersund,0,0,0,0
+7,Österåker,0,0,0,0
+7,Östhammar,0,0,0,0
+7,Östra Göinge,0,0,0,0
+7,Överkalix,0,0,0,0
+7,Övertorneå,0,0,0,0
+8,Ale,0,0,0,0
+8,Alingsås,0,0,0,0
+8,Alvesta,0,0,0,0
+8,Aneby,0,0,0,0
+8,Arboga,0,0,0,0
+8,Arjeplog,0,0,0,0
+8,Arvidsjaur,0,0,0,0
+8,Arvika,0,0,0,0
+8,Askersund,0,0,0,0
+8,Avesta,0,0,0,0
+8,Bengtsfors,0,0,0,0
+8,Berg,0,0,0,0
+8,Bjurholm,0,0,0,0
+8,Bjuv,0,0,0,0
+8,Boden,0,0,0,0
+8,Bollebygd,0,0,0,0
+8,Bollnäs,0,0,0,0
+8,Borgholm,0,0,0,0
+8,Borlänge,0,0,0,0
+8,Borås,0,0,0,0
+8,Botkyrka,0,0,0,0
+8,Boxholm,0,0,0,0
+8,Bromölla,0,0,0,0
+8,Bräcke,0,0,0,0
+8,Burlöv,0,0,0,0
+8,Båstad,0,0,0,0
+8,Dals-Ed,0,0,0,0
+8,Danderyd,0,0,0,0
+8,Degerfors,0,0,0,0
+8,Dorotea,0,0,0,0
+8,Eda,0,0,0,0
+8,Ekerö,0,0,0,0
+8,Eksjö,0,0,0,0
+8,Emmaboda,0,0,0,0
+8,Enköping,0,0,0,0
+8,Eskilstuna,0,0,0,0
+8,Eslöv,0,0,0,0
+8,Essunga,0,0,0,0
+8,Fagersta,0,0,0,0
+8,Falkenberg,0,0,0,0
+8,Falköping,0,0,0,0
+8,Falun,0,0,0,0
+8,Filipstad,0,0,0,0
+8,Finspång,0,0,0,0
+8,Flen,0,0,0,0
+8,Forshaga,0,0,0,0
+8,Färgelanda,0,0,0,0
+8,Gagnef,0,0,0,0
+8,Gislaved,0,0,0,0
+8,Gnesta,0,0,0,0
+8,Gnosjö,0,0,0,0
+8,Gotland,0,0,0,0
+8,Grums,0,0,0,0
+8,Grästorp,0,0,0,0
+8,Gullspång,0,0,0,0
+8,Gällivare,0,0,0,0
+8,Gävle,0,0,0,0
+8,Göteborg Östra Göteborg,0,0,0,0
+8,Göteborg Centrum,0,0,0,0
+8,Göteborg Västra Hisingen,0,0,0,0
+8,Göteborg Askim-Frölunda-Högsbo,0,0,0,0
+8,Gbg Angered,0,0,0,0
+8,Göteborg Norra Hisingen,0,0,0,0
+8,Göteborg Örgryte-Härlanda,0,0,0,0
+8,Göteborg Lundby,0,0,0,0
+8,Göteborg Majorna-Linné,0,0,0,0
+8,Göteborg Västra Göteborg,0,0,0,0
+8,Götene,0,0,0,0
+8,Habo,0,0,0,0
+8,Hagfors,0,0,0,0
+8,Hallsberg,0,0,0,0
+8,Hallstahammar,0,0,0,0
+8,Halmstad,0,0,0,0
+8,Hammarö,0,0,0,0
+8,Haninge,0,0,0,0
+8,Haparanda,0,0,0,0
+8,Heby,0,0,0,0
+8,Hedemora,0,0,0,0
+8,Helsingborg,0,0,0,0
+8,Herrljunga,0,0,0,0
+8,Hjo,0,0,0,0
+8,Hofors,0,0,0,0
+8,Huddinge,0,0,0,0
+8,Hudiksvall,0,0,0,0
+8,Hultsfred,0,0,0,0
+8,Hylte,0,0,0,0
+8,Håbo,0,0,0,0
+8,Hällefors,0,0,0,0
+8,Härjedalen,0,0,0,0
+8,Härnösand,0,0,0,0
+8,Härryda,0,0,0,0
+8,Hässleholm,0,0,0,0
+8,Höganäs,0,0,0,0
+8,Högsby,0,0,0,0
+8,Hörby,0,0,0,0
+8,Höör,0,0,0,0
+8,Jokkmokk,0,0,0,0
+8,Järfälla,0,0,0,0
+8,Jönköping,,,<15,<15
+8,Kalix,0,0,0,0
+8,Kalmar,0,0,0,0
+8,Karlsborg,0,0,0,0
+8,Karlshamn,0,0,0,0
+8,Karlskoga,0,0,0,0
+8,Karlskrona,0,0,0,0
+8,Karlstad,0,0,0,0
+8,Katrineholm,0,0,0,0
+8,Kil,0,0,0,0
+8,Kinda,0,0,0,0
+8,Kiruna,0,0,0,0
+8,Klippan,0,0,0,0
+8,Knivsta,0,0,0,0
+8,Kramfors,0,0,0,0
+8,Kristianstad,0,0,0,0
+8,Kristinehamn,0,0,0,0
+8,Krokom,0,0,0,0
+8,Kumla,0,0,0,0
+8,Kungsbacka,0,0,0,0
+8,Kungsör,0,0,0,0
+8,Kungälv,0,0,0,0
+8,Kävlinge,0,0,0,0
+8,Köping,0,0,0,0
+8,Laholm,0,0,0,0
+8,Landskrona,0,0,0,0
+8,Laxå,0,0,0,0
+8,Lekeberg,0,0,0,0
+8,Leksand,0,0,0,0
+8,Lerum,0,0,0,0
+8,Lessebo,0,0,0,0
+8,Lidingö,0,0,0,0
+8,Lidköping,0,0,0,0
+8,Lilla Edet,0,0,0,0
+8,Lindesberg,0,0,0,0
+8,Linköping,0,0,0,0
+8,Ljungby,0,0,0,0
+8,Ljusdal,0,0,0,0
+8,Ljusnarsberg,0,0,0,0
+8,Lomma,0,0,0,0
+8,Ludvika,0,0,0,0
+8,Luleå,0,0,0,0
+8,Lund,0,0,0,0
+8,Lycksele,0,0,0,0
+8,Lysekil,0,0,0,0
+8,Malmö Rosengård,0,0,0,0
+8,Malmö Hyllie,0,0,0,0
+8,Malmö Södra Innerstaden,0,0,0,0
+8,Malmö Oxie,0,0,0,0
+8,Malmö kommun Centrum,0,0,0,0
+8,Malmö Husie,0,0,0,0
+8,Malmö Fosie,0,0,0,0
+8,Malmös kmn Kirseberg,0,0,0,0
+8,Malmö Västra Innerstaden,0,0,0,0
+8,Malmö Limhamn-Bunkeflo,0,0,0,0
+8,Malung,0,0,0,0
+8,Malå,0,0,0,0
+8,Mariestad,0,0,0,0
+8,Mark,0,0,0,0
+8,Markaryd,0,0,0,0
+8,Mellerud,0,0,0,0
+8,Mjölby,0,0,0,0
+8,Mora,0,0,0,0
+8,Motala,0,0,0,0
+8,Mullsjö,0,0,0,0
+8,Munkedal,0,0,0,0
+8,Munkfors,0,0,0,0
+8,Mölndal,0,0,0,0
+8,Mönsterås,0,0,0,0
+8,Mörbylånga,0,0,0,0
+8,Nacka,0,0,0,0
+8,Nora,0,0,0,0
+8,Norberg,0,0,0,0
+8,Nordanstig,0,0,0,0
+8,Nordmaling,0,0,0,0
+8,Norrköping,0,0,0,0
+8,Norrtälje,0,0,0,0
+8,Norsjö,0,0,0,0
+8,Nybro,0,0,0,0
+8,Nykvarn,0,0,0,0
+8,Nyköping,0,0,0,0
+8,Nynäshamn,0,0,0,0
+8,Nässjö,0,0,0,0
+8,Ockelbo,0,0,0,0
+8,Okänd,,,0,0
+8,Olofström,0,0,0,0
+8,Orsa,0,0,0,0
+8,Orust,0,0,0,0
+8,Osby,0,0,0,0
+8,Oskarshamn,0,0,0,0
+8,Ovanåker,0,0,0,0
+8,Oxelösund,0,0,0,0
+8,Pajala,0,0,0,0
+8,Partille,0,0,0,0
+8,Perstorp,0,0,0,0
+8,Piteå,0,0,0,0
+8,Ragunda,0,0,0,0
+8,Robertsfors,0,0,0,0
+8,Ronneby,0,0,0,0
+8,Rättvik,0,0,0,0
+8,Sala,0,0,0,0
+8,Salem,0,0,0,0
+8,Sandviken,0,0,0,0
+8,Sigtuna,0,0,0,0
+8,Simrishamn,0,0,0,0
+8,Sjöbo,0,0,0,0
+8,Skara,0,0,0,0
+8,Skellefteå,0,0,0,0
+8,Skinnskatteberg,0,0,0,0
+8,Skurup,0,0,0,0
+8,Skövde,0,0,0,0
+8,Smedjebacken,0,0,0,0
+8,Sollefteå,0,0,0,0
+8,Sollentuna,0,0,0,0
+8,Solna,0,0,0,0
+8,Sorsele,0,0,0,0
+8,Sotenäs,0,0,0,0
+8,Staffanstorp,0,0,0,0
+8,Stenungsund,0,0,0,0
+8,Stockholm Rinkeby-Kista,0,0,0,0
+8,Stockholm - Kungsholmen,0,0,0,0
+8,Stockholm Farsta,0,0,0,0
+8,Stockholm Skarpnäck,0,0,0,0
+8,Stockholm kommun Skärholmen,0,0,0,0
+8,Stockholm Älvsjö,0,0,0,0
+8,Stockholm Östermalm,0,0,0,0
+8,Stockholm Norrmalm,0,0,0,0
+8,Stockholm Hägersten-Liljeholmen,0,0,0,0
+8,Skhlm Spånga-Tensta,0,0,0,0
+8,Stockholms kommun Enskede-Årsta-Vantör,0,0,0,0
+8,Stockholm Södermalm,0,0,0,0
+8,Stockholm Hässelby-Vällingby,0,0,0,0
+8,Stockholm Bromma,0,0,0,0
+8,Storfors,0,0,0,0
+8,Storuman,0,0,0,0
+8,Strängnäs,0,0,0,0
+8,Strömstad,0,0,0,0
+8,Strömsund,0,0,0,0
+8,Sundbyberg,0,0,0,0
+8,Sundsvall,0,0,0,0
+8,Sunne,0,0,0,0
+8,Surahammar,0,0,0,0
+8,Svalöv,0,0,0,0
+8,Svedala,0,0,0,0
+8,Svenljunga,0,0,0,0
+8,Säffle,0,0,0,0
+8,Säter,0,0,0,0
+8,Sävsjö,0,0,0,0
+8,Söderhamn,0,0,0,0
+8,Söderköping,0,0,0,0
+8,Södertälje,0,0,0,0
+8,Sölvesborg,0,0,0,0
+8,Tanum,0,0,0,0
+8,Tibro,0,0,0,0
+8,Tidaholm,0,0,0,0
+8,Tierp,0,0,0,0
+8,Timrå,0,0,0,0
+8,Tingsryd,0,0,0,0
+8,Tjörn,0,0,0,0
+8,Tomelilla,0,0,0,0
+8,Torsby,0,0,0,0
+8,Torsås,0,0,0,0
+8,Tranemo,0,0,0,0
+8,Tranås,0,0,0,0
+8,Trelleborg,0,0,0,0
+8,Trollhättan,0,0,0,0
+8,Trosa,0,0,0,0
+8,Tyresö,0,0,0,0
+8,Täby,0,0,0,0
+8,Töreboda,0,0,0,0
+8,Uddevalla,0,0,0,0
+8,Ulricehamn,0,0,0,0
+8,Umeå,0,0,0,0
+8,Upplands Väsby,0,0,0,0
+8,Upplands-Bro,0,0,0,0
+8,Uppsala,0,0,0,0
+8,Uppvidinge,0,0,0,0
+8,Vadstena,0,0,0,0
+8,Vaggeryd,0,0,0,0
+8,Valdemarsvik,0,0,0,0
+8,Vallentuna,0,0,0,0
+8,Vansbro,0,0,0,0
+8,Vara,0,0,0,0
+8,Varberg,0,0,0,0
+8,Vaxholm,0,0,0,0
+8,Vellinge,0,0,0,0
+8,Vetlanda,0,0,0,0
+8,Vilhelmina,0,0,0,0
+8,Vimmerby,0,0,0,0
+8,Vindeln,0,0,0,0
+8,Vingåker,0,0,0,0
+8,Vårgårda,0,0,0,0
+8,Vänersborg,0,0,0,0
+8,Vännäs,0,0,0,0
+8,Värmdö,0,0,0,0
+8,Värnamo,0,0,0,0
+8,Västervik,0,0,0,0
+8,Västerås,0,0,0,0
+8,Växjö,0,0,0,0
+8,Ydre,0,0,0,0
+8,Ystad,0,0,0,0
+8,Åmål,0,0,0,0
+8,Ånge,0,0,0,0
+8,Åre,0,0,0,0
+8,Årjäng,0,0,0,0
+8,Åsele,0,0,0,0
+8,Åstorp,0,0,0,0
+8,Åtvidaberg,0,0,0,0
+8,Älmhult,0,0,0,0
+8,Älvdalen,0,0,0,0
+8,Älvkarleby,0,0,0,0
+8,Älvsbyn,0,0,0,0
+8,Ängelholm,0,0,0,0
+8,Öckerö,0,0,0,0
+8,Ödeshög,0,0,0,0
+8,Örebro,0,0,0,0
+8,Örkelljunga,0,0,0,0
+8,Örnsköldsvik,0,0,0,0
+8,Östersund,0,0,0,0
+8,Österåker,0,0,0,0
+8,Östhammar,0,0,0,0
+8,Östra Göinge,0,0,0,0
+8,Överkalix,0,0,0,0
+8,Övertorneå,0,0,0,0
+9,Ale,0,0,0,0
+9,Alingsås,0,0,0,0
+9,Alvesta,0,0,0,0
+9,Aneby,0,0,0,0
+9,Arboga,0,0,0,0
+9,Arjeplog,0,0,0,0
+9,Arvidsjaur,0,0,0,0
+9,Arvika,0,0,0,0
+9,Askersund,0,0,0,0
+9,Avesta,0,0,0,0
+9,Bengtsfors,0,0,0,0
+9,Berg,0,0,0,0
+9,Bjurholm,0,0,0,0
+9,Bjuv,0,0,0,0
+9,Boden,0,0,0,0
+9,Bollebygd,0,0,0,0
+9,Bollnäs,0,0,0,0
+9,Borgholm,0,0,0,0
+9,Borlänge,0,0,0,0
+9,Borås,0,0,0,0
+9,Botkyrka,0,0,0,0
+9,Boxholm,0,0,0,0
+9,Bromölla,0,0,0,0
+9,Bräcke,0,0,0,0
+9,Burlöv,0,0,0,0
+9,Båstad,0,0,0,0
+9,Dals-Ed,0,0,0,0
+9,Danderyd,0,0,0,0
+9,Degerfors,0,0,0,0
+9,Dorotea,0,0,0,0
+9,Eda,0,0,0,0
+9,Ekerö,0,0,0,0
+9,Eksjö,0,0,0,0
+9,Emmaboda,0,0,0,0
+9,Enköping,0,0,0,0
+9,Eskilstuna,0,0,0,0
+9,Eslöv,0,0,0,0
+9,Essunga,0,0,0,0
+9,Fagersta,0,0,0,0
+9,Falkenberg,0,0,0,0
+9,Falköping,0,0,0,0
+9,Falun,0,0,0,0
+9,Filipstad,0,0,0,0
+9,Finspång,0,0,0,0
+9,Flen,0,0,0,0
+9,Forshaga,0,0,0,0
+9,Färgelanda,0,0,0,0
+9,Gagnef,0,0,0,0
+9,Gislaved,0,0,0,0
+9,Gnesta,0,0,0,0
+9,Gnosjö,0,0,0,0
+9,Gotland,0,0,0,0
+9,Grums,0,0,0,0
+9,Grästorp,0,0,0,0
+9,Gullspång,0,0,0,0
+9,Gällivare,0,0,0,0
+9,Gävle,0,0,0,0
+9,Göteborg Västra Göteborg,,,<15,<15
+9,Göteborg Östra Göteborg,,,<15,<15
+9,Göteborg Askim-Frölunda-Högsbo,0,0,0,0
+9,Göteborg Norra Hisingen,0,0,0,0
+9,Göteborg Centrum,0,0,0,0
+9,Göteborg Örgryte-Härlanda,0,0,0,0
+9,Gbg Angered,0,0,0,0
+9,Göteborg Majorna-Linné,,,<15,<15
+9,Göteborg Lundby,0,0,0,0
+9,Göteborg Västra Hisingen,0,0,0,0
+9,Götene,0,0,0,0
+9,Habo,0,0,0,0
+9,Hagfors,0,0,0,0
+9,Hallsberg,0,0,0,0
+9,Hallstahammar,0,0,0,0
+9,Halmstad,0,0,0,0
+9,Hammarö,0,0,0,0
+9,Haninge,0,0,0,0
+9,Haparanda,0,0,0,0
+9,Heby,0,0,0,0
+9,Hedemora,0,0,0,0
+9,Helsingborg,0,0,0,0
+9,Herrljunga,0,0,0,0
+9,Hjo,0,0,0,0
+9,Hofors,0,0,0,0
+9,Huddinge,0,0,0,0
+9,Hudiksvall,0,0,0,0
+9,Hultsfred,0,0,0,0
+9,Hylte,0,0,0,0
+9,Håbo,0,0,0,0
+9,Hällefors,0,0,0,0
+9,Härjedalen,0,0,0,0
+9,Härnösand,0,0,0,0
+9,Härryda,0,0,0,0
+9,Hässleholm,0,0,0,0
+9,Höganäs,0,0,0,0
+9,Högsby,0,0,0,0
+9,Hörby,0,0,0,0
+9,Höör,0,0,0,0
+9,Jokkmokk,0,0,0,0
+9,Järfälla,0,0,0,0
+9,Jönköping,,,<15,<15
+9,Kalix,0,0,0,0
+9,Kalmar,0,0,0,0
+9,Karlsborg,0,0,0,0
+9,Karlshamn,0,0,0,0
+9,Karlskoga,0,0,0,0
+9,Karlskrona,0,0,0,0
+9,Karlstad,0,0,0,0
+9,Katrineholm,0,0,0,0
+9,Kil,0,0,0,0
+9,Kinda,0,0,0,0
+9,Kiruna,0,0,0,0
+9,Klippan,0,0,0,0
+9,Knivsta,0,0,0,0
+9,Kramfors,0,0,0,0
+9,Kristianstad,0,0,0,0
+9,Kristinehamn,0,0,0,0
+9,Krokom,0,0,0,0
+9,Kumla,0,0,0,0
+9,Kungsbacka,0,0,0,0
+9,Kungsör,0,0,0,0
+9,Kungälv,0,0,0,0
+9,Kävlinge,0,0,0,0
+9,Köping,0,0,0,0
+9,Laholm,0,0,0,0
+9,Landskrona,0,0,0,0
+9,Laxå,0,0,0,0
+9,Lekeberg,0,0,0,0
+9,Leksand,0,0,0,0
+9,Lerum,,,<15,<15
+9,Lessebo,0,0,0,0
+9,Lidingö,0,0,0,0
+9,Lidköping,0,0,0,0
+9,Lilla Edet,0,0,0,0
+9,Lindesberg,0,0,0,0
+9,Linköping,0,0,0,0
+9,Ljungby,0,0,0,0
+9,Ljusdal,0,0,0,0
+9,Ljusnarsberg,0,0,0,0
+9,Lomma,0,0,0,0
+9,Ludvika,0,0,0,0
+9,Luleå,,,<15,<15
+9,Lund,0,0,0,0
+9,Lycksele,0,0,0,0
+9,Lysekil,0,0,0,0
+9,Malmö Rosengård,0,0,0,0
+9,Malmö Oxie,0,0,0,0
+9,Malmö Hyllie,0,0,0,0
+9,Malmö Limhamn-Bunkeflo,0,0,0,0
+9,Malmö Västra Innerstaden,0,0,0,0
+9,Malmö Södra Innerstaden,0,0,0,0
+9,Malmö kommun Centrum,0,0,0,0
+9,Malmö Fosie,0,0,0,0
+9,Malmös kmn Kirseberg,0,0,0,0
+9,Malmö Husie,0,0,0,0
+9,Malung,0,0,0,0
+9,Malå,0,0,0,0
+9,Mariestad,0,0,0,0
+9,Mark,0,0,0,0
+9,Markaryd,0,0,0,0
+9,Mellerud,0,0,0,0
+9,Mjölby,0,0,0,0
+9,Mora,0,0,0,0
+9,Motala,0,0,0,0
+9,Mullsjö,0,0,0,0
+9,Munkedal,0,0,0,0
+9,Munkfors,0,0,0,0
+9,Mölndal,0,0,0,0
+9,Mönsterås,0,0,0,0
+9,Mörbylånga,0,0,0,0
+9,Nacka,0,0,0,0
+9,Nora,0,0,0,0
+9,Norberg,0,0,0,0
+9,Nordanstig,0,0,0,0
+9,Nordmaling,0,0,0,0
+9,Norrköping,0,0,0,0
+9,Norrtälje,0,0,0,0
+9,Norsjö,0,0,0,0
+9,Nybro,0,0,0,0
+9,Nykvarn,0,0,0,0
+9,Nyköping,0,0,0,0
+9,Nynäshamn,0,0,0,0
+9,Nässjö,0,0,0,0
+9,Ockelbo,0,0,0,0
+9,Okänd,,,0,0
+9,Olofström,0,0,0,0
+9,Orsa,0,0,0,0
+9,Orust,0,0,0,0
+9,Osby,0,0,0,0
+9,Oskarshamn,0,0,0,0
+9,Ovanåker,0,0,0,0
+9,Oxelösund,0,0,0,0
+9,Pajala,0,0,0,0
+9,Partille,,,<15,<15
+9,Perstorp,0,0,0,0
+9,Piteå,0,0,0,0
+9,Ragunda,0,0,0,0
+9,Robertsfors,0,0,0,0
+9,Ronneby,0,0,0,0
+9,Rättvik,0,0,0,0
+9,Sala,0,0,0,0
+9,Salem,0,0,0,0
+9,Sandviken,0,0,0,0
+9,Sigtuna,0,0,0,0
+9,Simrishamn,0,0,0,0
+9,Sjöbo,0,0,0,0
+9,Skara,0,0,0,0
+9,Skellefteå,0,0,0,0
+9,Skinnskatteberg,0,0,0,0
+9,Skurup,0,0,0,0
+9,Skövde,0,0,0,0
+9,Smedjebacken,0,0,0,0
+9,Sollefteå,0,0,0,0
+9,Sollentuna,,,<15,<15
+9,Solna,0,0,0,0
+9,Sorsele,0,0,0,0
+9,Sotenäs,0,0,0,0
+9,Staffanstorp,0,0,0,0
+9,Stenungsund,0,0,0,0
+9,Stockholm Älvsjö,0,0,0,0
+9,Skhlm Spånga-Tensta,0,0,0,0
+9,Stockholm Hässelby-Vällingby,0,0,0,0
+9,Stockholm Södermalm,0,0,0,0
+9,Stockholms kommun Enskede-Årsta-Vantör,0,0,0,0
+9,Stockholm Östermalm,0,0,0,0
+9,Stockholm Rinkeby-Kista,0,0,0,0
+9,Stockholm Hägersten-Liljeholmen,0,0,0,0
+9,Stockholm kommun Skärholmen,0,0,0,0
+9,Stockholm Bromma,0,0,0,0
+9,Stockholm - Kungsholmen,0,0,0,0
+9,Stockholm Farsta,0,0,0,0
+9,Stockholm Skarpnäck,0,0,0,0
+9,Stockholm Norrmalm,0,0,0,0
+9,Storfors,0,0,0,0
+9,Storuman,0,0,0,0
+9,Strängnäs,0,0,0,0
+9,Strömstad,0,0,0,0
+9,Strömsund,0,0,0,0
+9,Sundbyberg,0,0,0,0
+9,Sundsvall,0,0,0,0
+9,Sunne,0,0,0,0
+9,Surahammar,0,0,0,0
+9,Svalöv,0,0,0,0
+9,Svedala,0,0,0,0
+9,Svenljunga,0,0,0,0
+9,Säffle,0,0,0,0
+9,Säter,0,0,0,0
+9,Sävsjö,0,0,0,0
+9,Söderhamn,0,0,0,0
+9,Söderköping,0,0,0,0
+9,Södertälje,0,0,0,0
+9,Sölvesborg,0,0,0,0
+9,Tanum,0,0,0,0
+9,Tibro,0,0,0,0
+9,Tidaholm,0,0,0,0
+9,Tierp,0,0,0,0
+9,Timrå,0,0,0,0
+9,Tingsryd,0,0,0,0
+9,Tjörn,0,0,0,0
+9,Tomelilla,0,0,0,0
+9,Torsby,0,0,0,0
+9,Torsås,0,0,0,0
+9,Tranemo,0,0,0,0
+9,Tranås,0,0,0,0
+9,Trelleborg,0,0,0,0
+9,Trollhättan,0,0,0,0
+9,Trosa,0,0,0,0
+9,Tyresö,0,0,0,0
+9,Täby,,,<15,<15
+9,Töreboda,0,0,0,0
+9,Uddevalla,0,0,0,0
+9,Ulricehamn,0,0,0,0
+9,Umeå,0,0,0,0
+9,Upplands Väsby,0,0,0,0
+9,Upplands-Bro,0,0,0,0
+9,Uppsala,,,<15,<15
+9,Uppvidinge,0,0,0,0
+9,Vadstena,0,0,0,0
+9,Vaggeryd,0,0,0,0
+9,Valdemarsvik,0,0,0,0
+9,Vallentuna,0,0,0,0
+9,Vansbro,0,0,0,0
+9,Vara,0,0,0,0
+9,Varberg,0,0,0,0
+9,Vaxholm,0,0,0,0
+9,Vellinge,0,0,0,0
+9,Vetlanda,0,0,0,0
+9,Vilhelmina,0,0,0,0
+9,Vimmerby,0,0,0,0
+9,Vindeln,0,0,0,0
+9,Vingåker,0,0,0,0
+9,Vårgårda,0,0,0,0
+9,Vänersborg,0,0,0,0
+9,Vännäs,0,0,0,0
+9,Värmdö,0,0,0,0
+9,Värnamo,,,<15,<15
+9,Västervik,0,0,0,0
+9,Västerås,0,0,0,0
+9,Växjö,0,0,0,0
+9,Ydre,0,0,0,0
+9,Ystad,0,0,0,0
+9,Åmål,0,0,0,0
+9,Ånge,0,0,0,0
+9,Åre,0,0,0,0
+9,Årjäng,0,0,0,0
+9,Åsele,0,0,0,0
+9,Åstorp,0,0,0,0
+9,Åtvidaberg,0,0,0,0
+9,Älmhult,0,0,0,0
+9,Älvdalen,0,0,0,0
+9,Älvkarleby,0,0,0,0
+9,Älvsbyn,0,0,0,0
+9,Ängelholm,0,0,0,0
+9,Öckerö,0,0,0,0
+9,Ödeshög,0,0,0,0
+9,Örebro,0,0,0,0
+9,Örkelljunga,0,0,0,0
+9,Örnsköldsvik,0,0,0,0
+9,Östersund,0,0,0,0
+9,Österåker,0,0,0,0
+9,Östhammar,0,0,0,0
+9,Östra Göinge,0,0,0,0
+9,Överkalix,0,0,0,0
+9,Övertorneå,0,0,0,0
+10,Ale,0,0,0,0
+10,Alingsås,0,0,0,0
+10,Alvesta,0,0,0,0
+10,Aneby,0,0,0,0
+10,Arboga,0,0,0,0
+10,Arjeplog,0,0,0,0
+10,Arvidsjaur,0,0,0,-199
+10,Arvika,0,0,0,0
+10,Askersund,,,<15,<15
+10,Avesta,0,0,0,0
+10,Bengtsfors,0,0,0,0
+10,Berg,0,0,0,0
+10,Bjurholm,0,0,0,0
+10,Bjuv,0,0,0,0
+10,Boden,0,0,0,0
+10,Bollebygd,0,0,0,0
+10,Bollnäs,0,0,0,0
+10,Borgholm,0,0,0,0
+10,Borlänge,0,0,0,0
+10,Borås,0,0,0,0
+10,Botkyrka,0,0,0,0
+10,Boxholm,0,0,0,0
+10,Bromölla,0,0,0,0
+10,Bräcke,0,0,0,0
+10,Burlöv,0,0,0,0
+10,Båstad,0,0,0,0
+10,Dals-Ed,0,0,0,0
+10,Danderyd,,,<15,<15
+10,Degerfors,0,0,0,0
+10,Dorotea,0,0,0,0
+10,Eda,0,0,0,0
+10,Ekerö,0,0,0,0
+10,Eksjö,0,0,0,0
+10,Emmaboda,0,0,0,0
+10,Enköping,0,0,0,0
+10,Eskilstuna,0,0,0,0
+10,Eslöv,0,0,0,0
+10,Essunga,0,0,0,0
+10,Fagersta,0,0,0,0
+10,Falkenberg,0,0,0,0
+10,Falköping,0,0,0,0
+10,Falun,0,0,0,0
+10,Filipstad,0,0,0,0
+10,Finspång,0,0,0,0
+10,Flen,0,0,0,0
+10,Forshaga,0,0,0,0
+10,Färgelanda,0,0,0,0
+10,Gagnef,0,0,0,0
+10,Gislaved,0,0,0,0
+10,Gnesta,0,0,0,0
+10,Gnosjö,0,0,0,0
+10,Gotland,0,0,0,0
+10,Grums,0,0,0,0
+10,Grästorp,0,0,0,0
+10,Gullspång,0,0,0,0
+10,Gällivare,0,0,0,0
+10,Gävle,,,<15,<15
+10,Göteborg Västra Hisingen,,,<15,<15
+10,Göteborg Askim-Frölunda-Högsbo,0,0,0,0
+10,Gbg Angered,,,<15,<15
+10,Göteborg Norra Hisingen,,,<15,<15
+10,Göteborg Örgryte-Härlanda,,,<15,<15
+10,Göteborg Lundby,0,0,0,0
+10,Göteborg Centrum,,,<15,<15
+10,Göteborg Majorna-Linné,,,<15,<15
+10,Göteborg Västra Göteborg,,,<15,<15
+10,Göteborg Östra Göteborg,,,<15,<15
+10,Götene,0,0,0,0
+10,Habo,0,0,0,0
+10,Hagfors,0,0,0,0
+10,Hallsberg,0,0,0,0
+10,Hallstahammar,0,0,0,0
+10,Halmstad,0,0,0,0
+10,Hammarö,,,<15,<15
+10,Haninge,,,<15,<15
+10,Haparanda,0,0,0,0
+10,Heby,0,0,0,0
+10,Hedemora,0,0,0,0
+10,Helsingborg,,,<15,<15
+10,Herrljunga,0,0,0,0
+10,Hjo,0,0,0,0
+10,Hofors,0,0,0,9999999
+10,Huddinge,,,<15,<15
+10,Hudiksvall,0,0,0,0
+10,Hultsfred,0,0,0,0
+10,Hylte,0,0,0,0
+10,Håbo,0,0,0,0
+10,Hällefors,0,0,0,0
+10,Härjedalen,0,0,0,0
+10,Härnösand,0,0,0,0
+10,Härryda,0,0,0,0
+10,Hässleholm,0,0,0,0
+10,Höganäs,0,0,0,0
+10,Högsby,0,0,0,0
+10,Hörby,0,0,0,0
+10,Höör,0,0,0,0
+10,Jokkmokk,0,0,0,0
+10,Järfälla,,,<15,<15
+10,Jönköping,,,<15,<15
+10,Kalix,0,0,0,0
+10,Kalmar,0,0,0,0
+10,Karlsborg,0,0,0,0
+10,Karlshamn,0,0,0,0
+10,Karlskoga,0,0,0,0
+10,Karlskrona,0,0,0,0
+10,Karlstad,,,<15,<15
+10,Katrineholm,0,0,0,0
+10,Kil,0,0,0,0
+10,Kinda,0,0,0,0
+10,Kiruna,0,0,0,0
+10,Klippan,0,0,0,0
+10,Knivsta,,,<15,<15
+10,Kramfors,0,0,0,0
+10,Kristianstad,,,<15,<15
+10,Kristinehamn,0,0,0,0
+10,Krokom,0,0,0,0
+10,Kumla,,,<15,<15
+10,Kungsbacka,,,<15,<15
+10,Kungsör,0,0,0,0
+10,Kungälv,0,0,0,0
+10,Kävlinge,0,0,0,0
+10,Köping,0,0,0,0
+10,Laholm,0,0,0,0
+10,Landskrona,,,<15,<15
+10,Laxå,0,0,0,0
+10,Lekeberg,0,0,0,0
+10,Leksand,0,0,0,0
+10,Lerum,,,<15,<15
+10,Lessebo,0,0,0,0
+10,Lidingö,,,<15,<15
+10,Lidköping,0,0,0,0
+10,Lilla Edet,0,0,0,0
+10,Lindesberg,0,0,0,0
+10,Linköping,0,0,0,0
+10,Ljungby,0,0,0,0
+10,Ljusdal,0,0,0,0
+10,Ljusnarsberg,0,0,0,0
+10,Lomma,0,0,0,0
+10,Ludvika,0,0,0,0
+10,Luleå,,,<15,<15
+10,Lund,,,<15,<15
+10,Lycksele,0,0,0,0
+10,Lysekil,0,0,0,0
+10,Malmö Hyllie,0,0,0,0
+10,Malmös kmn Kirseberg,0,0,0,0
+10,Malmö Södra Innerstaden,0,0,0,0
+10,Malmö Västra Innerstaden,0,0,0,0
+10,Malmö Rosengård,0,0,0,0
+10,Malmö kommun Centrum,,,<15,<15
+10,Malmö Oxie,0,0,0,0
+10,Malmö Limhamn-Bunkeflo,,,<15,<15
+10,Malmö Fosie,0,0,0,0
+10,Malmö Husie,0,0,0,0
+10,Malung,0,0,0,0
+10,Malå,0,0,0,0
+10,Mariestad,,,<15,<15
+10,Mark,0,0,0,0
+10,Markaryd,0,0,0,0
+10,Mellerud,0,0,0,0
+10,Mjölby,0,0,0,0
+10,Mora,0,0,0,0
+10,Motala,0,0,0,0
+10,Mullsjö,0,0,0,0
+10,Munkedal,0,0,0,0
+10,Munkfors,0,0,0,0
+10,Mölndal,,,<15,<15
+10,Mönsterås,0,0,0,0
+10,Mörbylånga,0,0,0,0
+10,Nacka,,,<15,<15
+10,Nora,0,0,0,0
+10,Norberg,0,0,0,0
+10,Nordanstig,0,0,0,0
+10,Nordmaling,0,0,0,0
+10,Norrköping,0,0,0,0
+10,Norrtälje,0,0,0,0
+10,Norsjö,0,0,0,0
+10,Nybro,0,0,0,0
+10,Nykvarn,0,0,0,0
+10,Nyköping,0,0,0,0
+10,Nynäshamn,,,<15,<15
+10,Nässjö,0,0,0,0
+10,Ockelbo,0,0,0,0
+10,Okänd,,,<15,<15
+10,Olofström,0,0,0,0
+10,Orsa,0,0,0,0
+10,Orust,0,0,0,0
+10,Osby,0,0,0,0
+10,Oskarshamn,0,0,0,0
+10,Ovanåker,0,0,0,0
+10,Oxelösund,0,0,0,0
+10,Pajala,0,0,0,0
+10,Partille,,,<15,<15
+10,Perstorp,0,0,0,0
+10,Piteå,0,0,0,0
+10,Ragunda,0,0,0,0
+10,Robertsfors,0,0,0,0
+10,Ronneby,0,0,0,0
+10,Rättvik,0,0,0,0
+10,Sala,0,0,0,0
+10,Salem,0,0,0,0
+10,Sandviken,0,0,0,0
+10,Sigtuna,,,<15,<15
+10,Simrishamn,0,0,0,0
+10,Sjöbo,0,0,0,0
+10,Skara,0,0,0,0
+10,Skellefteå,0,0,0,0
+10,Skinnskatteberg,0,0,0,0
+10,Skurup,,,<15,<15
+10,Skövde,,,<15,<15
+10,Smedjebacken,0,0,0,0
+10,Sollefteå,0,0,0,0
+10,Sollentuna,,,<15,<15
+10,Solna,0,0,0,0
+10,Sorsele,0,0,0,0
+10,Sotenäs,0,0,0,0
+10,Staffanstorp,0,0,0,0
+10,Stenungsund,,,<15,<15
+10,Stockholm Södermalm,,,<15,<15
+10,Stockholm Farsta,0,0,0,0
+10,Skhlm Spånga-Tensta,,,<15,<15
+10,Stockholms kommun Enskede-Årsta-Vantör,,,<15,<15
+10,Stockholm Östermalm,,,<15,<15
+10,Stockholm Hägersten-Liljeholmen,,,<15,<15
+10,Stockholm Hässelby-Vällingby,0,0,0,0
+10,Stockholm Norrmalm,,,<15,<15
+10,Stockholm Skarpnäck,,,<15,<15
+10,Stockholm Älvsjö,,,<15,<15
+10,Stockholm Rinkeby-Kista,,,<15,<15
+10,Stockholm - Kungsholmen,,,<15,<15
+10,Stockholm kommun Skärholmen,0,0,0,0
+10,Stockholm Bromma,,,<15,<15
+10,Storfors,0,0,0,0
+10,Storuman,0,0,0,0
+10,Strängnäs,0,0,0,0
+10,Strömstad,0,0,0,0
+10,Strömsund,0,0,0,0
+10,Sundbyberg,0,0,0,0
+10,Sundsvall,0,0,0,100000
+10,Sunne,0,0,0,0
+10,Surahammar,0,0,0,0
+10,Svalöv,0,0,0,0
+10,Svedala,0,0,0,0
+10,Svenljunga,0,0,0,0
+10,Säffle,0,0,0,0
+10,Säter,0,0,0,0
+10,Sävsjö,0,0,0,0
+10,Söderhamn,0,0,0,0
+10,Söderköping,0,0,0,0
+10,Södertälje,0,0,0,0
+10,Sölvesborg,0,0,0,0
+10,Tanum,0,0,0,0
+10,Tibro,0,0,0,0
+10,Tidaholm,0,0,0,0
+10,Tierp,0,0,0,0
+10,Timrå,0,0,0,0
+10,Tingsryd,0,0,0,0
+10,Tjörn,0,0,0,0
+10,Tomelilla,0,0,0,0
+10,Torsby,0,0,0,0
+10,Torsås,0,0,0,0
+10,Tranemo,0,0,0,0
+10,Tranås,0,0,0,0
+10,Trelleborg,0,0,0,0
+10,Trollhättan,0,0,0,0
+10,Trosa,0,0,0,0
+10,Tyresö,,,<15,<15
+10,Täby,,,<15,<15
+10,Töreboda,0,0,0,0
+10,Uddevalla,0,0,0,0
+10,Ulricehamn,0,0,0,0
+10,Umeå,0,0,0,0
+10,Upplands Väsby,0,0,0,0
+10,Upplands-Bro,,,<15,<15
+10,Uppsala,,,<15,<15
+10,Uppvidinge,0,0,0,0
+10,Vadstena,0,0,0,0
+10,Vaggeryd,,,<15,<15
+10,Valdemarsvik,0,0,0,0
+10,Vallentuna,,,<15,<15
+10,Vansbro,0,0,0,0
+10,Vara,0,0,0,0
+10,Varberg,0,0,0,0
+10,Vaxholm,,,<15,<15
+10,Vellinge,0,0,0,0
+10,Vetlanda,0,0,0,0
+10,Vilhelmina,0,0,0,0
+10,Vimmerby,0,0,0,0
+10,Vindeln,0,0,0,0
+10,Vingåker,0,0,0,0
+10,Vårgårda,,,<15,<15
+10,Vänersborg,0,0,0,0
+10,Vännäs,0,0,0,0
+10,Värmdö,,,<15,<15
+10,Värnamo,,,<15,<15
+10,Västervik,0,0,0,0
+10,Västerås,0,0,0,0
+10,Växjö,0,0,0,0
+10,Ydre,0,0,0,0
+10,Ystad,0,0,0,0
+10,Åmål,0,0,0,0
+10,Ånge,0,0,0,0
+10,Åre,0,0,0,0
+10,Årjäng,0,0,0,0
+10,Åsele,0,0,0,0
+10,Åstorp,0,0,0,0
+10,Åtvidaberg,0,0,0,0
+10,Älmhult,0,0,0,0
+10,Älvdalen,0,0,0,0
+10,Älvkarleby,,,<15,<15
+10,Älvsbyn,0,0,0,0
+10,Ängelholm,,,<15,<15
+10,Öckerö,0,0,0,0
+10,Ödeshög,0,0,0,0
+10,Örebro,0,0,0,0
+10,Örkelljunga,0,0,0,0
+10,Örnsköldsvik,0,0,0,0
+10,Östersund,0,0,0,0
+10,Österåker,,,<15,<15
+10,Östhammar,0,0,0,0
+10,Östra Göinge,0,0,0,0
+10,Överkalix,0,0,0,0
+10,Övertorneå,0,0,0,0

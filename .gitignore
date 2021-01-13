@@ -1,0 +1,4 @@
+env
+.vscode
+export.csv
+.ipynb_checkpoints

@@ -1,0 +1,3221 @@
+veckonummer,Kommun_stadsdel,tot_antal_fall_per10000inv,antal_fall_per10000_inv,tot_antal_fall,nya_fall_vecka
+21,Ale,27,2,85,6
+21,Alingsås,32,5,133,20
+21,Alvesta,51,4,102,8
+21,Aneby,55,1,38,1
+21,Arboga,36,6,51,9
+21,Arjeplog,,,<15,<15
+21,Arvidsjaur,,,<15,<15
+21,Arvika,13,8,35,21
+21,Askersund,39,11,44,12
+21,Avesta,24,3,56,6
+21,Bengtsfors,,,<15,<15
+21,Berg,65,23,46,16
+21,Bjurholm,,,<15,<15
+21,Bjuv,,,<15,<15
+21,Boden,28,1,79,4
+21,Bollebygd,,,<15,<15
+21,Bollnäs,43,11,115,29
+21,Borgholm,,,<15,<15
+21,Borlänge,68,2,360,11
+21,Borås,37,7,421,79
+21,Botkyrka,59,4,560,42
+21,Boxholm,29,5,16,3
+21,Bromölla,,,<15,<15
+21,Bräcke,78,11,49,7
+21,Burlöv,24,1,46,2
+21,Båstad,11,1,17,2
+21,Dals-Ed,,,<15,<15
+21,Danderyd,36,2,118,5
+21,Degerfors,72,19,70,18
+21,Dorotea,0,0,0,0
+21,Eda,,,<15,<15
+21,Ekerö,32,2,91,7
+21,Eksjö,46,5,81,8
+21,Emmaboda,,,<15,<15
+21,Enköping,33,4,151,17
+21,Eskilstuna,56,2,601,18
+21,Eslöv,8,1,28,4
+21,Essunga,,,<15,<15
+21,Fagersta,27,2,36,3
+21,Falkenberg,17,2,78,7
+21,Falköping,15,1,51,4
+21,Falun,53,5,316,30
+21,Filipstad,52,6,55,6
+21,Finspång,37,5,82,12
+21,Flen,59,1,98,1
+21,Forshaga,,,<15,<15
+21,Färgelanda,,,<15,<15
+21,Gagnef,64,2,66,2
+21,Gislaved,13,2,39,5
+21,Gnesta,55,4,62,4
+21,Gnosjö,43,2,42,2
+21,Gotland,12,1,72,6
+21,Grums,,,<15,<15
+21,Grästorp,,,<15,<15
+21,Gullspång,,,<15,<15
+21,Gällivare,10,1,17,1
+21,Gävle,43,4,440,36
+21,Gbg Angered,40,4,215,20
+21,Göteborg Västra Hisingen,25,3,142,15
+21,Göteborg Norra Hisingen,28,5,144,24
+21,Göteborg Lundby,35,7,194,36
+21,Göteborg Västra Göteborg,37,5,199,26
+21,Göteborg Askim-Frölunda-Högsbo,35,5,227,29
+21,Göteborg Östra Göteborg,55,4,285,20
+21,Göteborg Majorna-Linné,32,4,205,27
+21,Göteborg Centrum,34,3,215,21
+21,Göteborg Örgryte-Härlanda,44,6,269,36
+21,Götene,,,<15,<15
+21,Habo,16,5,20,6
+21,Hagfors,,,<15,<15
+21,Hallsberg,35,5,56,8
+21,Hallstahammar,26,2,43,3
+21,Halmstad,16,2,163,21
+21,Hammarö,14,2,23,4
+21,Haninge,47,3,431,32
+21,Haparanda,,,<15,<15
+21,Heby,27,4,38,5
+21,Hedemora,18,1,28,1
+21,Helsingborg,21,3,307,48
+21,Herrljunga,35,5,33,5
+21,Hjo,,,<15,<15
+21,Hofors,50,8,48,8
+21,Huddinge,54,5,608,62
+21,Hudiksvall,41,7,153,25
+21,Hultsfred,,,<15,<15
+21,Hylte,15,0,16,0
+21,Håbo,32,1,71,3
+21,Hällefors,103,0,72,0
+21,Härjedalen,30,15,30,15
+21,Härnösand,21,3,53,7
+21,Härryda,19,3,72,12
+21,Hässleholm,9,3,47,18
+21,Höganäs,9,2,25,5
+21,Högsby,,,<15,<15
+21,Hörby,,,<15,<15
+21,Höör,,,<15,<15
+21,Jokkmokk,,,<15,<15
+21,Järfälla,45,3,357,20
+21,Jönköping,47,7,663,99
+21,Kalix,,,<15,<15
+21,Kalmar,18,2,126,17
+21,Karlsborg,,,<15,<15
+21,Karlshamn,,,<15,<15
+21,Karlskoga,44,4,134,12
+21,Karlskrona,17,6,113,40
+21,Karlstad,17,3,160,24
+21,Katrineholm,72,1,251,4
+21,Kil,13,2,16,2
+21,Kinda,72,0,72,0
+21,Kiruna,41,1,94,2
+21,Klippan,,,<15,<15
+21,Knivsta,20,2,37,4
+21,Kramfors,43,4,79,8
+21,Kristianstad,7,0,61,0
+21,Kristinehamn,20,2,48,4
+21,Krokom,34,2,51,3
+21,Kumla,52,12,112,26
+21,Kungsbacka,20,2,168,14
+21,Kungsör,33,5,29,4
+21,Kungälv,28,3,131,12
+21,Kävlinge,,,<15,<15
+21,Köping,49,1,128,3
+21,Laholm,24,6,61,15
+21,Landskrona,6,2,29,8
+21,Laxå,79,4,45,2
+21,Lekeberg,29,5,24,4
+21,Leksand,35,3,56,4
+21,Lerum,29,5,125,21
+21,Lessebo,,,<15,<15
+21,Lidingö,52,3,250,13
+21,Lidköping,26,4,103,15
+21,Lilla Edet,24,1,34,2
+21,Lindesberg,29,2,68,4
+21,Linköping,41,2,671,25
+21,Ljungby,36,5,103,13
+21,Ljusdal,21,4,39,8
+21,Ljusnarsberg,,,<15,<15
+21,Lomma,10,1,24,3
+21,Ludvika,28,3,75,8
+21,Luleå,11,1,86,9
+21,Lund,10,3,124,33
+21,Lycksele,,,<15,<15
+21,Lysekil,12,1,18,1
+21,Malmö Hyllie,16,1,62,4
+21,Malmö Centrum,15,1,83,8
+21,Malmö Oxie,,,<15,<15
+21,Malmös kmn Kirseberg,10,2,16,3
+21,Malmö Fosie,14,3,66,12
+21,Malmö Limhamn-Bunkeflo,13,2,66,8
+21,Malmö Västra Innerstaden,13,2,47,8
+21,Malmö Södra Innerstaden,12,2,44,6
+21,Malmö Rosengård,22,1,51,2
+21,Malmö Husie,14,1,34,3
+21,Malung,,,<15,<15
+21,Malå,,,<15,<15
+21,Mariestad,8,2,19,6
+21,Mark,16,3,56,11
+21,Markaryd,69,20,71,21
+21,Mellerud,,,<15,<15
+21,Mjölby,27,0,75,0
+21,Mora,11,3,22,7
+21,Motala,24,3,103,15
+21,Mullsjö,,,<15,<15
+21,Munkedal,24,4,25,4
+21,Munkfors,56,35,21,13
+21,Mölndal,31,3,212,20
+21,Mönsterås,19,1,26,1
+21,Mörbylånga,11,1,17,2
+21,Nacka,51,5,537,52
+21,Nora,18,2,19,2
+21,Norberg,28,2,16,1
+21,Nordanstig,,,<15,<15
+21,Nordmaling,,,<15,<15
+21,Norrköping,51,6,728,84
+21,Norrtälje,16,1,101,8
+21,Norsjö,,,<15,<15
+21,Nybro,9,1,19,3
+21,Nykvarn,35,0,38,0
+21,Nyköping,49,5,279,28
+21,Nynäshamn,22,2,62,7
+21,Nässjö,48,3,150,11
+21,Ockelbo,58,5,34,3
+21,Okänd,,,397,35
+21,Olofström,,,<15,<15
+21,Orsa,,,<15,<15
+21,Orust,12,4,19,6
+21,Osby,,,<15,<15
+21,Oskarshamn,9,0,25,1
+21,Ovanåker,45,15,52,17
+21,Oxelösund,52,3,62,3
+21,Pajala,,,<15,<15
+21,Partille,38,7,148,28
+21,Perstorp,,,<15,<15
+21,Piteå,6,1,24,5
+21,Ragunda,,,<15,<15
+21,Robertsfors,47,0,32,0
+21,Ronneby,7,1,20,4
+21,Rättvik,22,2,24,2
+21,Sala,49,4,112,9
+21,Salem,57,2,96,4
+21,Sandviken,40,4,157,15
+21,Sigtuna,50,4,247,22
+21,Simrishamn,,,<15,<15
+21,Sjöbo,9,2,18,4
+21,Skara,18,4,33,7
+21,Skellefteå,22,2,159,11
+21,Skinnskatteberg,,,<15,<15
+21,Skurup,,,<15,<15
+21,Skövde,18,5,101,29
+21,Smedjebacken,35,3,38,3
+21,Sollefteå,32,5,62,9
+21,Sollentuna,46,2,338,16
+21,Solna,51,4,421,31
+21,Sorsele,,,<15,<15
+21,Sotenäs,20,6,18,5
+21,Staffanstorp,6,1,16,2
+21,Stenungsund,20,1,54,4
+21,Stockholm Bromma,43,4,351,30
+21,Stockholm Älvsjö,56,4,178,13
+21,Stockholm - Kungsholmen,41,4,290,27
+21,Stockholm Skarpnäck,51,6,238,28
+21,Stockholm Norrmalm,49,3,360,22
+21,Skhlm Spånga-Tensta,75,4,293,15
+21,Stockholm Hägersten-Liljeholmen,38,3,351,30
+21,Stockholm Östermalm,46,4,360,29
+21,Stockholms kommun Enskede-Årsta-Vantör,55,5,569,49
+21,Stockholm Hässelby-Vällingby,50,3,386,23
+21,Stockholm kommun Skärholmen,75,6,285,22
+21,Stockholm Södermalm,46,5,607,64
+21,Stockholm Rinkeby-Kista,97,4,498,22
+21,Stockholm Farsta,55,6,327,34
+21,Storfors,,,<15,<15
+21,Storuman,,,<15,<15
+21,Strängnäs,21,2,78,7
+21,Strömstad,,,<15,<15
+21,Strömsund,,,<15,<15
+21,Sundbyberg,59,3,307,17
+21,Sundsvall,23,8,232,75
+21,Sunne,14,2,19,3
+21,Surahammar,,,<15,<15
+21,Svalöv,,,<15,<15
+21,Svedala,10,0,22,1
+21,Svenljunga,19,4,20,4
+21,Säffle,,,<15,<15
+21,Säter,36,2,40,2
+21,Sävsjö,20,0,23,0
+21,Söderhamn,23,4,60,9
+21,Söderköping,35,3,51,4
+21,Södertälje,70,5,690,53
+21,Sölvesborg,,,<15,<15
+21,Tanum,13,2,17,2
+21,Tibro,37,10,42,11
+21,Tidaholm,41,5,53,7
+21,Tierp,28,5,60,10
+21,Timrå,53,15,96,27
+21,Tingsryd,44,19,54,23
+21,Tjörn,18,1,29,2
+21,Tomelilla,,,<15,<15
+21,Torsby,,,<15,<15
+21,Torsås,29,0,21,0
+21,Tranemo,,,<15,<15
+21,Tranås,15,2,28,3
+21,Trelleborg,7,1,32,4
+21,Trollhättan,43,6,255,38
+21,Trosa,30,7,41,9
+21,Tyresö,56,4,273,20
+21,Täby,35,2,254,15
+21,Töreboda,,,<15,<15
+21,Uddevalla,28,3,159,18
+21,Ulricehamn,26,9,64,22
+21,Umeå,15,2,195,32
+21,Upplands Väsby,58,4,272,20
+21,Upplands-Bro,37,2,109,6
+21,Uppsala,50,6,1154,142
+21,Uppvidinge,20,1,19,1
+21,Vadstena,,,<15,<15
+21,Vaggeryd,25,1,36,2
+21,Valdemarsvik,47,9,37,7
+21,Vallentuna,18,2,63,8
+21,Vansbro,35,3,24,2
+21,Vara,10,2,16,3
+21,Varberg,30,5,197,32
+21,Vaxholm,49,4,59,5
+21,Vellinge,12,1,44,5
+21,Vetlanda,22,3,60,9
+21,Vilhelmina,,,<15,<15
+21,Vimmerby,0,0,0,0
+21,Vindeln,37,0,20,0
+21,Vingåker,71,1,65,1
+21,Vårgårda,19,2,23,2
+21,Vänersborg,48,4,192,14
+21,Vännäs,,,<15,<15
+21,Värmdö,45,3,201,15
+21,Värnamo,39,5,135,17
+21,Västervik,8,0,30,1
+21,Västerås,44,5,685,75
+21,Växjö,32,4,297,33
+21,Ydre,,,<15,<15
+21,Ystad,,,<15,<15
+21,Åmål,16,2,20,2
+21,Ånge,,,<15,<15
+21,Åre,52,3,61,4
+21,Årjäng,,,<15,<15
+21,Åsele,0,0,0,0
+21,Åstorp,,,<15,<15
+21,Åtvidaberg,41,4,47,5
+21,Älmhult,37,7,66,13
+21,Älvdalen,,,<15,<15
+21,Älvkarleby,41,4,39,4
+21,Älvsbyn,,,<15,<15
+21,Ängelholm,9,3,38,13
+21,Öckerö,39,17,50,22
+21,Ödeshög,,,<15,<15
+21,Örebro,63,5,977,80
+21,Örkelljunga,,,<15,<15
+21,Örnsköldsvik,10,2,54,9
+21,Östersund,55,7,348,47
+21,Österåker,25,1,113,5
+21,Östhammar,47,1,105,2
+21,Östra Göinge,,,<15,<15
+21,Överkalix,0,0,0,0
+21,Övertorneå,,,<15,<15
+22,Ale,28,1,89,4
+22,Alingsås,35,3,145,12
+22,Alvesta,61,10,122,20
+22,Aneby,57,1,39,1
+22,Arboga,40,4,56,5
+22,Arjeplog,,,<15,<15
+22,Arvidsjaur,,,<15,<15
+22,Arvika,23,10,60,25
+22,Askersund,47,8,53,9
+22,Avesta,25,1,58,2
+22,Bengtsfors,,,<15,<15
+22,Berg,74,8,52,6
+22,Bjurholm,,,<15,<15
+22,Bjuv,,,<15,<15
+22,Boden,29,1,81,2
+22,Bollebygd,17,6,16,6
+22,Bollnäs,48,5,129,14
+22,Borgholm,21,9,23,10
+22,Borlänge,71,3,374,14
+22,Borås,44,7,499,78
+22,Botkyrka,65,6,619,59
+22,Boxholm,29,0,16,0
+22,Bromölla,,,<15,<15
+22,Bräcke,98,21,62,13
+22,Burlöv,27,3,52,6
+22,Båstad,12,1,18,1
+22,Dals-Ed,,,<15,<15
+22,Danderyd,40,4,131,13
+22,Degerfors,79,6,76,6
+22,Dorotea,0,0,0,0
+22,Eda,,,<15,<15
+22,Ekerö,34,2,98,7
+22,Eksjö,51,6,91,10
+22,Emmaboda,,,<15,<15
+22,Enköping,37,4,167,16
+22,Eskilstuna,59,3,635,34
+22,Eslöv,10,1,33,5
+22,Essunga,,,<15,<15
+22,Fagersta,31,4,42,6
+22,Falkenberg,21,4,96,18
+22,Falköping,17,2,58,7
+22,Falun,56,3,331,15
+22,Filipstad,54,3,58,3
+22,Finspång,41,3,89,7
+22,Flen,60,1,99,1
+22,Forshaga,22,17,25,19
+22,Färgelanda,,,<15,<15
+22,Gagnef,67,3,69,3
+22,Gislaved,17,4,51,12
+22,Gnesta,62,7,70,8
+22,Gnosjö,58,14,56,14
+22,Gotland,14,2,83,11
+22,Grums,,,<15,<15
+22,Grästorp,,,<15,<15
+22,Gullspång,,,<15,<15
+22,Gällivare,14,4,24,7
+22,Gävle,46,3,474,34
+22,Göteborg Askim-Frölunda-Högsbo,40,5,259,9999999
+22,Göteborg Centrum,37,4,239,24
+22,Gbg Angered,45,5,243,28
+22,Göteborg Majorna-Linné,37,5,235,30
+22,Göteborg Örgryte-Härlanda,49,6,303,34
+22,Göteborg Västra Hisingen,30,5,169,27
+22,Göteborg Västra Göteborg,44,7,235,36
+22,Göteborg Norra Hisingen,32,4,164,20
+22,Göteborg Lundby,41,6,226,32
+22,Göteborg Östra Göteborg,63,8,328,43
+22,Götene,14,5,19,6
+22,Habo,21,5,26,6
+22,Hagfors,15,3,17,3
+22,Hallsberg,40,4,63,7
+22,Hallstahammar,28,2,46,3
+22,Halmstad,19,3,193,30
+22,Hammarö,16,2,26,3
+22,Haninge,53,7,492,61
+22,Haparanda,,,<15,<15
+22,Heby,29,2,41,3
+22,Hedemora,20,2,31,3
+22,Helsingborg,24,4,360,53
+22,Herrljunga,37,2,35,2
+22,Hjo,,,<15,<15
+22,Hofors,54,4,52,4
+22,Huddinge,60,6,677,69
+22,Hudiksvall,55,14,205,52
+22,Hultsfred,,,<15,<15
+22,Hylte,16,1,17,1
+22,Håbo,35,3,77,6
+22,Hällefors,103,0,72,0
+22,Härjedalen,53,23,53,23
+22,Härnösand,24,3,60,7
+22,Härryda,22,3,82,10
+22,Hässleholm,11,2,57,10
+22,Höganäs,14,5,39,14
+22,Högsby,,,<15,<15
+22,Hörby,10,1,16,1
+22,Höör,,,<15,<15
+22,Jokkmokk,,,<15,<15
+22,Järfälla,51,7,409,52
+22,Jönköping,55,8,778,115
+22,Kalix,,,<15,<15
+22,Kalmar,22,4,154,28
+22,Karlsborg,,,<15,<15
+22,Karlshamn,,,<15,<15
+22,Karlskoga,45,1,138,4
+22,Karlskrona,25,8,169,56
+22,Karlstad,20,3,190,30
+22,Katrineholm,73,1,255,4
+22,Kil,13,0,16,-199
+22,Kinda,72,0,72,0
+22,Kiruna,47,6,107,13
+22,Klippan,,,<15,<15
+22,Knivsta,24,5,46,9
+22,Kramfors,52,9,95,16
+22,Kristianstad,7,0,63,2
+22,Kristinehamn,22,2,53,5
+22,Krokom,39,5,59,8
+22,Kumla,60,8,130,18
+22,Kungsbacka,24,4,204,36
+22,Kungsör,37,3,32,3
+22,Kungälv,31,3,143,12
+22,Kävlinge,,,<15,<15
+22,Köping,50,2,132,4
+22,Laholm,27,3,70,9
+22,Landskrona,7,1,32,3
+22,Laxå,81,2,46,1
+22,Lekeberg,33,4,27,3
+22,Leksand,38,3,60,4
+22,Lerum,33,4,140,15
+22,Lessebo,,,<15,<15
+22,Lidingö,56,4,268,18
+22,Lidköping,29,3,115,12
+22,Lilla Edet,28,4,39,5
+22,Lindesberg,31,2,73,5
+22,Linköping,42,1,686,15
+22,Ljungby,39,3,111,8
+22,Ljusdal,23,2,43,4
+22,Ljusnarsberg,,,<15,<15
+22,Lomma,12,2,29,5
+22,Ludvika,30,2,81,6
+22,Luleå,13,2,100,14
+22,Lund,12,2,152,28
+22,Lycksele,,,<15,<15
+22,Lysekil,16,4,24,6
+22,Malmö Centrum,16,2,92,9
+22,Malmö Rosengård,22,0,52,1
+22,Malmö Västra Innerstaden,15,2,53,6
+22,Malmö Husie,16,2,38,4
+22,Malmös kmn Kirseberg,13,3,21,5
+22,Malmö Fosie,18,3,82,16
+22,Malmö Södra Innerstaden,13,1,47,3
+22,Malmö Oxie,13,4,18,5
+22,Malmö Limhamn-Bunkeflo,14,1,73,7
+22,Malmö Hyllie,18,2,68,6
+22,Malung,16,1,16,1
+22,Malå,,,<15,<15
+22,Mariestad,16,8,39,20
+22,Mark,21,5,73,17
+22,Markaryd,80,12,83,12
+22,Mellerud,,,<15,<15
+22,Mjölby,27,0,75,0
+22,Mora,18,7,37,15
+22,Motala,24,0,105,2
+22,Mullsjö,,,<15,<15
+22,Munkedal,24,0,25,0
+22,Munkfors,126,70,47,26
+22,Mölndal,34,3,236,24
+22,Mönsterås,20,1,27,1
+22,Mörbylånga,14,3,22,5
+22,Nacka,55,4,581,44
+22,Nora,18,0,19,0
+22,Norberg,28,0,16,0
+22,Nordanstig,,,<15,<15
+22,Nordmaling,,,<15,<15
+22,Norrköping,54,3,766,38
+22,Norrtälje,20,4,123,22
+22,Norsjö,,,<15,<15
+22,Nybro,17,8,35,16
+22,Nykvarn,39,5,43,5
+22,Nyköping,54,4,304,25
+22,Nynäshamn,26,4,73,11
+22,Nässjö,54,7,171,21
+22,Ockelbo,59,2,35,1
+22,Okänd,,,430,33
+22,Olofström,,,<15,<15
+22,Orsa,,,<15,<15
+22,Orust,16,3,24,5
+22,Osby,,,<15,<15
+22,Oskarshamn,10,1,28,3
+22,Ovanåker,59,15,69,17
+22,Oxelösund,55,3,66,4
+22,Pajala,,,<15,<15
+22,Partille,44,6,171,23
+22,Perstorp,,,<15,<15
+22,Piteå,8,3,35,11
+22,Ragunda,,,<15,<15
+22,Robertsfors,49,1,33,1
+22,Ronneby,9,2,27,7
+22,Rättvik,24,2,26,2
+22,Sala,54,5,124,12
+22,Salem,59,2,99,3
+22,Sandviken,45,5,178,21
+22,Sigtuna,57,6,278,31
+22,Simrishamn,,,<15,<15
+22,Sjöbo,10,1,19,1
+22,Skara,30,12,56,23
+22,Skellefteå,23,1,166,7
+22,Skinnskatteberg,,,<15,<15
+22,Skurup,,,<15,<15
+22,Skövde,26,8,148,47
+22,Smedjebacken,40,6,44,6
+22,Sollefteå,34,2,66,4
+22,Sollentuna,50,4,368,30
+22,Solna,55,4,450,29
+22,Sorsele,,,<15,<15
+22,Sotenäs,20,0,18,0
+22,Staffanstorp,8,2,20,4
+22,Stenungsund,22,1,58,4
+22,Stockholm Norrmalm,54,5,398,38
+22,Stockholm - Kungsholmen,45,4,321,31
+22,Stockholm Rinkeby-Kista,101,3,515,17
+22,Stockholm Hässelby-Vällingby,55,4,419,33
+22,Stockholm kommun Skärholmen,81,6,308,23
+22,Stockholm Södermalm,50,3,650,43
+22,Stockholm Älvsjö,62,6,196,18
+22,Stockholms kommun Enskede-Årsta-Vantör,63,8,648,79
+22,Stockholm Hägersten-Liljeholmen,44,6,408,57
+22,Stockholm Östermalm,49,3,384,24
+22,Stockholm Farsta,64,9,382,55
+22,Skhlm Spånga-Tensta,79,4,308,15
+22,Stockholm Bromma,48,5,390,39
+22,Stockholm Skarpnäck,60,9,280,42
+22,Storfors,,,<15,<15
+22,Storuman,,,<15,<15
+22,Strängnäs,23,2,85,7
+22,Strömstad,,,<15,<15
+22,Strömsund,,,<15,<15
+22,Sundbyberg,62,4,326,19
+22,Sundsvall,30,7,299,67
+22,Sunne,17,3,23,4
+22,Surahammar,23,9,23,9
+22,Svalöv,,,<15,<15
+22,Svedala,12,2,27,5
+22,Svenljunga,24,6,26,6
+22,Säffle,,,<15,<15
+22,Säter,38,2,42,2
+22,Sävsjö,20,0,23,0
+22,Söderhamn,28,4,71,11
+22,Söderköping,38,3,56,5
+22,Södertälje,76,6,748,58
+22,Sölvesborg,,,<15,<15
+22,Tanum,15,2,19,2
+22,Tibro,59,21,66,24
+22,Tidaholm,46,5,59,6
+22,Tierp,35,6,73,13
+22,Timrå,62,8,111,15
+22,Tingsryd,56,12,69,15
+22,Tjörn,21,2,33,4
+22,Tomelilla,,,<15,<15
+22,Torsby,,,<15,<15
+22,Torsås,29,0,21,0
+22,Tranemo,,,<15,<15
+22,Tranås,16,1,30,2
+22,Trelleborg,9,2,40,8
+22,Trollhättan,47,4,280,25
+22,Trosa,33,3,45,4
+22,Tyresö,63,7,305,32
+22,Täby,38,3,276,22
+22,Töreboda,32,20,30,19
+22,Uddevalla,30,2,172,13
+22,Ulricehamn,39,13,95,31
+22,Umeå,17,2,217,22
+22,Upplands Väsby,66,8,309,37
+22,Upplands-Bro,40,3,117,8
+22,Uppsala,58,8,1329,175
+22,Uppvidinge,21,1,20,1
+22,Vadstena,,,<15,<15
+22,Vaggeryd,30,5,43,7
+22,Valdemarsvik,50,3,39,2
+22,Vallentuna,21,2,71,8
+22,Vansbro,43,7,29,5
+22,Vara,11,1,17,1
+22,Varberg,37,6,237,40
+22,Vaxholm,50,1,60,1
+22,Vellinge,13,1,48,4
+22,Vetlanda,27,5,74,14
+22,Vilhelmina,,,<15,<15
+22,Vimmerby,,,<15,<15
+22,Vindeln,37,0,20,0
+22,Vingåker,71,0,65,0
+22,Vårgårda,30,11,36,13
+22,Vänersborg,52,4,207,15
+22,Vännäs,,,<15,<15
+22,Värmdö,50,5,224,23
+22,Värnamo,44,5,151,16
+22,Västervik,8,0,30,0
+22,Västerås,51,6,785,100
+22,Växjö,36,4,337,40
+22,Ydre,,,<15,<15
+22,Ystad,,,<15,<15
+22,Åmål,26,10,33,13
+22,Ånge,20,4,19,4
+22,Åre,58,6,68,7
+22,Årjäng,,,<15,<15
+22,Åsele,0,0,0,0
+22,Åstorp,,,<15,<15
+22,Åtvidaberg,42,1,48,1
+22,Älmhult,41,3,72,6
+22,Älvdalen,,,<15,<15
+22,Älvkarleby,44,3,42,3
+22,Älvsbyn,,,<15,<15
+22,Ängelholm,11,2,45,7
+22,Öckerö,54,15,70,20
+22,Ödeshög,,,<15,<15
+22,Örebro,67,4,1037,60
+22,Örkelljunga,,,<15,<15
+22,Örnsköldsvik,13,3,73,19
+22,Östersund,60,5,380,32
+22,Österåker,28,3,126,13
+22,Östhammar,52,5,116,11
+22,Östra Göinge,,,<15,<15
+22,Överkalix,0,0,0,0
+22,Övertorneå,,,<15,<15
+23,Ale,39,11,124,35
+23,Alingsås,45,10,187,42
+23,Alvesta,71,10,142,20
+23,Aneby,60,3,41,2
+23,Arboga,42,2,59,3
+23,Arjeplog,,,<15,<15
+23,Arvidsjaur,,,<15,<15
+23,Arvika,26,3,69,9
+23,Askersund,47,1,54,1
+23,Avesta,26,1,61,3
+23,Bengtsfors,,,<15,<15
+23,Berg,74,0,52,0
+23,Bjurholm,,,<15,<15
+23,Bjuv,,,<15,<15
+23,Boden,32,3,89,8
+23,Bollebygd,31,14,29,13
+23,Bollnäs,55,7,149,20
+23,Borgholm,25,4,27,4
+23,Borlänge,74,3,390,16
+23,Borås,62,17,697,198
+23,Botkyrka,70,4,658,39
+23,Boxholm,33,4,18,2
+23,Bromölla,,,<15,<15
+23,Bräcke,117,19,74,12
+23,Burlöv,30,3,57,5
+23,Båstad,14,2,21,3
+23,Dals-Ed,,,<15,<15
+23,Danderyd,43,3,141,10
+23,Degerfors,97,19,94,18
+23,Dorotea,0,0,0,0
+23,Eda,,,<15,<15
+23,Ekerö,36,2,104,6
+23,Eksjö,54,3,96,5
+23,Emmaboda,,,<15,<15
+23,Enköping,40,4,183,16
+23,Eskilstuna,64,5,686,51
+23,Eslöv,12,2,41,8
+23,Essunga,,,<15,<15
+23,Fagersta,36,4,48,6
+23,Falkenberg,27,6,121,25
+23,Falköping,24,7,80,22
+23,Falun,60,4,357,26
+23,Filipstad,56,2,60,2
+23,Finspång,53,13,117,28
+23,Flen,60,0,99,0
+23,Forshaga,28,6,32,7
+23,Färgelanda,29,6,19,4
+23,Gagnef,70,3,72,3
+23,Gislaved,19,2,57,6
+23,Gnesta,65,4,74,4
+23,Gnosjö,61,3,59,3
+23,Gotland,15,2,92,9
+23,Grums,18,8,16,7
+23,Grästorp,30,5,17,3
+23,Gullspång,,,<15,<15
+23,Gällivare,31,18,55,31
+23,Gävle,52,5,528,54
+23,Gbg Angered,67,22,364,121
+23,Göteborg Lundby,58,17,318,92
+23,Göteborg Centrum,50,13,323,84
+23,Göteborg Östra Göteborg,79,16,409,81
+23,Göteborg Norra Hisingen,45,13,232,68
+23,Göteborg Västra Göteborg,56,12,302,67
+23,Göteborg Västra Hisingen,40,11,230,61
+23,Göteborg Askim-Frölunda-Högsbo,50,9,319,60
+23,Göteborg Majorna-Linné,48,12,310,75
+23,Göteborg Örgryte-Härlanda,69,19,421,118
+23,Götene,16,2,21,2
+23,Habo,25,4,31,5
+23,Hagfors,20,5,23,6
+23,Hallsberg,45,5,71,8
+23,Hallstahammar,32,4,52,6
+23,Halmstad,22,3,222,29
+23,Hammarö,18,2,30,4
+23,Haninge,58,5,535,43
+23,Haparanda,,,<15,<15
+23,Heby,31,2,44,3
+23,Hedemora,22,2,34,3
+23,Helsingborg,27,3,405,45
+23,Herrljunga,40,3,38,3
+23,Hjo,,,<15,<15
+23,Hofors,56,2,54,2
+23,Huddinge,67,7,758,81
+23,Hudiksvall,68,14,256,51
+23,Hultsfred,11,3,16,4
+23,Hylte,17,1,18,1
+23,Håbo,37,2,82,5
+23,Hällefors,106,3,74,2
+23,Härjedalen,66,14,67,14
+23,Härnösand,28,4,70,10
+23,Härryda,31,10,119,37
+23,Hässleholm,14,3,71,14
+23,Höganäs,18,3,48,9
+23,Högsby,,,<15,<15
+23,Hörby,12,2,19,3
+23,Höör,,,<15,<15
+23,Jokkmokk,,,<15,<15
+23,Järfälla,59,7,468,59
+23,Jönköping,64,9,901,123
+23,Kalix,14,6,22,10
+23,Kalmar,25,3,174,20
+23,Karlsborg,,,<15,<15
+23,Karlshamn,6,2,19,6
+23,Karlskoga,53,8,161,23
+23,Karlskrona,34,9,227,58
+23,Karlstad,24,4,225,35
+23,Katrineholm,75,1,260,5
+23,Kil,15,2,18,2
+23,Kinda,75,3,75,3
+23,Kiruna,49,2,112,5
+23,Klippan,,,<15,<15
+23,Knivsta,40,16,76,30
+23,Kramfors,57,5,105,10
+23,Kristianstad,8,1,68,5
+23,Kristinehamn,28,6,68,15
+23,Krokom,44,5,66,7
+23,Kumla,69,9,150,20
+23,Kungsbacka,30,6,251,47
+23,Kungsör,47,10,41,9
+23,Kungälv,38,8,178,35
+23,Kävlinge,,,<15,<15
+23,Köping,52,2,137,5
+23,Laholm,28,1,73,3
+23,Landskrona,8,1,35,3
+23,Laxå,81,0,46,0
+23,Lekeberg,35,2,29,2
+23,Leksand,40,3,64,4
+23,Lerum,43,10,182,42
+23,Lessebo,,,<15,<15
+23,Lidingö,60,5,290,22
+23,Lidköping,35,6,141,26
+23,Lilla Edet,35,8,50,11
+23,Lindesberg,33,2,78,5
+23,Linköping,46,4,752,66
+23,Ljungby,42,3,120,9
+23,Ljusdal,31,8,58,15
+23,Ljusnarsberg,,,<15,<15
+23,Lomma,13,1,32,3
+23,Ludvika,31,1,83,2
+23,Luleå,15,2,117,17
+23,Lund,15,3,186,34
+23,Lycksele,,,<15,<15
+23,Lysekil,21,4,30,6
+23,Malmö Centrum,18,2,102,10
+23,Malmö Västra Innerstaden,16,1,58,5
+23,Malmö Hyllie,19,2,74,6
+23,Malmö Husie,19,3,45,7
+23,Malmö Fosie,20,2,91,9
+23,Malmö Rosengård,24,2,57,5
+23,Malmös kmn Kirseberg,15,2,25,4
+23,Malmö Oxie,15,2,21,3
+23,Malmö Limhamn-Bunkeflo,15,1,80,7
+23,Malmö Södra Innerstaden,16,3,58,11
+23,Malung,18,2,18,2
+23,Malå,,,<15,<15
+23,Mariestad,25,9,61,22
+23,Mark,39,18,136,63
+23,Markaryd,82,2,85,2
+23,Mellerud,19,4,18,4
+23,Mjölby,31,4,86,11
+23,Mora,31,13,63,26
+23,Motala,28,4,121,16
+23,Mullsjö,,,<15,<15
+23,Munkedal,27,3,28,
+23,Munkfors,158,32,59,12
+23,Mölndal,46,12,317,81
+23,Mönsterås,22,1,29,2
+23,Mörbylånga,17,3,26,4
+23,Nacka,59,3,616,35
+23,Nora,21,3,22,3
+23,Norberg,33,5,19,3
+23,Nordanstig,20,8,19,8
+23,Nordmaling,,,<15,<15
+23,Norrköping,61,7,869,103
+23,Norrtälje,23,3,142,19
+23,Norsjö,,,<15,<15
+23,Nybro,22,4,44,9
+23,Nykvarn,44,5,48,5
+23,Nyköping,56,2,318,14
+23,Nynäshamn,31,6,89,16
+23,Nässjö,60,5,188,17
+23,Ockelbo,64,5,38,3
+23,Okänd,,,480,50
+23,Olofström,,,<15,<15
+23,Orsa,,,<15,100000
+23,Orust,17,1,26,2
+23,Osby,12,1,16,1
+23,Oskarshamn,11,0,29,1
+23,Ovanåker,69,10,81,12
+23,Oxelösund,56,1,67,1
+23,Pajala,,,<15,<15
+23,Partille,56,12,220,49
+23,Perstorp,,,<15,<15
+23,Piteå,11,3,47,12
+23,Ragunda,,,<15,<15
+23,Robertsfors,50,1,34,1
+23,Ronneby,13,4,40,13
+23,Rättvik,25,1,27,1
+23,Sala,63,9,144,20
+23,Salem,64,5,107,8
+23,Sandviken,53,8,208,30
+23,Sigtuna,62,5,302,24
+23,Simrishamn,,,<15,<15
+23,Sjöbo,10,0,19,0
+23,Skara,45,15,84,28
+23,Skellefteå,25,2,180,14
+23,Skinnskatteberg,,,<15,<15
+23,Skurup,,,<15,<15
+23,Skövde,50,24,281,133
+23,Smedjebacken,40,0,44,0
+23,Sollefteå,36,2,69,3
+23,Sollentuna,54,5,402,34
+23,Solna,60,6,497,47
+23,Sorsele,,,<15,<15
+23,Sotenäs,24,4,22,4
+23,Staffanstorp,9,1,23,3
+23,Stenungsund,27,5,71,13
+23,Stockholm Östermalm,52,3,408,24
+23,Stockholm - Kungsholmen,49,4,352,31
+23,Stockholm kommun Skärholmen,90,9,341,33
+23,Stockholm Skarpnäck,66,6,309,29
+23,Stockholm Bromma,54,5,434,44
+23,Stockholm Rinkeby-Kista,106,5,543,28
+23,Stockholm Älvsjö,67,5,211,15
+23,Stockholm Farsta,71,7,424,42
+23,Skhlm Spånga-Tensta,84,5,328,20
+23,Stockholm Södermalm,54,5,713,63
+23,Stockholm Hässelby-Vällingby,60,6,463,44
+23,Stockholm Norrmalm,59,5,435,37
+23,Stockholm Hägersten-Liljeholmen,49,5,453,45
+23,Stockholms kommun Enskede-Årsta-Vantör,70,7,716,68
+23,Storfors,,,<15,<15
+23,Storuman,,,<15,<15
+23,Strängnäs,27,4,99,14
+23,Strömstad,,,<15,<15
+23,Strömsund,,,<15,<15
+23,Sundbyberg,67,5,351,25
+23,Sundsvall,40,10,395,96
+23,Sunne,19,2,25,2
+23,Surahammar,32,9,32,9
+23,Svalöv,,,<15,<15
+23,Svedala,13,0,28,1
+23,Svenljunga,33,9,36,10
+23,Säffle,10,1,16,2
+23,Säter,41,4,46,4
+23,Sävsjö,20,0,23,0
+23,Söderhamn,41,13,105,34
+23,Söderköping,49,11,72,16
+23,Södertälje,82,6,811,63
+23,Sölvesborg,,,<15,<15
+23,Tanum,17,2,22,3
+23,Tibro,98,39,110,44
+23,Tidaholm,65,19,83,24
+23,Tierp,42,8,89,16
+23,Timrå,72,11,130,19
+23,Tingsryd,65,10,81,12
+23,Tjörn,24,3,38,5
+23,Tomelilla,,,<15,<15
+23,Torsby,,,<15,<15
+23,Torsås,32,3,23,2
+23,Tranemo,28,16,33,19
+23,Tranås,18,3,35,5
+23,Trelleborg,11,2,49,9
+23,Trollhättan,58,10,340,60
+23,Trosa,37,4,51,6
+23,Tyresö,70,7,338,33
+23,Täby,42,4,303,27
+23,Töreboda,96,63,89,59
+23,Uddevalla,36,6,204,32
+23,Ulricehamn,54,15,133,38
+23,Umeå,18,1,236,19
+23,Upplands Väsby,70,4,329,20
+23,Upplands-Bro,42,2,122,5
+23,Uppsala,67,10,1550,221
+23,Uppvidinge,23,2,22,2
+23,Vadstena,26,13,19,10
+23,Vaggeryd,37,7,53,10
+23,Valdemarsvik,79,29,62,23
+23,Vallentuna,23,3,80,9
+23,Vansbro,47,4,32,3
+23,Vara,25,14,40,23
+23,Varberg,42,6,273,36
+23,Vaxholm,56,6,67,7
+23,Vellinge,17,4,61,13
+23,Vetlanda,33,7,92,18
+23,Vilhelmina,,,<15,<15
+23,Vimmerby,,,<15,<15
+23,Vindeln,37,0,20,0
+23,Vingåker,71,0,65,0
+23,Vårgårda,44,14,52,16
+23,Vänersborg,58,5,228,21
+23,Vännäs,,,<15,<15
+23,Värmdö,53,3,239,15
+23,Värnamo,48,5,167,16
+23,Västervik,11,2,39,9
+23,Västerås,58,7,897,112
+23,Växjö,38,2,359,22
+23,Ydre,,,<15,<15
+23,Ystad,,,<15,<15
+23,Åmål,30,4,38,5
+23,Ånge,29,9,27,8
+23,Åre,58,0,68,0
+23,Årjäng,,,<15,<15
+23,Åsele,,,<15,<15
+23,Åstorp,,,<15,<15
+23,Åtvidaberg,44,3,51,3
+23,Älmhult,46,5,81,9
+23,Älvdalen,,,<15,<15
+23,Älvkarleby,47,2,44,2
+23,Älvsbyn,,,<15,<15
+23,Ängelholm,13,2,54,9
+23,Öckerö,75,21,97,27
+23,Ödeshög,,,<15,<15
+23,Örebro,73,6,1136,99
+23,Örkelljunga,,,<15,<15
+23,Örnsköldsvik,14,1,80,7
+23,Östersund,67,7,426,46
+23,Österåker,31,4,143,17
+23,Östhammar,58,6,130,14
+23,Östra Göinge,,,<15,<15
+23,Överkalix,0,0,0,0
+23,Övertorneå,,,<15,<15
+24,Ale,54,15,170,46
+24,Alingsås,57,12,236,49
+24,Alvesta,76,5,153,11
+24,Aneby,66,6,45,4
+24,Arboga,44,2,62,3
+24,Arjeplog,,,<15,<15
+24,Arvidsjaur,,,<15,<15
+24,Arvika,30,3,77,8
+24,Askersund,50,3,57,3
+24,Avesta,28,1,64,3
+24,Bengtsfors,,,<15,<15
+24,Berg,74,0,52,0
+24,Bjurholm,,,<15,<15
+24,Bjuv,11,3,18,4
+24,Boden,35,4,99,10
+24,Bollebygd,44,14,42,13
+24,Bollnäs,61,6,164,15
+24,Borgholm,27,2,29,2
+24,Borlänge,76,2,398,8
+24,Borås,76,14,859,162
+24,Botkyrka,77,8,733,75
+24,Boxholm,37,4,20,2
+24,Bromölla,,,<15,<15
+24,Bräcke,137,19,86,12
+24,Burlöv,31,2,60,3
+24,Båstad,17,3,25,4
+24,Dals-Ed,,,<15,<15
+24,Danderyd,48,5,159,18
+24,Degerfors,100,3,97,3
+24,Dorotea,0,0,0,0
+24,Eda,,,<15,<15
+24,Ekerö,38,2,109,5
+24,Eksjö,60,6,106,10
+24,Emmaboda,,,<15,<15
+24,Enköping,45,5,206,23
+24,Eskilstuna,71,7,763,77
+24,Eslöv,12,0,41,0
+24,Essunga,42,19,24,11
+24,Fagersta,41,5,55,7
+24,Falkenberg,36,9,162,41
+24,Falköping,33,9,110,30
+24,Falun,64,4,383,26
+24,Filipstad,61,5,65,5
+24,Finspång,65,12,143,26
+24,Flen,63,4,105,6
+24,Forshaga,31,3,36,4
+24,Färgelanda,38,9,25,6
+24,Gagnef,71,1,73,1
+24,Gislaved,32,13,96,39
+24,Gnesta,69,4,78,4
+24,Gnosjö,77,16,75,16
+24,Gotland,19,4,113,21
+24,Grums,30,12,27,11
+24,Grästorp,33,4,19,2
+24,Gullspång,,,<15,<15
+24,Gällivare,72,41,127,72
+24,Gävle,58,7,596,68
+24,Göteborg Centrum,67,16,427,104
+24,Göteborg Örgryte-Härlanda,86,17,525,104
+24,Göteborg Västra Hisingen,55,14,312,82
+24,Göteborg Norra Hisingen,60,16,313,81
+24,Göteborg Majorna-Linné,63,14,402,92
+24,Gbg Angered,95,28,517,153
+24,Göteborg Västra Göteborg,73,17,392,90
+24,Göteborg Lundby,77,20,426,108
+24,Göteborg Askim-Frölunda-Högsbo,62,12,397,78
+24,Göteborg Östra Göteborg,98,19,509,100
+24,Götene,19,3,25,4
+24,Habo,42,17,52,21
+24,Hagfors,28,8,32,9
+24,Hallsberg,47,3,75,4
+24,Hallstahammar,40,8,65,13
+24,Halmstad,26,5,271,49
+24,Hammarö,20,2,33,3
+24,Haninge,62,4,568,33
+24,Haparanda,,,<15,<15
+24,Heby,35,4,49,5
+24,Hedemora,25,3,39,5
+24,Helsingborg,32,5,473,68
+24,Herrljunga,46,6,44,6
+24,Hjo,27,13,25,12
+24,Hofors,56,0,54,0
+24,Huddinge,73,6,829,71
+24,Hudiksvall,80,12,302,46
+24,Hultsfred,15,4,22,6
+24,Hylte,20,4,22,4
+24,Håbo,39,2,86,4
+24,Hällefors,106,0,74,-199
+24,Härjedalen,68,2,69,2
+24,Härnösand,30,2,75,5
+24,Härryda,47,16,180,61
+24,Hässleholm,18,4,92,21
+24,Höganäs,21,3,56,8
+24,Högsby,,,<15,<15
+24,Hörby,15,3,24,5
+24,Höör,,,<15,<15
+24,Jokkmokk,,,<15,<15
+24,Järfälla,67,9,538,70
+24,Jönköping,90,26,1273,372
+24,Kalix,28,14,44,22
+24,Kalmar,28,3,194,20
+24,Karlsborg,,,<15,<15
+24,Karlshamn,8,2,25,6
+24,Karlskoga,58,5,176,15
+24,Karlskrona,43,9,288,61
+24,Karlstad,27,3,257,32
+24,Katrineholm,75,1,262,2
+24,Kil,17,2,20,2
+24,Kinda,78,3,78,3
+24,Kiruna,55,6,126,14
+24,Klippan,,,<15,<15
+24,Knivsta,50,10,94,18
+24,Kramfors,60,3,110,5
+24,Kristianstad,9,1,79,11
+24,Kristinehamn,33,5,81,13
+24,Krokom,48,4,72,6
+24,Kumla,72,3,156,6
+24,Kungsbacka,33,4,282,31
+24,Kungsör,53,6,46,5
+24,Kungälv,49,10,225,47
+24,Kävlinge,5,1,17,3
+24,Köping,57,5,149,12
+24,Laholm,28,0,73,0
+24,Landskrona,8,1,39,4
+24,Laxå,83,2,47,1
+24,Lekeberg,35,0,29,0
+24,Leksand,44,3,69,5
+24,Lerum,57,14,241,59
+24,Lessebo,22,11,19,10
+24,Lidingö,66,6,320,30
+24,Lidköping,48,13,193,52
+24,Lilla Edet,40,5,57,7
+24,Lindesberg,34,1,81,3
+24,Linköping,52,6,842,90
+24,Ljungby,45,3,129,9
+24,Ljusdal,35,4,66,8
+24,Ljusnarsberg,,,<15,<15
+24,Lomma,14,1,35,3
+24,Ludvika,32,1,85,2
+24,Luleå,18,3,141,24
+24,Lund,17,2,208,22
+24,Lycksele,,,<15,<15
+24,Lysekil,30,9,43,13
+24,Malmö Centrum,21,2,115,13
+24,Malmö Fosie,24,5,114,23
+24,Malmö Hyllie,21,2,81,7
+24,Malmö Oxie,17,1,23,2
+24,Malmö Husie,22,3,51,6
+24,Malmö Limhamn-Bunkeflo,17,2,89,9
+24,Malmö Rosengård,25,1,59,2
+24,Malmö Västra Innerstaden,17,1,61,3
+24,Malmös kmn Kirseberg,16,1,26,1
+24,Malmö Södra Innerstaden,17,1,63,5
+24,Malung,21,3,21,3
+24,Malå,,,<15,<15
+24,Mariestad,41,16,100,39
+24,Mark,54,14,186,50
+24,Markaryd,83,1,86,1
+24,Mellerud,21,2,20,2
+24,Mjölby,35,4,98,12
+24,Mora,37,6,75,12
+24,Motala,37,9,162,41
+24,Mullsjö,26,5,19,4
+24,Munkedal,27,0,28,0
+24,Munkfors,193,35,72,13
+24,Mölndal,58,13,405,88
+24,Mönsterås,29,7,39,10
+24,Mörbylånga,20,3,31,5
+24,Nacka,64,6,674,58
+24,Nora,22,2,24,2
+24,Norberg,39,5,22,3
+24,Nordanstig,36,16,34,15
+24,Nordmaling,,,<15,<15
+24,Norrköping,66,5,938,69
+24,Norrtälje,25,3,159,17
+24,Norsjö,,,<15,<15
+24,Nybro,24,2,49,5
+24,Nykvarn,45,2,50,2
+24,Nyköping,59,3,334,16
+24,Nynäshamn,34,3,97,8
+24,Nässjö,76,16,239,51
+24,Ockelbo,71,7,42,4
+24,Okänd,,,549,69
+24,Olofström,,,<15,<15
+24,Orsa,,,<15,<15
+24,Orust,22,5,34,8
+24,Osby,14,2,18,2
+24,Oskarshamn,13,2,34,5
+24,Ovanåker,77,8,90,9
+24,Oxelösund,58,2,69,2
+24,Pajala,,,<15,<15
+24,Partille,73,17,286,66
+24,Perstorp,,,<15,<15
+24,Piteå,18,7,75,28
+24,Ragunda,30,2,16,1
+24,Robertsfors,52,1,35,1
+24,Ronneby,17,3,49,9
+24,Rättvik,25,0,27,0
+24,Sala,79,16,180,36
+24,Salem,72,8,120,13
+24,Sandviken,61,8,239,31
+24,Sigtuna,64,2,312,10
+24,Simrishamn,,,<15,<15
+24,Sjöbo,11,1,21,2
+24,Skara,71,26,133,49
+24,Skellefteå,27,2,194,14
+24,Skinnskatteberg,,,<15,<15
+24,Skurup,,,<15,<15
+24,Skövde,70,20,395,114
+24,Smedjebacken,42,2,46,2
+24,Sollefteå,37,1,71,2
+24,Sollentuna,60,6,443,41
+24,Solna,66,5,542,45
+24,Sorsele,,,<15,<15
+24,Sotenäs,33,9,30,8
+24,Staffanstorp,11,2,27,4
+24,Stenungsund,31,5,84,13
+24,Stockholm Norrmalm,65,5,474,39
+24,Stockholm Farsta,80,9,477,53
+24,Skhlm Spånga-Tensta,91,6,353,25
+24,Stockholm kommun Skärholmen,98,8,371,30
+24,Stockholm Älvsjö,73,6,230,19
+24,Stockholm Bromma,60,7,487,53
+24,Stockholm Östermalm,56,4,441,33
+24,Stockholm - Kungsholmen,58,9,416,64
+24,Stockholm Skarpnäck,73,6,337,28
+24,Stockholm Hägersten-Liljeholmen,54,5,498,45
+24,Stockholm Södermalm,60,5,783,70
+24,Stockholms kommun Enskede-Årsta-Vantör,76,7,786,70
+24,Stockholm Rinkeby-Kista,112,6,574,31
+24,Stockholm Hässelby-Vällingby,66,5,503,40
+24,Storfors,,,<15,<15
+24,Storuman,,,<15,<15
+24,Strängnäs,32,5,117,18
+24,Strömstad,,,<15,<15
+24,Strömsund,,,<15,<15
+24,Sundbyberg,73,6,382,31
+24,Sundsvall,49,9,484,89
+24,Sunne,22,3,29,4
+24,Surahammar,39,7,39,7
+24,Svalöv,,,<15,<15
+24,Svedala,13,0,28,0
+24,Svenljunga,43,9,46,10
+24,Säffle,12,1,18,2
+24,Säter,41,0,46,0
+24,Sävsjö,22,3,26,3
+24,Söderhamn,71,30,181,76
+24,Söderköping,57,8,83,11
+24,Södertälje,90,8,886,75
+24,Sölvesborg,,,<15,<15
+24,Tanum,19,2,25,3
+24,Tibro,121,23,136,26
+24,Tidaholm,78,13,100,17
+24,Tierp,45,3,95,6
+24,Timrå,78,6,140,10
+24,Tingsryd,74,9,92,11
+24,Tjörn,26,2,42,4
+24,Tomelilla,,,<15,<15
+24,Torsby,,,<15,<15
+24,Torsås,32,0,23,0
+24,Tranemo,51,23,61,28
+24,Tranås,27,9,52,17
+24,Trelleborg,14,3,64,15
+24,Trollhättan,66,9,391,51
+24,Trosa,47,9,64,13
+24,Tyresö,76,6,366,28
+24,Täby,46,4,329,26
+24,Töreboda,143,47,133,44
+24,Uddevalla,48,12,271,67
+24,Ulricehamn,70,16,173,40
+24,Umeå,20,2,258,22
+24,Upplands Väsby,76,6,356,27
+24,Upplands-Bro,45,3,132,10
+24,Uppsala,76,8,1745,195
+24,Uppvidinge,27,4,26,4
+24,Vadstena,35,9,26,7
+24,Vaggeryd,47,10,67,14
+24,Valdemarsvik,80,1,63,1
+24,Vallentuna,26,3,90,10
+24,Vansbro,50,3,34,2
+24,Vara,35,10,56,16
+24,Varberg,48,6,309,36
+24,Vaxholm,61,5,73,6
+24,Vellinge,21,4,76,15
+24,Vetlanda,47,13,129,37
+24,Vilhelmina,,,<15,<15
+24,Vimmerby,,,<15,<15
+24,Vindeln,37,0,20,0
+24,Vingåker,72,1,66,1
+24,Vårgårda,64,20,76,24
+24,Vänersborg,62,5,246,18
+24,Vännäs,,,<15,<15
+24,Värmdö,59,6,267,28
+24,Värnamo,57,9,197,30
+24,Västervik,15,4,55,16
+24,Västerås,70,12,1086,189
+24,Växjö,41,3,384,25
+24,Ydre,,,<15,<15
+24,Ystad,,,<15,<15
+24,Åmål,36,6,46,8
+24,Ånge,29,0,27,0
+24,Åre,76,18,89,21
+24,Årjäng,,,<15,<15
+24,Åsele,,,<15,<15
+24,Åstorp,12,3,19,4
+24,Åtvidaberg,54,10,62,11
+24,Älmhult,48,2,85,4
+24,Älvdalen,,,<15,<15
+24,Älvkarleby,52,5,49,5
+24,Älvsbyn,,,<15,<15
+24,Ängelholm,15,2,63,9
+24,Öckerö,82,7,106,9
+24,Ödeshög,,,<15,<15
+24,Örebro,79,6,1229,93
+24,Örkelljunga,,,<15,<15
+24,Örnsköldsvik,16,2,90,10
+24,Östersund,72,5,459,33
+24,Österåker,38,7,173,30
+24,Östhammar,60,1,133,3
+24,Östra Göinge,,,<15,<15
+24,Överkalix,,,<15,<15
+24,Övertorneå,44,9,19,4
+25,Ale,62,8,196,26
+25,Alingsås,68,11,280,44
+25,Alvesta,82,6,166,13
+25,Aneby,79,13,54,9
+25,Arboga,48,4,67,5
+25,Arjeplog,,,<15,<15
+25,Arvidsjaur,,,<15,<15
+25,Arvika,30,0,78,1
+25,Askersund,55,5,63,6
+25,Avesta,30,2,69,5
+25,Bengtsfors,25,12,24,12
+25,Berg,82,8,58,6
+25,Bjurholm,,,<15,<15
+25,Bjuv,14,3,22,4
+25,Boden,41,5,114,15
+25,Bollebygd,58,14,55,13
+25,Bollnäs,64,3,172,8
+25,Borgholm,28,1,30,1
+25,Borlänge,77,1,404,6
+25,Borås,88,12,1000,141
+25,Botkyrka,88,10,830,97
+25,Boxholm,53,16,29,9
+25,Bromölla,12,4,16,5
+25,Bräcke,144,8,91,5
+25,Burlöv,32,1,61,1
+25,Båstad,19,2,28,3
+25,Dals-Ed,,,<15,<15
+25,Danderyd,56,8,184,25
+25,Degerfors,106,5,102,5
+25,Dorotea,0,0,0,0
+25,Eda,,,<15,<15
+25,Ekerö,45,7,130,21
+25,Eksjö,65,5,115,9
+25,Emmaboda,,,<15,<15
+25,Enköping,53,8,242,36
+25,Eskilstuna,77,6,824,61
+25,Eslöv,12,0,42,1
+25,Essunga,44,2,25,1
+25,Fagersta,43,2,58,3
+25,Falkenberg,38,2,172,10
+25,Falköping,36,3,121,11
+25,Falun,70,5,413,30
+25,Filipstad,65,4,69,4
+25,Finspång,72,7,158,15
+25,Flen,66,3,110,5
+25,Forshaga,31,0,36,0
+25,Färgelanda,42,5,28,3
+25,Gagnef,73,2,75,2
+25,Gislaved,85,53,256,160
+25,Gnesta,70,1,79,1
+25,Gnosjö,95,18,92,17
+25,Gotland,22,3,132,19
+25,Grums,35,6,32,5
+25,Grästorp,39,5,22,3
+25,Gullspång,30,4,16,2
+25,Gällivare,167,95,293,166
+25,Gävle,65,7,670,74
+25,Göteborg Östra Göteborg,110,11,567,58
+25,Göteborg Västra Göteborg,83,11,449,57
+25,Göteborg Askim-Frölunda-Högsbo,72,10,462,65
+25,Göteborg Majorna-Linné,76,13,486,84
+25,Göteborg Centrum,78,11,499,72
+25,Göteborg Örgryte-Härlanda,97,12,597,72
+25,Göteborg Lundby,90,13,497,71
+25,Göteborg Västra Hisingen,66,11,375,63
+25,Gbg Angered,113,18,614,97
+25,Göteborg Norra Hisingen,79,19,409,96
+25,Götene,23,4,30,5
+25,Habo,55,13,68,16
+25,Hagfors,33,5,38,6
+25,Hallsberg,50,3,79,4
+25,Hallstahammar,45,6,74,9
+25,Halmstad,30,4,307,36
+25,Hammarö,24,4,39,6
+25,Haninge,68,6,625,57
+25,Haparanda,,,<15,<15
+25,Heby,37,2,52,3
+25,Hedemora,27,2,42,3
+25,Helsingborg,40,8,587,114
+25,Herrljunga,53,6,50,6
+25,Hjo,34,7,31,6
+25,Hofors,59,3,57,3
+25,Huddinge,82,8,920,91
+25,Hudiksvall,91,11,344,42
+25,Hultsfred,17,1,24,2
+25,Hylte,23,3,25,3
+25,Håbo,44,5,96,10
+25,Hällefors,108,3,76,2
+25,Härjedalen,75,7,76,7
+25,Härnösand,32,2,81,6
+25,Härryda,58,11,221,41
+25,Hässleholm,23,5,118,26
+25,Höganäs,29,9,79,23
+25,Högsby,,,<15,<15
+25,Hörby,16,1,25,1
+25,Höör,10,1,16,1
+25,Jokkmokk,,,<15,<15
+25,Järfälla,76,8,604,66
+25,Jönköping,115,25,1623,350
+25,Kalix,30,3,48,4
+25,Kalmar,31,3,218,24
+25,Karlsborg,24,4,17,3
+25,Karlshamn,9,1,29,4
+25,Karlskoga,63,5,191,15
+25,Karlskrona,47,4,312,24
+25,Karlstad,30,3,286,29
+25,Katrineholm,75,0,262,0
+25,Kil,17,1,21,1
+25,Kinda,78,0,78,0
+25,Kiruna,57,2,130,4
+25,Klippan,10,2,18,3
+25,Knivsta,55,5,104,10
+25,Kramfors,66,6,121,11
+25,Kristianstad,10,1,86,7
+25,Kristinehamn,40,7,98,17
+25,Krokom,53,5,80,8
+25,Kumla,75,3,163,7
+25,Kungsbacka,38,5,322,40
+25,Kungsör,59,6,51,5
+25,Kungälv,59,11,275,50
+25,Kävlinge,8,2,24,7
+25,Köping,63,6,165,16
+25,Laholm,29,1,76,3
+25,Landskrona,12,4,56,17
+25,Laxå,83,0,47,0
+25,Lekeberg,38,2,31,2
+25,Leksand,45,1,71,2
+25,Lerum,73,16,309,68
+25,Lessebo,29,7,25,6
+25,Lidingö,74,7,356,36
+25,Lidköping,52,4,210,17
+25,Lilla Edet,50,9,70,13
+25,Lindesberg,36,1,84,3
+25,Linköping,58,7,953,111
+25,Ljungby,46,0,130,1
+25,Ljusdal,35,0,66,0
+25,Ljusnarsberg,,,<15,<15
+25,Lomma,14,0,36,1
+25,Ludvika,33,1,88,3
+25,Luleå,22,4,171,30
+25,Lund,18,2,231,23
+25,Lycksele,,,<15,<15
+25,Lysekil,35,5,51,8
+25,Malmö Husie,24,3,57,6
+25,Malmö Limhamn-Bunkeflo,18,1,96,7
+25,Malmö Västra Innerstaden,19,2,68,7
+25,Malmö Södra Innerstaden,20,2,72,9
+25,Malmö Centrum,23,3,130,15
+25,Malmö Fosie,30,6,141,27
+25,Malmös kmn Kirseberg,17,1,27,1
+25,Malmö Hyllie,23,2,89,8
+25,Malmö Oxie,19,2,26,3
+25,Malmö Rosengård,27,1,62,3
+25,Malung,21,0,21,0
+25,Malå,,,<15,<15
+25,Mariestad,51,10,124,24
+25,Mark,65,12,226,40
+25,Markaryd,85,2,88,2
+25,Mellerud,25,3,23,3
+25,Mjölby,51,15,141,43
+25,Mora,38,1,77,2
+25,Motala,49,12,213,51
+25,Mullsjö,40,14,29,10
+25,Munkedal,33,7,35,7
+25,Munkfors,203,11,76,4
+25,Mölndal,70,11,483,78
+25,Mönsterås,34,4,45,6
+25,Mörbylånga,24,3,36,5
+25,Nacka,70,6,736,62
+25,Nora,24,2,26,2
+25,Norberg,42,4,24,2
+25,Nordanstig,52,16,49,15
+25,Nordmaling,27,7,19,5
+25,Norrköping,69,4,992,54
+25,Norrtälje,28,3,177,18
+25,Norsjö,,,<15,<15
+25,Nybro,26,2,53,4
+25,Nykvarn,47,2,52,2
+25,Nyköping,62,3,352,18
+25,Nynäshamn,38,4,109,12
+25,Nässjö,94,18,296,57
+25,Ockelbo,90,19,53,11
+25,Okänd,,,608,59
+25,Olofström,12,3,16,4
+25,Orsa,,,<15,<15
+25,Orust,26,3,39,5
+25,Osby,18,5,24,6
+25,Oskarshamn,14,1,38,4
+25,Ovanåker,79,2,92,2
+25,Oxelösund,58,1,70,1
+25,Pajala,26,3,16,2
+25,Partille,87,14,342,56
+25,Perstorp,,,<15,<15
+25,Piteå,23,5,96,21
+25,Ragunda,30,0,16,0
+25,Robertsfors,52,0,35,0
+25,Ronneby,17,1,51,2
+25,Rättvik,26,1,28,1
+25,Sala,91,13,209,29
+25,Salem,79,7,132,12
+25,Sandviken,71,10,277,38
+25,Sigtuna,70,7,345,33
+25,Simrishamn,,,<15,<15
+25,Sjöbo,11,0,21,0
+25,Skara,79,8,148,15
+25,Skellefteå,30,3,218,24
+25,Skinnskatteberg,,,<15,<15
+25,Skurup,11,1,17,2
+25,Skövde,86,16,483,88
+25,Smedjebacken,43,1,47,1
+25,Sollefteå,39,2,74,3
+25,Sollentuna,66,6,490,47
+25,Solna,72,6,595,53
+25,Sorsele,,,<15,<15
+25,Sotenäs,34,1,31,1
+25,Staffanstorp,13,2,33,6
+25,Stenungsund,35,4,94,10
+25,Stockholm Bromma,67,6,537,50
+25,Skhlm Spånga-Tensta,96,5,372,19
+25,Stockholm Skarpnäck,83,10,384,47
+25,Stockholm Södermalm,69,10,908,125
+25,Stockholm Älvsjö,83,10,263,33
+25,Stockholm kommun Skärholmen,108,10,408,37
+25,Stockholm Rinkeby-Kista,117,4,597,23
+25,Stockholm Östermalm,64,7,498,57
+25,Stockholm - Kungsholmen,68,10,485,69
+25,Stockholm Norrmalm,74,9,539,65
+25,Stockholm Hägersten-Liljeholmen,62,8,569,71
+25,Stockholms kommun Enskede-Årsta-Vantör,83,6,852,66
+25,Stockholm Hässelby-Vällingby,73,7,556,53
+25,Stockholm Farsta,87,7,519,42
+25,Storfors,,,<15,<15
+25,Storuman,,,<15,<15
+25,Strängnäs,34,2,124,7
+25,Strömstad,,,<15,<15
+25,Strömsund,,,<15,<15
+25,Sundbyberg,78,6,411,29
+25,Sundsvall,59,10,582,98
+25,Sunne,26,4,34,5
+25,Surahammar,46,7,46,7
+25,Svalöv,,,<15,<15
+25,Svedala,13,1,30,2
+25,Svenljunga,50,7,54,8
+25,Säffle,12,0,18,0
+25,Säter,42,1,47,1
+25,Sävsjö,27,4,31,5
+25,Söderhamn,87,16,223,42
+25,Söderköping,59,3,87,4
+25,Södertälje,97,8,964,78
+25,Sölvesborg,,,<15,<15
+25,Tanum,22,2,28,3
+25,Tibro,130,9,146,10
+25,Tidaholm,84,6,108,8
+25,Tierp,51,6,108,13
+25,Timrå,86,8,155,15
+25,Tingsryd,77,2,95,3
+25,Tjörn,29,3,47,5
+25,Tomelilla,,,<15,<15
+25,Torsby,25,12,29,14
+25,Torsås,42,10,30,7
+25,Tranemo,68,17,81,20
+25,Tranås,37,9,70,18
+25,Trelleborg,20,6,92,28
+25,Trollhättan,75,8,441,50
+25,Trosa,50,4,69,5
+25,Tyresö,82,6,395,29
+25,Täby,52,6,373,44
+25,Töreboda,159,16,148,15
+25,Uddevalla,58,10,328,57
+25,Ulricehamn,83,13,205,32
+25,Umeå,22,2,285,27
+25,Upplands Väsby,84,7,391,35
+25,Upplands-Bro,52,7,153,21
+25,Uppsala,86,10,1984,239
+25,Uppvidinge,29,2,28,2
+25,Vadstena,55,20,41,15
+25,Vaggeryd,60,13,85,18
+25,Valdemarsvik,86,6,68,5
+25,Vallentuna,32,6,110,20
+25,Vansbro,50,0,34,0
+25,Vara,41,6,65,9
+25,Varberg,53,5,344,35
+25,Vaxholm,62,2,75,2
+25,Vellinge,24,4,89,13
+25,Vetlanda,59,12,162,33
+25,Vilhelmina,,,<15,<15
+25,Vimmerby,,,<15,<15
+25,Vindeln,41,4,22,2
+25,Vingåker,76,3,69,3
+25,Vårgårda,68,3,80,4
+25,Vänersborg,65,3,258,12
+25,Vännäs,,,<15,<15
+25,Värmdö,67,7,300,33
+25,Värnamo,69,12,238,41
+25,Västervik,19,4,71,16
+25,Västerås,83,12,1272,186
+25,Växjö,42,1,391,7
+25,Ydre,,,<15,<15
+25,Ystad,,,<15,<15
+25,Åmål,45,9,57,11
+25,Ånge,31,2,29,2
+25,Åre,90,14,106,17
+25,Årjäng,,,<15,<15
+25,Åsele,,,<15,<15
+25,Åstorp,15,3,24,5
+25,Åtvidaberg,60,6,69,7
+25,Älmhult,49,1,86,1
+25,Älvdalen,,,<15,<15
+25,Älvkarleby,54,2,51,2
+25,Älvsbyn,,,<15,<15
+25,Ängelholm,17,2,73,10
+25,Öckerö,91,9,118,12
+25,Ödeshög,,,<15,<15
+25,Örebro,83,4,1298,69
+25,Örkelljunga,,,<15,<15
+25,Örnsköldsvik,19,3,106,16
+25,Östersund,78,6,499,40
+25,Österåker,49,11,224,51
+25,Östhammar,62,2,137,4
+25,Östra Göinge,15,6,22,9
+25,Överkalix,,,<15,<15
+25,Övertorneå,47,2,20,1
+26,Ale,68,6,215,19
+26,Alingsås,82,14,338,58
+26,Alvesta,82,0,166,0
+26,Aneby,99,20,68,14
+26,Arboga,53,6,75,8
+26,Arjeplog,,,<15,<15
+26,Arvidsjaur,,,<15,<15
+26,Arvika,32,2,84,6
+26,Askersund,57,2,65,2
+26,Avesta,34,4,79,10
+26,Bengtsfors,30,5,29,5
+26,Berg,84,1,59,1
+26,Bjurholm,,,<15,<15
+26,Bjuv,15,1,24,2
+26,Boden,47,7,133,19
+26,Bollebygd,66,8,63,8
+26,Bollnäs,71,7,191,19
+26,Borgholm,30,3,33,3
+26,Borlänge,83,6,436,32
+26,Borås,106,18,1199,199
+26,Botkyrka,95,7,899,69
+26,Boxholm,62,9,34,5
+26,Bromölla,13,1,17,1
+26,Bräcke,157,13,99,8
+26,Burlöv,35,3,66,5
+26,Båstad,24,5,36,8
+26,Dals-Ed,,,<15,<15
+26,Danderyd,61,5,202,18
+26,Degerfors,109,3,105,3
+26,Dorotea,0,0,0,0
+26,Eda,,,<15,<15
+26,Ekerö,51,5,145,15
+26,Eksjö,74,10,132,17
+26,Emmaboda,,,<15,<15
+26,Enköping,66,12,298,56
+26,Eskilstuna,86,9,924,100
+26,Eslöv,13,0,43,1
+26,Essunga,48,4,27,2
+26,Fagersta,44,1,59,1
+26,Falkenberg,45,7,203,31
+26,Falköping,44,8,146,25
+26,Falun,82,13,489,76
+26,Filipstad,68,3,72,3
+26,Finspång,73,1,161,3
+26,Flen,69,2,114,4
+26,Forshaga,33,2,38,2
+26,Färgelanda,42,0,28,0
+26,Gagnef,79,6,81,6
+26,Gislaved,141,55,422,166
+26,Gnesta,70,1,80,1
+26,Gnosjö,120,26,117,25
+26,Gotland,26,4,153,21
+26,Grums,38,2,34,2
+26,Grästorp,49,11,28,6
+26,Gullspång,42,11,22,6
+26,Gällivare,277,110,485,192
+26,Gävle,81,15,827,157
+26,Göteborg Norra Hisingen,97,18,501,92
+26,Gbg Angered,129,16,700,86
+26,Göteborg Örgryte-Härlanda,109,12,671,74
+26,Göteborg Västra Göteborg,91,8,491,42
+26,Göteborg Lundby,103,13,568,71
+26,Göteborg Askim-Frölunda-Högsbo,83,11,530,68
+26,Göteborg Majorna-Linné,88,12,563,77
+26,Göteborg Östra Göteborg,123,13,635,68
+26,Göteborg Västra Hisingen,75,10,431,56
+26,Göteborg Centrum,89,11,569,70
+26,Götene,27,4,35,5
+26,Habo,64,10,80,12
+26,Hagfors,34,1,39,1
+26,Hallsberg,51,2,82,3
+26,Hallstahammar,58,13,95,21
+26,Halmstad,34,4,347,40
+26,Hammarö,27,4,45,6
+26,Haninge,74,6,684,59
+26,Haparanda,,,<15,<15
+26,Heby,45,8,63,11
+26,Hedemora,32,5,50,8
+26,Helsingborg,44,4,653,66
+26,Herrljunga,63,11,60,10
+26,Hjo,45,11,41,10
+26,Hofors,77,18,74,17
+26,Huddinge,89,7,1000,80
+26,Hudiksvall,99,8,374,30
+26,Hultsfred,17,0,24,0
+26,Hylte,33,10,36,11
+26,Håbo,47,4,104,8
+26,Hällefors,108,0,76,0
+26,Härjedalen,80,5,81,5
+26,Härnösand,35,2,87,6
+26,Härryda,70,12,266,45
+26,Hässleholm,28,6,148,30
+26,Höganäs,30,1,82,3
+26,Högsby,,,<15,<15
+26,Hörby,16,0,25,0
+26,Höör,11,2,19,3
+26,Jokkmokk,,,<15,<15
+26,Järfälla,81,5,647,43
+26,Jönköping,139,24,1963,340
+26,Kalix,38,8,60,12
+26,Kalmar,34,2,234,16
+26,Karlsborg,35,10,24,7
+26,Karlshamn,10,2,34,5
+26,Karlskoga,66,3,200,9
+26,Karlskrona,50,3,331,19
+26,Karlstad,36,6,340,54
+26,Katrineholm,79,3,274,12
+26,Kil,19,2,23,2
+26,Kinda,78,0,78,0
+26,Kiruna,71,14,163,33
+26,Klippan,11,1,19,1
+26,Knivsta,61,5,114,10
+26,Kramfors,68,2,124,3
+26,Kristianstad,11,1,91,5
+26,Kristinehamn,43,2,104,6
+26,Krokom,56,3,84,4
+26,Kumla,79,4,172,9
+26,Kungsbacka,46,7,385,63
+26,Kungsör,67,8,58,7
+26,Kungälv,69,10,320,45
+26,Kävlinge,9,1,27,3
+26,Köping,68,5,179,14
+26,Laholm,40,11,104,28
+26,Landskrona,14,2,66,10
+26,Laxå,83,0,47,0
+26,Lekeberg,39,1,32,1
+26,Leksand,46,1,73,2
+26,Lerum,89,16,379,70
+26,Lessebo,32,3,28,3
+26,Lidingö,79,5,381,25
+26,Lidköping,64,12,257,47
+26,Lilla Edet,60,11,85,15
+26,Lindesberg,37,1,87,3
+26,Linköping,67,9,1093,140
+26,Ljungby,46,0,131,1
+26,Ljusdal,43,8,82,16
+26,Ljusnarsberg,,,<15,<15
+26,Lomma,15,1,38,2
+26,Ludvika,38,6,103,15
+26,Luleå,27,5,207,36
+26,Lund,20,2,256,25
+26,Lycksele,,,<15,<15
+26,Lysekil,37,2,54,3
+26,Malmö Oxie,20,1,27,1
+26,Malmö Södra Innerstaden,22,3,82,10
+26,Malmö Fosie,35,5,162,21
+26,Malmö Husie,26,2,61,4
+26,Malmö Limhamn-Bunkeflo,19,1,102,6
+26,Malmö Centrum,25,2,140,10
+26,Malmö Hyllie,26,3,102,13
+26,Malmös kmn Kirseberg,20,3,32,5
+26,Malmö Västra Innerstaden,22,3,78,10
+26,Malmö Rosengård,30,3,70,8
+26,Malung,22,1,22,1
+26,Malå,,,<15,<15
+26,Mariestad,61,11,150,26
+26,Mark,84,19,292,66
+26,Markaryd,87,2,90,2
+26,Mellerud,27,2,25,2
+26,Mjölby,70,19,193,52
+26,Mora,39,1,80,3
+26,Motala,57,8,248,35
+26,Mullsjö,58,18,42,13
+26,Munkedal,38,5,40,5
+26,Munkfors,217,13,81,5
+26,Mölndal,81,11,559,76
+26,Mönsterås,35,1,47,2
+26,Mörbylånga,26,3,40,4
+26,Nacka,76,6,804,68
+26,Nora,29,5,31,5
+26,Norberg,42,0,24,0
+26,Nordanstig,62,11,59,10
+26,Nordmaling,27,0,19,0
+26,Norrköping,73,3,1042,50
+26,Norrtälje,31,3,193,16
+26,Norsjö,,,<15,<15
+26,Nybro,28,2,57,4
+26,Nykvarn,54,7,60,8
+26,Nyköping,66,4,376,24
+26,Nynäshamn,47,9,134,25
+26,Nässjö,110,16,348,52
+26,Ockelbo,98,8,58,5
+26,Okänd,,,656,48
+26,Olofström,13,1,17,1
+26,Orsa,,,<15,<15
+26,Orust,31,5,47,8
+26,Osby,20,2,26,2
+26,Oskarshamn,18,4,49,11
+26,Ovanåker,83,4,97,5
+26,Oxelösund,60,2,72,2
+26,Pajala,30,3,18,2
+26,Partille,104,17,410,68
+26,Perstorp,,,<15,<15
+26,Piteå,29,6,121,25
+26,Ragunda,30,0,16,0
+26,Robertsfors,52,0,35,0
+26,Ronneby,19,1,55,4
+26,Rättvik,27,2,30,2
+26,Sala,100,8,228,19
+26,Salem,85,7,143,11
+26,Sandviken,90,19,352,75
+26,Sigtuna,75,5,369,24
+26,Simrishamn,,,<15,<15
+26,Sjöbo,11,0,21,0
+26,Skara,85,6,160,12
+26,Skellefteå,33,3,238,20
+26,Skinnskatteberg,,,<15,<15
+26,Skurup,11,1,18,1
+26,Skövde,99,13,558,75
+26,Smedjebacken,44,1,48,1
+26,Sollefteå,42,3,80,6
+26,Sollentuna,72,6,531,41
+26,Solna,78,6,647,52
+26,Sorsele,,,<15,<15
+26,Sotenäs,38,3,34,3
+26,Staffanstorp,14,1,36,3
+26,Stenungsund,43,8,116,22
+26,Stockholm Bromma,75,8,602,65
+26,Stockholm Älvsjö,93,9,292,29
+26,Stockholm Östermalm,69,6,542,44
+26,Skhlm Spånga-Tensta,102,6,397,25
+26,Stockholm Södermalm,77,7,1004,96
+26,Stockholm Farsta,96,9,571,52
+26,Stockholm Hässelby-Vällingby,77,4,590,34
+26,Stockholm Hägersten-Liljeholmen,70,8,644,75
+26,Stockholms kommun Enskede-Årsta-Vantör,93,10,958,106
+26,Stockholm Norrmalm,82,8,601,62
+26,Stockholm - Kungsholmen,76,8,542,57
+26,Stockholm kommun Skärholmen,120,12,455,47
+26,Stockholm Skarpnäck,91,9,424,40
+26,Stockholm Rinkeby-Kista,125,9,641,44
+26,Storfors,,,<15,<15
+26,Storuman,,,<15,<15
+26,Strängnäs,37,3,136,12
+26,Strömstad,15,4,20,5
+26,Strömsund,14,1,16,1
+26,Sundbyberg,86,7,450,39
+26,Sundsvall,69,11,689,107
+26,Sunne,27,2,36,2
+26,Surahammar,48,3,49,3
+26,Svalöv,,,<15,<15
+26,Svedala,14,0,31,1
+26,Svenljunga,62,12,67,13
+26,Säffle,13,1,20,2
+26,Säter,45,3,50,3
+26,Sävsjö,34,8,40,9
+26,Söderhamn,101,14,258,35
+26,Söderköping,60,1,88,1
+26,Södertälje,105,7,1037,73
+26,Sölvesborg,,,<15,<15
+26,Tanum,27,5,35,7
+26,Tibro,137,7,154,8
+26,Tidaholm,92,8,118,10
+26,Tierp,56,5,118,10
+26,Timrå,100,13,179,24
+26,Tingsryd,78,2,97,2
+26,Tjörn,34,4,54,7
+26,Tomelilla,,,<15,<15
+26,Torsby,33,8,38,9
+26,Torsås,42,0,30,0
+26,Tranemo,84,16,100,19
+26,Tranås,53,16,101,31
+26,Trelleborg,25,5,115,23
+26,Trollhättan,85,10,501,60
+26,Trosa,57,7,78,9
+26,Tyresö,86,5,418,23
+26,Täby,57,5,412,39
+26,Töreboda,180,20,167,19
+26,Uddevalla,64,6,361,33
+26,Ulricehamn,96,13,236,31
+26,Umeå,25,3,323,38
+26,Upplands Väsby,90,6,420,29
+26,Upplands-Bro,57,5,168,15
+26,Uppsala,98,12,2264,280
+26,Uppvidinge,29,0,28,0
+26,Vadstena,77,22,57,16
+26,Vaggeryd,79,20,113,28
+26,Valdemarsvik,90,4,71,3
+26,Vallentuna,38,6,129,19
+26,Vansbro,53,3,36,2
+26,Vara,42,1,67,2
+26,Varberg,62,9,400,56
+26,Vaxholm,67,5,81,6
+26,Vellinge,27,2,98,9
+26,Vetlanda,69,10,190,28
+26,Vilhelmina,,,<15,<15
+26,Vimmerby,,,<15,<15
+26,Vindeln,42,2,23,1
+26,Vingåker,77,1,70,1
+26,Vårgårda,75,7,88,8
+26,Vänersborg,69,4,275,17
+26,Vännäs,,,<15,<15
+26,Värmdö,72,5,324,24
+26,Värnamo,77,8,267,29
+26,Västervik,25,5,91,20
+26,Västerås,91,9,1404,132
+26,Växjö,44,2,410,19
+26,Ydre,,,<15,<15
+26,Ystad,7,2,21,7
+26,Åmål,52,6,65,8
+26,Ånge,34,3,32,3
+26,Åre,105,14,123,17
+26,Årjäng,,,<15,<15
+26,Åsele,,,<15,<15
+26,Åstorp,17,2,27,3
+26,Åtvidaberg,69,9,79,10
+26,Älmhult,50,1,88,2
+26,Älvdalen,,,<15,<15
+26,Älvkarleby,59,5,56,5
+26,Älvsbyn,,,<15,<15
+26,Ängelholm,19,1,79,6
+26,Öckerö,95,4,123,5
+26,Ödeshög,,,<15,<15
+26,Örebro,88,4,1363,65
+26,Örkelljunga,,,<15,<15
+26,Örnsköldsvik,20,1,113,7
+26,Östersund,82,3,520,21
+26,Österåker,57,8,261,37
+26,Östhammar,63,1,140,3
+26,Östra Göinge,18,3,27,5
+26,Överkalix,,,<15,<15
+26,Övertorneå,54,7,23,3
+27,Ale,71,3,224,9
+27,Alingsås,91,9,377,39
+27,Alvesta,83,1,168,2
+27,Aneby,107,7,73,5
+27,Arboga,58,5,82,7
+27,Arjeplog,,,<15,<15
+27,Arvidsjaur,,,<15,<15
+27,Arvika,35,3,91,7
+27,Askersund,58,1,66,1
+27,Avesta,37,3,86,7
+27,Bengtsfors,38,8,37,8
+27,Berg,89,6,63,4
+27,Bjurholm,,,<15,<15
+27,Bjuv,17,1,26,2
+27,Boden,48,0,134,1
+27,Bollebygd,71,4,67,4
+27,Bollnäs,75,4,202,11
+27,Borgholm,32,2,35,2
+27,Borlänge,91,8,479,43
+27,Borås,113,7,1276,77
+27,Botkyrka,100,5,947,48
+27,Boxholm,68,5,37,3
+27,Bromölla,15,2,19,2
+27,Bräcke,165,8,104,5
+27,Burlöv,36,2,69,3
+27,Båstad,26,3,40,4
+27,Dals-Ed,,,<15,<15
+27,Danderyd,68,7,225,23
+27,Degerfors,110,1,106,1
+27,Dorotea,0,0,0,0
+27,Eda,,,<15,<15
+27,Ekerö,52,1,148,3
+27,Eksjö,81,7,144,12
+27,Emmaboda,,,<15,100000
+27,Enköping,71,5,320,22
+27,Eskilstuna,90,4,965,41
+27,Eslöv,13,0,44,1
+27,Essunga,50,2,28,1
+27,Fagersta,46,2,62,3
+27,Falkenberg,49,4,222,19
+27,Falköping,46,2,153,7
+27,Falun,94,11,557,68
+27,Filipstad,69,1,73,1
+27,Finspång,77,3,168,7
+27,Flen,69,1,115,1
+27,Forshaga,33,0,38,0
+27,Färgelanda,48,6,32,4
+27,Gagnef,83,5,86,5
+27,Gislaved,160,19,478,56
+27,Gnesta,72,2,82,2
+27,Gnosjö,140,20,136,19
+27,Gotland,27,1,159,6
+27,Grums,38,0,34,0
+27,Grästorp,53,4,30,2
+27,Gullspång,47,6,25,3
+27,Gällivare,305,29,535,50
+27,Gävle,88,8,906,79
+27,Göteborg Centrum,96,7,617,48
+27,Göteborg Örgryte-Härlanda,114,4,697,26
+27,Göteborg Lundby,108,5,594,26
+27,Gbg Angered,138,9,750,50
+27,Göteborg Västra Göteborg,97,6,522,31
+27,Göteborg Majorna-Linné,93,6,600,37
+27,Göteborg Östra Göteborg,129,6,666,31
+27,Göteborg Västra Hisingen,82,7,469,38
+27,Göteborg Norra Hisingen,104,8,541,40
+27,Göteborg Askim-Frölunda-Högsbo,89,6,571,41
+27,Götene,27,1,36,1
+27,Habo,70,6,87,7
+27,Hagfors,36,3,42,3
+27,Hallsberg,54,3,86,4
+27,Hallstahammar,71,13,116,21
+27,Halmstad,37,3,381,34
+27,Hammarö,28,1,47,2
+27,Haninge,77,3,712,28
+27,Haparanda,,,<15,<15
+27,Heby,48,3,67,4
+27,Hedemora,38,6,59,9
+27,Helsingborg,46,1,675,22
+27,Herrljunga,64,1,61,1
+27,Hjo,47,2,43,2
+27,Hofors,89,11,85,11
+27,Huddinge,92,3,1037,37
+27,Hudiksvall,108,9,407,33
+27,Hultsfred,18,1,25,1
+27,Hylte,39,6,42,6
+27,Håbo,53,6,117,13
+27,Hällefors,108,0,76,0
+27,Härjedalen,82,2,83,2
+27,Härnösand,38,4,96,9
+27,Härryda,76,6,288,22
+27,Hässleholm,30,2,158,10
+27,Höganäs,33,2,88,6
+27,Högsby,27,5,16,3
+27,Hörby,16,0,25,0
+27,Höör,11,0,19,0
+27,Jokkmokk,35,10,17,5
+27,Järfälla,85,4,680,33
+27,Jönköping,149,9,2097,134
+27,Kalix,40,2,63,3
+27,Kalmar,38,4,264,30
+27,Karlsborg,36,1,25,1
+27,Karlshamn,12,2,39,5
+27,Karlskoga,67,1,204,4
+27,Karlskrona,51,1,338,7
+27,Karlstad,39,3,364,24
+27,Katrineholm,80,1,277,3
+27,Kil,20,1,24,1
+27,Kinda,78,0,78,0
+27,Kiruna,78,7,178,15
+27,Klippan,12,1,21,2
+27,Knivsta,64,4,121,7
+27,Kramfors,72,4,132,8
+27,Kristianstad,11,1,96,5
+27,Kristinehamn,45,2,110,6
+27,Krokom,58,2,87,3
+27,Kumla,81,2,177,5
+27,Kungsbacka,50,4,420,35
+27,Kungsör,73,6,63,5
+27,Kungälv,75,6,349,29
+27,Kävlinge,9,0,27,0
+27,Köping,74,5,193,14
+27,Laholm,55,15,142,38
+27,Landskrona,15,1,70,4
+27,Laxå,86,4,49,2
+27,Lekeberg,40,1,33,1
+27,Leksand,48,2,76,3
+27,Lerum,93,4,397,18
+27,Lessebo,33,1,29,1
+27,Lidingö,86,6,412,31
+27,Lidköping,71,6,283,26
+27,Lilla Edet,62,2,88,3
+27,Lindesberg,38,1,89,2
+27,Linköping,73,6,1191,98
+27,Ljungby,46,0,132,1
+27,Ljusdal,54,11,102,20
+27,Ljusnarsberg,,,<15,<15
+27,Lomma,16,1,40,2
+27,Ludvika,42,4,114,11
+27,Luleå,28,2,222,15
+27,Lund,21,1,267,11
+27,Lycksele,,,<15,<15
+27,Lysekil,38,1,55,1
+27,Malmö Hyllie,28,1,107,5
+27,Malmö Limhamn-Bunkeflo,21,1,109,7
+27,Malmö Centrum,26,1,147,7
+27,Malmö Husie,26,0,62,1
+27,Malmös kmn Kirseberg,21,1,34,2
+27,Malmö Södra Innerstaden,23,0,83,1
+27,Malmö Rosengård,31,1,73,3
+27,Malmö Fosie,36,2,169,7
+27,Malmö Oxie,21,1,29,2
+27,Malmö Västra Innerstaden,23,1,81,3
+27,Malung,23,1,23,1
+27,Malå,,,<15,<15
+27,Mariestad,62,1,153,3
+27,Mark,94,10,326,34
+27,Markaryd,87,0,90,0
+27,Mellerud,29,2,27,2
+27,Mjölby,76,6,210,17
+27,Mora,41,2,84,4
+27,Motala,62,5,271,23
+27,Mullsjö,60,3,44,2
+27,Munkedal,40,2,42,2
+27,Munkfors,217,0,81,0
+27,Mölndal,85,5,591,32
+27,Mönsterås,37,2,50,3
+27,Mörbylånga,29,3,44,4
+27,Nacka,81,5,857,53
+27,Nora,30,1,32,1
+27,Norberg,42,0,24,0
+27,Nordanstig,63,1,60,1
+27,Nordmaling,28,1,20,1
+27,Norrköping,75,2,1071,29
+27,Norrtälje,34,3,212,19
+27,Norsjö,,,<15,<15
+27,Nybro,31,2,62,5
+27,Nykvarn,62,7,68,8
+27,Nyköping,68,1,383,7
+27,Nynäshamn,52,6,150,16
+27,Nässjö,120,9,377,29
+27,Ockelbo,102,3,60,2
+27,Okänd,,,691,35
+27,Olofström,13,1,18,1
+27,Orsa,,,<15,<15
+27,Orust,32,1,48,1
+27,Osby,22,2,29,3
+27,Oskarshamn,23,4,61,12
+27,Ovanåker,84,1,98,1
+27,Oxelösund,61,1,73,1
+27,Pajala,31,2,19,1
+27,Partille,110,6,434,24
+27,Perstorp,,,<15,<15
+27,Piteå,32,3,134,13
+27,Ragunda,36,6,19,3
+27,Robertsfors,52,0,35,0
+27,Ronneby,19,1,57,2
+27,Rättvik,33,5,36,6
+27,Sala,103,3,235,7
+27,Salem,90,4,150,7
+27,Sandviken,103,13,404,52
+27,Sigtuna,80,4,390,21
+27,Simrishamn,,,<15,<15
+27,Sjöbo,11,1,22,1
+27,Skara,88,3,166,6
+27,Skellefteå,34,2,250,12
+27,Skinnskatteberg,,,<15,<15
+27,Skurup,11,0,18,0
+27,Skövde,101,2,572,14
+27,Smedjebacken,48,4,52,4
+27,Sollefteå,50,8,95,15
+27,Sollentuna,76,4,560,29
+27,Solna,83,5,685,38
+27,Sorsele,,,<15,<15
+27,Sotenäs,52,14,47,13
+27,Staffanstorp,15,0,37,1
+27,Stenungsund,46,3,124,8
+27,Stockholm Rinkeby-Kista,130,5,667,26
+27,Stockholm - Kungsholmen,81,5,580,38
+27,Stockholms kommun Enskede-Årsta-Vantör,98,5,1010,52
+27,Stockholm Bromma,80,5,645,43
+27,Stockholm Hägersten-Liljeholmen,77,6,702,58
+27,Stockholm Farsta,100,5,598,27
+27,Stockholm Älvsjö,97,5,307,15
+27,Stockholm Hässelby-Vällingby,82,5,628,38
+27,Stockholm kommun Skärholmen,128,7,483,28
+27,Stockholm Östermalm,74,5,583,41
+27,Skhlm Spånga-Tensta,106,4,412,15
+27,Stockholm Norrmalm,89,7,651,50
+27,Stockholm Södermalm,82,5,1073,69
+27,Stockholm Skarpnäck,97,6,450,26
+27,Storfors,,,<15,<15
+27,Storuman,,,<15,<15
+27,Strängnäs,41,4,151,15
+27,Strömstad,19,4,25,5
+27,Strömsund,15,1,17,1
+27,Sundbyberg,89,4,469,19
+27,Sundsvall,79,10,787,98
+27,Sunne,27,0,36,0
+27,Surahammar,55,7,56,7
+27,Svalöv,,,<15,<15
+27,Svedala,15,1,34,3
+27,Svenljunga,67,5,72,5
+27,Säffle,13,0,20,0
+27,Säter,48,3,53,3
+27,Sävsjö,47,13,55,15
+27,Söderhamn,107,7,275,17
+27,Söderköping,62,2,91,3
+27,Södertälje,108,3,1071,34
+27,Sölvesborg,,,<15,<15
+27,Tanum,29,2,37,2
+27,Tibro,141,4,158,4
+27,Tidaholm,97,5,125,7
+27,Tierp,57,1,121,3
+27,Timrå,106,6,190,11
+27,Tingsryd,78,0,97,0
+27,Tjörn,36,2,58,4
+27,Tomelilla,,,<15,<15
+27,Torsby,34,2,40,2
+27,Torsås,42,0,30,0
+27,Tranemo,91,8,109,9
+27,Tranås,61,8,116,15
+27,Trelleborg,27,1,121,6
+27,Trollhättan,92,7,543,42
+27,Trosa,58,1,80,2
+27,Tyresö,90,4,435,17
+27,Täby,63,6,455,43
+27,Töreboda,183,3,170,3
+27,Uddevalla,66,2,375,14
+27,Ulricehamn,100,4,246,10
+27,Umeå,27,2,352,29
+27,Upplands Väsby,96,6,449,29
+27,Upplands-Bro,62,5,182,14
+27,Uppsala,104,6,2393,129
+27,Uppvidinge,31,2,30,2
+27,Vadstena,83,7,62,5
+27,Vaggeryd,85,6,121,8
+27,Valdemarsvik,93,3,73,2
+27,Vallentuna,43,5,147,18
+27,Vansbro,56,3,38,2
+27,Vara,42,1,68,1
+27,Varberg,65,3,420,20
+27,Vaxholm,70,2,84,3
+27,Vellinge,27,0,99,1
+27,Vetlanda,74,4,202,12
+27,Vilhelmina,,,<15,<15
+27,Vimmerby,13,8,21,12
+27,Vindeln,44,2,24,1
+27,Vingåker,77,0,70,0
+27,Vårgårda,86,11,101,13
+27,Vänersborg,72,3,285,10
+27,Vännäs,,,<15,<15
+27,Värmdö,74,2,333,9
+27,Värnamo,83,5,286,19
+27,Västervik,26,2,97,6
+27,Västerås,98,7,1515,111
+27,Växjö,44,1,416,6
+27,Ydre,,,<15,<15
+27,Ystad,8,1,24,3
+27,Åmål,54,2,68,3
+27,Ånge,39,4,36,4
+27,Åre,108,3,127,4
+27,Årjäng,,,<15,<15
+27,Åsele,,,<15,<15
+27,Åstorp,17,0,27,9999999
+27,Åtvidaberg,69,0,79,0
+27,Älmhult,50,0,88,0
+27,Älvdalen,,,<15,<15
+27,Älvkarleby,61,2,58,2
+27,Älvsbyn,,,<15,<15
+27,Ängelholm,20,1,85,6
+27,Öckerö,95,0,123,0
+27,Ödeshög,32,6,17,3
+27,Örebro,91,3,1413,50
+27,Örkelljunga,,,<15,<15
+27,Örnsköldsvik,22,2,123,10
+27,Östersund,84,3,536,16
+27,Österåker,61,4,280,19
+27,Östhammar,63,0,141,1
+27,Östra Göinge,19,1,28,1
+27,Överkalix,,,<15,<15
+27,Övertorneå,54,0,23,0
+28,Ale,73,2,229,5
+28,Alingsås,94,3,390,13
+28,Alvesta,83,0,168,0
+28,Aneby,111,4,76,3
+28,Arboga,62,4,87,5
+28,Arjeplog,,,<15,<15
+28,Arvidsjaur,,,<15,<15
+28,Arvika,36,1,93,2
+28,Askersund,61,3,69,3
+28,Avesta,38,0,87,1
+28,Bengtsfors,40,2,39,2
+28,Berg,95,6,67,4
+28,Bjurholm,,,<15,<15
+28,Bjuv,17,1,27,1
+28,Boden,48,1,136,2
+28,Bollebygd,75,4,71,4
+28,Bollnäs,80,5,215,13
+28,Borgholm,32,0,35,0
+28,Borlänge,95,4,499,20
+28,Borås,116,3,1308,32
+28,Botkyrka,102,2,963,16
+28,Boxholm,69,2,38,1
+28,Bromölla,16,1,20,1
+28,Bräcke,167,2,105,1
+28,Burlöv,37,1,70,1
+28,Båstad,26,0,40,0
+28,Dals-Ed,,,<15,<15
+28,Danderyd,71,2,232,7
+28,Degerfors,110,0,106,0
+28,Dorotea,0,0,0,0
+28,Eda,,,<15,<15
+28,Ekerö,52,1,150,2
+28,Eksjö,88,7,157,13
+28,Emmaboda,,,<15,<15
+28,Enköping,73,2,329,9
+28,Eskilstuna,95,5,1015,50
+28,Eslöv,13,0,44,0
+28,Essunga,51,2,29,1
+28,Fagersta,46,0,62,0
+28,Falkenberg,51,2,230,8
+28,Falköping,47,1,155,9999999
+28,Falun,97,3,575,18
+28,Filipstad,70,1,74,1
+28,Finspång,78,1,170,2
+28,Flen,71,2,118,3
+28,Forshaga,33,0,38,0
+28,Färgelanda,50,2,33,1
+28,Gagnef,85,2,88,2
+28,Gislaved,171,11,511,33
+28,Gnesta,72,0,82,0
+28,Gnosjö,146,6,142,6
+28,Gotland,28,2,170,11
+28,Grums,38,0,34,0
+28,Grästorp,54,2,31,1
+28,Gullspång,47,0,25,0
+28,Gällivare,326,21,572,37
+28,Gävle,95,7,976,70
+28,Göteborg Majorna-Linné,97,4,625,25
+28,Göteborg Centrum,100,4,640,23
+28,Gbg Angered,140,2,761,11
+28,Göteborg Östra Göteborg,130,2,674,8
+28,Göteborg Askim-Frölunda-Högsbo,92,3,592,21
+28,Göteborg Örgryte-Härlanda,116,2,710,13
+28,Göteborg Norra Hisingen,107,2,553,12
+28,Göteborg Västra Hisingen,85,3,484,15
+28,Göteborg Lundby,111,3,613,19
+28,Göteborg Västra Göteborg,100,3,538,16
+28,Götene,28,1,37,1
+28,Habo,72,2,89,2
+28,Hagfors,36,0,42,0
+28,Hallsberg,57,3,91,5
+28,Hallstahammar,81,10,133,17
+28,Halmstad,38,1,393,12
+28,Hammarö,30,1,49,2
+28,Haninge,79,2,727,15
+28,Haparanda,,,<15,<15
+28,Heby,48,1,68,1
+28,Hedemora,39,1,61,2
+28,Helsingborg,46,1,685,10
+28,Herrljunga,67,2,63,2
+28,Hjo,47,0,43,0
+28,Hofors,97,8,93,8
+28,Huddinge,94,2,1064,27
+28,Hudiksvall,117,9,440,33
+28,Hultsfred,18,1,26,1
+28,Hylte,40,1,43,1
+28,Håbo,54,1,119,2
+28,Hällefors,108,0,76,0
+28,Härjedalen,83,1,84,1
+28,Härnösand,40,2,100,4
+28,Härryda,77,2,294,6
+28,Hässleholm,31,1,163,5
+28,Höganäs,35,3,95,7
+28,Högsby,27,0,16,0
+28,Hörby,16,0,25,0
+28,Höör,13,1,21,2
+28,Jokkmokk,37,2,18,1
+28,Järfälla,86,1,690,10
+28,Jönköping,154,5,2170,73
+28,Kalix,42,3,67,4
+28,Kalmar,39,1,273,9
+28,Karlsborg,36,0,25,0
+28,Karlshamn,13,1,41,2
+28,Karlskoga,67,0,204,0
+28,Karlskrona,51,0,341,3
+28,Karlstad,40,1,375,11
+28,Katrineholm,81,1,280,3
+28,Kil,20,0,24,0
+28,Kinda,79,1,79,1
+28,Kiruna,90,12,206,28
+28,Klippan,12,0,21,0
+28,Knivsta,65,1,122,1
+28,Kramfors,74,2,135,3
+28,Kristianstad,12,1,101,5
+28,Kristinehamn,46,1,112,2
+28,Krokom,61,3,92,5
+28,Kumla,82,0,178,1
+28,Kungsbacka,51,2,433,13
+28,Kungsör,75,2,65,2
+28,Kungälv,77,2,358,9
+28,Kävlinge,11,3,35,8
+28,Köping,78,4,204,11
+28,Laholm,57,2,148,6
+28,Landskrona,15,0,71,1
+28,Laxå,93,7,53,4
+28,Lekeberg,41,1,34,1
+28,Leksand,49,1,78,2
+28,Lerum,95,2,404,7
+28,Lessebo,33,0,29,0
+28,Lidingö,87,1,419,7
+28,Lidköping,72,2,290,7
+28,Lilla Edet,62,0,88,0
+28,Lindesberg,38,0,89,0
+28,Linköping,75,2,1223,32
+28,Ljungby,47,0,133,1
+28,Ljusdal,61,7,116,14
+28,Ljusnarsberg,,,<15,<15
+28,Lomma,17,0,41,1
+28,Ludvika,43,1,116,2
+28,Luleå,29,1,226,4
+28,Lund,23,1,284,17
+28,Lycksele,,,<15,<15
+28,Lysekil,40,2,58,3
+28,Malmö Hyllie,29,1,112,5
+28,Malmö Limhamn-Bunkeflo,21,1,113,4
+28,Malmös kmn Kirseberg,23,2,38,4
+28,Malmö Södra Innerstaden,24,1,87,4
+28,Malmö Rosengård,34,3,79,6
+28,Malmö Husie,27,1,64,2
+28,Malmö Oxie,22,1,30,1
+28,Malmö Fosie,38,1,175,6
+28,Malmö Centrum,28,1,154,7
+28,Malmö Västra Innerstaden,24,1,86,5
+28,Malung,24,1,24,1
+28,Malå,,,<15,<15
+28,Mariestad,64,1,156,3
+28,Mark,96,2,334,8
+28,Markaryd,89,2,92,2
+28,Mellerud,29,0,27,0
+28,Mjölby,77,1,214,4
+28,Mora,42,1,86,2
+28,Motala,63,1,277,6
+28,Mullsjö,60,0,44,0
+28,Munkedal,41,1,43,1
+28,Munkfors,217,0,81,0
+28,Mölndal,88,2,607,16
+28,Mönsterås,37,0,50,0
+28,Mörbylånga,29,0,44,0
+28,Nacka,84,2,883,26
+28,Nora,30,0,32,0
+28,Norberg,42,0,24,0
+28,Nordanstig,73,9,69,9
+28,Nordmaling,28,0,20,0
+28,Norrköping,75,0,1078,7
+28,Norrtälje,36,2,223,11
+28,Norsjö,,,<15,<15
+28,Nybro,31,0,63,1
+28,Nykvarn,63,1,69,1
+28,Nyköping,69,1,389,6
+28,Nynäshamn,54,2,155,5
+28,Nässjö,123,4,389,12
+28,Ockelbo,108,7,64,4
+28,Okänd,,,713,22
+28,Olofström,15,1,20,2
+28,Orsa,,,<15,<15
+28,Orust,32,1,49,1
+28,Osby,24,2,32,3
+28,Oskarshamn,24,2,66,5
+28,Ovanåker,94,10,110,12
+28,Oxelösund,61,0,73,0
+28,Pajala,35,3,21,2
+28,Partille,113,2,443,9
+28,Perstorp,,,<15,<15
+28,Piteå,34,2,144,10
+28,Ragunda,38,2,20,1
+28,Robertsfors,52,0,35,0
+28,Ronneby,20,0,58,1
+28,Rättvik,34,1,37,1
+28,Sala,105,2,240,5
+28,Salem,93,3,155,5
+28,Sandviken,112,9,441,37
+28,Sigtuna,81,1,397,7
+28,Simrishamn,,,<15,<15
+28,Sjöbo,12,1,23,1
+28,Skara,90,2,170,4
+28,Skellefteå,35,0,252,2
+28,Skinnskatteberg,,,<15,<15
+28,Skurup,12,1,19,1
+28,Skövde,103,2,581,9
+28,Smedjebacken,48,0,52,0
+28,Sollefteå,52,2,99,4
+28,Sollentuna,78,2,574,14
+28,Solna,85,2,699,14
+28,Sorsele,,,<15,<15
+28,Sotenäs,57,6,52,5
+28,Staffanstorp,15,1,39,2
+28,Stenungsund,47,0,125,1
+28,Stockholm Östermalm,77,3,605,22
+28,Stockholm Norrmalm,93,4,680,29
+28,Stockholm Älvsjö,98,1,310,3
+28,Stockholm Skarpnäck,98,1,456,6
+28,Stockholm Rinkeby-Kista,132,2,678,11
+28,Skhlm Spånga-Tensta,108,2,419,7
+28,Stockholm Bromma,82,2,660,15
+28,Stockholm Farsta,103,3,614,16
+28,Stockholm kommun Skärholmen,131,3,495,12
+28,Stockholm Södermalm,84,2,1100,27
+28,Stockholms kommun Enskede-Årsta-Vantör,101,3,1040,30
+28,Stockholm Hägersten-Liljeholmen,78,1,715,13
+28,Stockholm Hässelby-Vällingby,84,2,645,17
+28,Stockholm - Kungsholmen,85,4,605,25
+28,Storfors,,,<15,<15
+28,Storuman,,,<15,<15
+28,Strängnäs,42,1,154,3
+28,Strömstad,20,1,26,1
+28,Strömsund,15,0,17,0
+28,Sundbyberg,91,2,479,10
+28,Sundsvall,87,8,866,79
+28,Sunne,27,0,36,0
+28,Surahammar,56,1,57,1
+28,Svalöv,,,<15,<15
+28,Svedala,16,0,35,1
+28,Svenljunga,68,1,73,1
+28,Säffle,13,0,20,0
+28,Säter,50,3,56,3
+28,Sävsjö,49,2,57,2
+28,Söderhamn,118,11,303,28
+28,Söderköping,62,0,91,0
+28,Södertälje,111,3,1101,30
+28,Sölvesborg,10,2,18,3
+28,Tanum,29,0,37,0
+28,Tibro,141,0,158,0
+28,Tidaholm,98,1,126,1
+28,Tierp,58,0,122,1
+28,Timrå,110,4,198,8
+28,Tingsryd,78,0,97,0
+28,Tjörn,36,0,58,0
+28,Tomelilla,,,<15,<15
+28,Torsby,36,2,42,2
+28,Torsås,44,1,31,1
+28,Tranemo,98,7,117,8
+28,Tranås,65,4,123,7
+28,Trelleborg,27,1,124,3
+28,Trollhättan,94,2,555,12
+28,Trosa,60,2,83,3
+28,Tyresö,92,2,445,10
+28,Täby,64,1,463,8
+28,Töreboda,185,2,172,2
+28,Uddevalla,67,1,380,5
+28,Ulricehamn,100,0,246,0
+28,Umeå,28,1,361,9
+28,Upplands Väsby,97,1,454,5
+28,Upplands-Bro,64,2,189,7
+28,Uppsala,106,2,2437,44
+28,Uppvidinge,31,0,30,0
+28,Vadstena,88,4,65,3
+28,Vaggeryd,88,4,126,5
+28,Valdemarsvik,93,0,73,0
+28,Vallentuna,45,2,154,7
+28,Vansbro,57,1,39,1
+28,Vara,43,1,69,1
+28,Varberg,67,2,433,13
+28,Vaxholm,70,0,84,0
+28,Vellinge,28,1,102,3
+28,Vetlanda,76,3,209,7
+28,Vilhelmina,,,<15,<15
+28,Vimmerby,18,4,28,7
+28,Vindeln,44,0,24,0
+28,Vingåker,77,0,70,0
+28,Vårgårda,89,3,105,4
+28,Vänersborg,73,1,289,4
+28,Vännäs,,,<15,<15
+28,Värmdö,75,1,336,3
+28,Värnamo,86,3,298,12
+28,Västervik,28,1,102,5
+28,Västerås,102,4,1575,60
+28,Växjö,45,1,428,12
+28,Ydre,,,<15,<15
+28,Ystad,8,0,24,0
+28,Åmål,55,1,69,1
+28,Ånge,44,5,41,5
+28,Åre,110,2,129,2
+28,Årjäng,,,<15,<15
+28,Åsele,,,<15,<15
+28,Åstorp,18,1,29,2
+28,Åtvidaberg,70,2,81,2
+28,Älmhult,53,3,94,6
+28,Älvdalen,,,<15,<15
+28,Älvkarleby,62,1,59,1
+28,Älvsbyn,,,<15,<15
+28,Ängelholm,21,1,90,5
+28,Öckerö,97,2,125,2
+28,Ödeshög,37,6,20,3
+28,Örebro,93,2,1448,35
+28,Örkelljunga,,,<15,<15
+28,Örnsköldsvik,24,2,133,10
+28,Östersund,85,1,544,8
+28,Österåker,64,2,290,10
+28,Östhammar,64,1,143,2
+28,Östra Göinge,19,0,28,0
+28,Överkalix,,,<15,<15
+28,Övertorneå,56,2,24,1
+29,Ale,74,1,233,4
+29,Alingsås,96,2,399,9
+29,Alvesta,86,3,174,6
+29,Aneby,111,0,76,0
+29,Arboga,65,3,91,4
+29,Arjeplog,,,<15,<15
+29,Arvidsjaur,,,<15,<15
+29,Arvika,36,0,93,0
+29,Askersund,62,2,71,2
+29,Avesta,38,1,89,2
+29,Bengtsfors,41,1,40,1
+29,Berg,96,1,68,1
+29,Bjurholm,,,<15,<15
+29,Bjuv,17,0,27,0
+29,Boden,50,1,140,4
+29,Bollebygd,78,3,74,3
+29,Bollnäs,82,2,220,5
+29,Borgholm,32,0,35,0
+29,Borlänge,97,2,512,13
+29,Borås,118,2,1331,23
+29,Botkyrka,105,3,990,27
+29,Boxholm,69,0,38,0
+29,Bromölla,16,0,20,0
+29,Bräcke,168,2,106,1
+29,Burlöv,37,0,70,0
+29,Båstad,27,1,41,1
+29,Dals-Ed,,,<15,<15
+29,Danderyd,73,2,240,8
+29,Degerfors,110,0,106,0
+29,Dorotea,,,<15,<15
+29,Eda,,,<15,<15
+29,Ekerö,54,1,154,4
+29,Eksjö,89,1,158,1
+29,Emmaboda,,,<15,<15
+29,Enköping,75,2,339,10
+29,Eskilstuna,98,3,1050,35
+29,Eslöv,13,0,44,0
+29,Essunga,53,2,30,1
+29,Fagersta,48,1,64,2
+29,Falkenberg,53,2,240,10
+29,Falköping,48,2,161,6
+29,Falun,99,2,586,11
+29,Filipstad,70,0,74,0
+29,Finspång,78,0,170,0
+29,Flen,72,1,120,2
+29,Forshaga,33,0,38,0
+29,Färgelanda,53,3,35,2
+29,Gagnef,85,0,88,0
+29,Gislaved,177,6,530,19
+29,Gnesta,73,1,83,1
+29,Gnosjö,146,0,142,0
+29,Gotland,30,2,182,12
+29,Grums,38,0,34,0
+29,Grästorp,54,0,31,0
+29,Gullspång,47,0,25,0
+29,Gällivare,333,6,583,11
+29,Gävle,98,3,1008,32
+29,Göteborg Örgryte-Härlanda,118,2,725,15
+29,Göteborg Västra Hisingen,87,2,498,14
+29,Gbg Angered,142,2,771,10
+29,Göteborg Centrum,101,2,650,10
+29,Göteborg Norra Hisingen,110,3,570,17
+29,Göteborg Västra Göteborg,104,4,559,21
+29,Göteborg Majorna-Linné,98,1,631,6
+29,Göteborg Lundby,113,1,620,7
+29,Göteborg Östra Göteborg,133,3,690,16
+29,Göteborg Askim-Frölunda-Högsbo,94,2,603,11
+29,Götene,29,1,38,1
+29,Habo,72,0,89,0
+29,Hagfors,36,0,42,0
+29,Hallsberg,58,1,92,1
+29,Hallstahammar,86,5,141,8
+29,Halmstad,39,1,404,11
+29,Hammarö,30,0,49,0
+29,Haninge,80,2,741,14
+29,Haparanda,,,<15,<15
+29,Heby,51,2,71,3
+29,Hedemora,41,1,63,2
+29,Helsingborg,48,1,705,20
+29,Herrljunga,68,1,64,1
+29,Hjo,48,1,44,1
+29,Hofors,99,2,95,2
+29,Huddinge,96,2,1083,19
+29,Hudiksvall,120,3,450,10
+29,Hultsfred,20,1,28,2
+29,Hylte,40,0,43,0
+29,Håbo,54,0,119,0
+29,Hällefors,110,1,77,1
+29,Härjedalen,85,2,86,2
+29,Härnösand,40,0,101,1
+29,Härryda,78,1,297,3
+29,Hässleholm,33,2,171,8
+29,Höganäs,37,2,100,5
+29,Högsby,27,0,16,0
+29,Hörby,16,0,25,0
+29,Höör,13,1,22,1
+29,Jokkmokk,37,0,18,0
+29,Järfälla,88,2,704,14
+29,Jönköping,157,4,2220,50
+29,Kalix,43,1,68,1
+29,Kalmar,39,0,273,0
+29,Karlsborg,37,1,26,1
+29,Karlshamn,14,1,45,4
+29,Karlskoga,68,1,206,2
+29,Karlskrona,51,0,343,2
+29,Karlstad,40,0,379,4
+29,Katrineholm,81,1,282,2
+29,Kil,20,0,24,0
+29,Kinda,79,0,79,0
+29,Kiruna,95,5,217,11
+29,Klippan,12,0,21,0
+29,Knivsta,65,1,123,1
+29,Kramfors,74,1,136,1
+29,Kristianstad,13,1,108,7
+29,Kristinehamn,47,0,113,1
+29,Krokom,62,1,93,1
+29,Kumla,83,1,180,2
+29,Kungsbacka,52,1,440,7
+29,Kungsör,76,1,66,1
+29,Kungälv,78,1,363,5
+29,Kävlinge,12,1,38,3
+29,Köping,81,3,213,9
+29,Laholm,57,0,148,0
+29,Landskrona,16,1,74,3
+29,Laxå,93,0,53,0
+29,Lekeberg,44,2,36,2
+29,Leksand,51,2,81,3
+29,Lerum,96,1,408,4
+29,Lessebo,34,1,30,1
+29,Lidingö,89,1,426,7
+29,Lidköping,75,3,301,11
+29,Lilla Edet,67,4,94,6
+29,Lindesberg,39,1,91,2
+29,Linköping,76,1,1241,18
+29,Ljungby,47,0,134,1
+29,Ljusdal,63,2,119,3
+29,Ljusnarsberg,,,<15,<15
+29,Lomma,17,0,41,0
+29,Ludvika,43,0,116,0
+29,Luleå,29,0,229,3
+29,Lund,24,2,303,19
+29,Lycksele,,,<15,<15
+29,Lysekil,43,3,62,4
+29,Malmö Västra Innerstaden,25,1,90,4
+29,Malmö Rosengård,36,3,85,6
+29,Malmö Husie,31,4,73,9
+29,Malmös kmn Kirseberg,26,2,42,4
+29,Malmö Södra Innerstaden,26,3,97,10
+29,Malmö Hyllie,29,1,114,2
+29,Malmö Fosie,39,2,183,8
+29,Malmö Centrum,29,2,163,9
+29,Malmö Oxie,22,0,30,0
+29,Malmö Limhamn-Bunkeflo,23,2,121,8
+29,Malung,28,4,28,4
+29,Malå,,,<15,<15
+29,Mariestad,64,1,158,2
+29,Mark,99,3,344,10
+29,Markaryd,89,0,92,0
+29,Mellerud,29,0,27,0
+29,Mjölby,81,4,225,11
+29,Mora,43,0,87,1
+29,Motala,65,1,282,5
+29,Mullsjö,70,10,51,7
+29,Munkedal,43,2,45,2
+29,Munkfors,217,0,81,0
+29,Mölndal,90,2,623,16
+29,Mönsterås,38,1,51,1
+29,Mörbylånga,30,1,45,1
+29,Nacka,86,2,900,17
+29,Nora,30,0,32,0
+29,Norberg,42,0,24,0
+29,Nordanstig,77,4,73,4
+29,Nordmaling,28,0,20,0
+29,Norrköping,76,1,1094,16
+29,Norrtälje,37,1,230,7
+29,Norsjö,,,<15,<15
+29,Nybro,31,0,63,0
+29,Nykvarn,64,1,70,1
+29,Nyköping,69,1,392,3
+29,Nynäshamn,55,0,156,1
+29,Nässjö,125,1,393,4
+29,Ockelbo,110,2,65,1
+29,Okänd,,,735,22
+29,Olofström,16,1,21,1
+29,Orsa,,,<15,<15
+29,Orust,32,0,49,0
+29,Osby,24,0,32,0
+29,Oskarshamn,25,1,69,3
+29,Ovanåker,94,0,110,0
+29,Oxelösund,61,0,73,0
+29,Pajala,36,2,22,1
+29,Partille,113,1,445,2
+29,Perstorp,,,<15,<15
+29,Piteå,35,1,147,3
+29,Ragunda,38,0,20,0
+29,Robertsfors,52,0,35,0
+29,Ronneby,20,0,59,1
+29,Rättvik,37,3,40,3
+29,Sala,105,0,240,0
+29,Salem,93,1,156,1
+29,Sandviken,116,4,457,16
+29,Sigtuna,82,1,402,5
+29,Simrishamn,,,<15,<15
+29,Sjöbo,14,2,26,3
+29,Skara,92,2,174,4
+29,Skellefteå,35,1,256,4
+29,Skinnskatteberg,,,<15,<15
+29,Skurup,14,3,23,4
+29,Skövde,105,2,591,10
+29,Smedjebacken,48,0,52,0
+29,Sollefteå,54,3,104,5
+29,Sollentuna,80,2,589,15
+29,Solna,87,2,714,15
+29,Sorsele,,,<15,<15
+29,Sotenäs,66,9,60,8
+29,Staffanstorp,18,3,46,7
+29,Stenungsund,47,1,127,2
+29,Stockholm Farsta,104,1,620,6
+29,Stockholm Älvsjö,100,2,315,5
+29,Stockholm Hässelby-Vällingby,86,2,661,16
+29,Stockholm Östermalm,79,2,621,16
+29,Stockholm Södermalm,86,2,1122,22
+29,Stockholm Skarpnäck,100,2,463,7
+29,Stockholm Rinkeby-Kista,135,2,690,12
+29,Skhlm Spånga-Tensta,111,3,431,12
+29,Stockholm Bromma,83,1,670,10
+29,Stockholm Norrmalm,95,2,698,18
+29,Stockholms kommun Enskede-Årsta-Vantör,103,2,1060,20
+29,Stockholm kommun Skärholmen,131,1,497,2
+29,Stockholm - Kungsholmen,87,2,619,14
+29,Stockholm Hägersten-Liljeholmen,79,2,729,14
+29,Storfors,,,<15,<15
+29,Storuman,,,<15,<15
+29,Strängnäs,42,0,154,0
+29,Strömstad,20,1,27,1
+29,Strömsund,16,1,18,1
+29,Sundbyberg,93,2,489,10
+29,Sundsvall,92,5,916,50
+29,Sunne,27,0,36,0
+29,Surahammar,57,1,58,1
+29,Svalöv,,,<15,<15
+29,Svedala,16,0,36,1
+29,Svenljunga,69,1,74,1
+29,Säffle,13,0,20,0
+29,Säter,55,5,61,5
+29,Sävsjö,50,1,58,1
+29,Söderhamn,124,6,319,16
+29,Söderköping,65,3,95,4
+29,Södertälje,113,2,1117,16
+29,Sölvesborg,10,0,18,0
+29,Tanum,32,3,41,4
+29,Tibro,142,2,160,2
+29,Tidaholm,99,1,127,1
+29,Tierp,58,0,122,0
+29,Timrå,112,2,202,4
+29,Tingsryd,78,0,97,0
+29,Tjörn,37,1,59,1
+29,Tomelilla,,,<15,<15
+29,Torsby,36,0,42,0
+29,Torsås,44,0,31,0
+29,Tranemo,98,0,117,0
+29,Tranås,67,2,127,4
+29,Trelleborg,28,0,126,2
+29,Trollhättan,95,1,561,6
+29,Trosa,61,1,84,1
+29,Tyresö,94,2,453,8
+29,Täby,66,1,473,10
+29,Töreboda,186,1,173,1
+29,Uddevalla,69,2,393,13
+29,Ulricehamn,100,0,247,1
+29,Umeå,29,1,376,15
+29,Upplands Väsby,98,1,459,5
+29,Upplands-Bro,70,6,206,17
+29,Uppsala,108,2,2482,45
+29,Uppvidinge,32,1,31,1
+29,Vadstena,89,1,66,1
+29,Vaggeryd,90,2,129,3
+29,Valdemarsvik,94,1,74,1
+29,Vallentuna,46,1,156,2
+29,Vansbro,60,3,41,2
+29,Vara,45,2,72,3
+29,Varberg,68,1,437,4
+29,Vaxholm,71,1,85,1
+29,Vellinge,29,1,105,3
+29,Vetlanda,77,1,211,2
+29,Vilhelmina,,,<15,<15
+29,Vimmerby,20,2,31,3
+29,Vindeln,44,0,24,0
+29,Vingåker,77,0,70,0
+29,Vårgårda,92,3,109,4
+29,Vänersborg,74,1,293,4
+29,Vännäs,,,<15,<15
+29,Värmdö,75,1,339,3
+29,Värnamo,89,2,306,8
+29,Västervik,29,1,105,3
+29,Västerås,104,2,1599,24
+29,Växjö,47,2,443,15
+29,Ydre,,,<15,<15
+29,Ystad,9,1,27,3
+29,Åmål,59,4,74,5
+29,Ånge,46,2,43,2
+29,Åre,110,0,129,0
+29,Årjäng,,,<15,<15
+29,Åsele,,,<15,<15
+29,Åstorp,19,1,30,1
+29,Åtvidaberg,70,0,81,0
+29,Älmhult,54,1,95,1
+29,Älvdalen,,,<15,<15
+29,Älvkarleby,65,2,61,2
+29,Älvsbyn,,,<15,<15
+29,Ängelholm,21,0,90,0
+29,Öckerö,98,2,127,2
+29,Ödeshög,37,0,20,0
+29,Örebro,94,1,1467,19
+29,Örkelljunga,,,<15,<15
+29,Örnsköldsvik,25,1,138,5
+29,Östersund,87,2,558,14
+29,Österåker,65,1,296,6
+29,Östhammar,64,0,143,0
+29,Östra Göinge,19,1,29,1
+29,Överkalix,,,<15,<15
+29,Övertorneå,58,2,25,1
+30,Ale,75,1,236,3
+30,Alingsås,98,2,407,8
+30,Alvesta,86,0,174,0
+30,Aneby,112,1,77,1
+30,Arboga,65,1,92,1
+30,Arjeplog,,,<15,<15
+30,Arvidsjaur,,,<15,<15
+30,Arvika,36,0,94,1
+30,Askersund,63,1,72,1
+30,Avesta,40,2,93,4
+30,Bengtsfors,42,1,41,1
+30,Berg,98,1,69,1
+30,Bjurholm,,,<15,<15
+30,Bjuv,17,0,27,0
+30,Boden,51,1,144,4
+30,Bollebygd,78,0,74,0
+30,Bollnäs,84,2,226,6
+30,Borgholm,32,0,35,0
+30,Borlänge,99,2,520,8
+30,Borås,120,2,1354,23
+30,Botkyrka,106,1,1002,12
+30,Boxholm,69,0,38,0
+30,Bromölla,18,2,23,3
+30,Bräcke,168,0,106,0
+30,Burlöv,38,1,72,2
+30,Båstad,30,3,46,5
+30,Dals-Ed,,,<15,<15
+30,Danderyd,74,1,244,4
+30,Degerfors,110,0,106,0
+30,Dorotea,,,<15,<15
+30,Eda,,,<15,<15
+30,Ekerö,54,0,155,1
+30,Eksjö,90,1,160,2
+30,Emmaboda,,,<15,<15
+30,Enköping,76,1,343,4
+30,Eskilstuna,99,1,1057,7
+30,Eslöv,14,1,46,2
+30,Essunga,55,2,31,1
+30,Fagersta,48,0,64,0
+30,Falkenberg,54,1,245,5
+30,Falköping,50,1,165,4
+30,Falun,99,1,590,4
+30,Filipstad,70,0,74,0
+30,Finspång,79,1,173,3
+30,Flen,72,0,120,0
+30,Forshaga,33,0,38,0
+30,Färgelanda,59,6,39,4
+30,Gagnef,85,0,88,0
+30,Gislaved,179,2,537,7
+30,Gnesta,74,1,84,1
+30,Gnosjö,149,3,145,3
+30,Gotland,33,3,198,16
+30,Grums,38,0,34,0
+30,Grästorp,63,9,36,5
+30,Gullspång,47,0,25,0
+30,Gällivare,337,5,591,8
+30,Gävle,100,1,1023,15
+30,Göteborg Lundby,115,3,635,15
+30,Göteborg Västra Hisingen,90,3,514,16
+30,Göteborg Askim-Frölunda-Högsbo,97,3,622,19
+30,Göteborg Norra Hisingen,111,1,576,6
+30,Göteborg Centrum,104,3,667,17
+30,Göteborg Örgryte-Härlanda,120,2,736,11
+30,Göteborg Majorna-Linné,101,3,648,17
+30,Göteborg Östra Göteborg,135,2,700,10
+30,Göteborg Angered,143,1,777,6
+30,Göteborg Västra Göteborg,107,3,576,17
+30,Götene,30,1,39,1
+30,Habo,72,0,89,0
+30,Hagfors,36,0,42,0
+30,Hallsberg,58,1,93,1
+30,Hallstahammar,87,1,143,2
+30,Halmstad,40,1,410,6
+30,Hammarö,30,0,49,0
+30,Haninge,81,1,750,9
+30,Haparanda,,,<15,<15
+30,Heby,51,1,72,1
+30,Hedemora,41,1,64,1
+30,Helsingborg,49,1,722,17
+30,Herrljunga,68,0,64,0
+30,Hjo,48,0,44,0
+30,Hofors,101,2,97,2
+30,Huddinge,98,2,1101,18
+30,Hudiksvall,120,1,452,2
+30,Hultsfred,21,1,30,2
+30,Hylte,40,0,43,0
+30,Håbo,55,1,121,2
+30,Hällefors,111,1,78,1
+30,Härjedalen,86,1,87,1
+30,Härnösand,41,0,102,1
+30,Härryda,80,1,302,5
+30,Hässleholm,34,1,177,6
+30,Höganäs,38,1,102,2
+30,Högsby,27,0,16,0
+30,Hörby,16,0,25,0
+30,Höör,13,0,22,0
+30,Jokkmokk,37,0,18,0
+30,Järfälla,90,2,718,14
+30,Jönköping,159,2,2250,30
+30,Kalix,43,0,68,0
+30,Kalmar,39,0,274,1
+30,Karlsborg,37,0,26,0
+30,Karlshamn,14,0,45,0
+30,Karlskoga,68,0,206,0
+30,Karlskrona,52,0,345,2
+30,Karlstad,41,1,388,9
+30,Katrineholm,81,0,283,1
+30,Kil,20,0,24,0
+30,Kinda,81,2,81,2
+30,Kiruna,99,4,227,10
+30,Klippan,12,1,22,1
+30,Knivsta,66,1,125,2
+30,Kramfors,75,1,138,2
+30,Kristianstad,14,1,116,8
+30,Kristinehamn,47,0,113,0
+30,Krokom,63,1,94,1
+30,Kumla,83,0,181,1
+30,Kungsbacka,53,1,449,9
+30,Kungsör,78,2,68,2
+30,Kungälv,81,3,377,14
+30,Kävlinge,12,0,39,1
+30,Köping,82,1,216,3
+30,Laholm,58,1,150,2
+30,Landskrona,16,0,75,1
+30,Laxå,93,0,53,0
+30,Lekeberg,44,0,36,0
+30,Leksand,51,0,81,0
+30,Lerum,98,2,417,9
+30,Lessebo,34,0,30,0
+30,Lidingö,90,1,432,6
+30,Lidköping,78,3,312,11
+30,Lilla Edet,70,4,99,5
+30,Lindesberg,39,0,92,1
+30,Linköping,77,1,1252,11
+30,Ljungby,47,0,134,0
+30,Ljusdal,63,1,120,1
+30,Ljusnarsberg,,,<15,<15
+30,Lomma,17,1,43,2
+30,Ludvika,44,1,118,2
+30,Luleå,30,1,236,7
+30,Lund,25,1,311,8
+30,Lycksele,,,<15,<15
+30,Lysekil,44,1,64,2
+30,Malmös kmn Kirseberg,27,1,44,2
+30,Malmö Centrum,30,1,169,6
+30,Malmö Oxie,23,1,31,1
+30,Malmö Husie,32,1,76,3
+30,Malmö Limhamn-Bunkeflo,24,1,128,7
+30,Malmö Fosie,42,2,194,11
+30,Malmö Rosengård,38,2,89,4
+30,Malmö Hyllie,30,1,117,3
+30,Malmö Södra Innerstaden,27,1,100,3
+30,Malmö Västra Innerstaden,26,0,91,1
+30,Malung,28,0,28,0
+30,Malå,,,<15,<15
+30,Mariestad,65,0,159,1
+30,Mark,100,1,347,3
+30,Markaryd,89,0,92,0
+30,Mellerud,32,3,30,3
+30,Mjölby,82,1,227,2
+30,Mora,43,0,88,1
+30,Motala,65,0,283,1
+30,Mullsjö,70,0,51,0
+30,Munkedal,43,0,45,0
+30,Munkfors,217,0,81,0
+30,Mölndal,91,2,634,11
+30,Mönsterås,38,0,51,0
+30,Mörbylånga,30,1,46,1
+30,Nacka,87,2,918,18
+30,Nora,30,0,32,0
+30,Norberg,44,2,25,1
+30,Nordanstig,77,0,73,0
+30,Nordmaling,28,0,20,0
+30,Norrköping,77,0,1100,6
+30,Norrtälje,38,2,241,11
+30,Norsjö,,,<15,<15
+30,Nybro,31,0,64,1
+30,Nykvarn,64,1,71,1
+30,Nyköping,70,1,396,4
+30,Nynäshamn,55,0,156,0
+30,Nässjö,126,1,396,3
+30,Ockelbo,113,3,67,2
+30,Okänd,,,764,29
+30,Olofström,16,0,21,0
+30,Orsa,,,<15,<15
+30,Orust,32,0,49,0
+30,Osby,25,1,33,1
+30,Oskarshamn,26,1,71,2
+30,Ovanåker,95,1,111,1
+30,Oxelösund,61,0,73,0
+30,Pajala,45,8,27,5
+30,Partille,115,1,450,5
+30,Perstorp,,,<15,<15
+30,Piteå,35,1,150,3
+30,Ragunda,38,0,20,0
+30,Robertsfors,52,0,35,0
+30,Ronneby,20,0,59,0
+30,Rättvik,38,2,42,2
+30,Sala,105,0,241,1
+30,Salem,94,1,158,2
+30,Sandviken,122,6,479,22
+30,Sigtuna,83,1,405,3
+30,Simrishamn,9,1,17,2
+30,Sjöbo,14,1,27,1
+30,Skara,92,0,174,0
+30,Skellefteå,36,0,258,2
+30,Skinnskatteberg,,,<15,<15
+30,Skurup,15,1,24,1
+30,Skövde,106,1,596,5
+30,Smedjebacken,49,1,53,1
+30,Sollefteå,56,2,107,3
+30,Sollentuna,81,1,595,6
+30,Solna,88,2,728,14
+30,Sorsele,,,<15,<15
+30,Sotenäs,74,8,67,7
+30,Staffanstorp,20,2,50,4
+30,Stenungsund,48,1,129,2
+30,Stockholms kommun Enskede-Årsta-Vantör,104,1,1073,13
+30,Stockholm Bromma,84,1,679,9
+30,Stockholm Farsta,106,2,629,9
+30,Stockholm Skarpnäck,101,1,469,6
+30,Stockholm Norrmalm,97,2,711,13
+30,Skhlm Spånga-Tensta,112,2,437,6
+30,Stockholm Södermalm,88,2,1148,26
+30,Stockholm kommun Skärholmen,133,1,502,5
+30,Stockholm Östermalm,81,1,632,11
+30,Stockholm Hägersten-Liljeholmen,82,2,750,21
+30,Stockholm Hässelby-Vällingby,87,1,670,9
+30,Stockholm - Kungsholmen,89,2,633,14
+30,Stockholm Rinkeby-Kista,136,1,697,7
+30,Stockholm Älvsjö,101,1,319,4
+30,Storfors,,,<15,<15
+30,Storuman,,,<15,<15
+30,Strängnäs,43,1,157,3
+30,Strömstad,23,2,30,3
+30,Strömsund,16,0,18,0
+30,Sundbyberg,94,1,495,6
+30,Sundsvall,96,4,954,38
+30,Sunne,29,2,38,2
+30,Surahammar,61,4,62,4
+30,Svalöv,,,<15,<15
+30,Svedala,17,1,38,2
+30,Svenljunga,70,1,75,1
+30,Säffle,14,1,21,1
+30,Säter,61,6,68,7
+30,Sävsjö,51,2,60,2
+30,Söderhamn,126,2,324,5
+30,Söderköping,66,1,97,2
+30,Södertälje,114,2,1132,15
+30,Sölvesborg,11,1,19,1
+30,Tanum,33,1,42,1
+30,Tibro,142,0,160,0
+30,Tidaholm,100,1,128,1
+30,Tierp,58,0,123,1
+30,Timrå,115,2,206,4
+30,Tingsryd,78,0,97,0
+30,Tjörn,37,1,60,1
+30,Tomelilla,,,<15,<15
+30,Torsby,36,0,42,0
+30,Torsås,45,1,32,1
+30,Tranemo,98,0,117,0
+30,Tranås,67,0,127,0
+30,Trelleborg,29,1,132,6
+30,Trollhättan,97,2,575,14
+30,Trosa,62,1,85,1
+30,Tyresö,95,1,458,5
+30,Täby,67,1,482,9
+30,Töreboda,186,0,173,0
+30,Uddevalla,71,2,405,12
+30,Ulricehamn,101,0,248,1
+30,Umeå,30,0,382,6
+30,Upplands Väsby,99,0,461,2
+30,Upplands-Bro,74,4,218,12
+30,Uppsala,108,1,2502,20
+30,Uppvidinge,32,0,31,0
+30,Vadstena,89,0,66,0
+30,Vaggeryd,93,3,133,4
+30,Valdemarsvik,94,0,74,0
+30,Vallentuna,46,0,157,1
+30,Vansbro,60,0,41,0
+30,Vara,50,5,80,8
+30,Varberg,68,0,440,3
+30,Vaxholm,71,0,85,0
+30,Vellinge,29,1,108,3
+30,Vetlanda,78,1,213,2
+30,Vilhelmina,,,<15,<15
+30,Vimmerby,24,4,37,6
+30,Vindeln,44,0,24,0
+30,Vingåker,77,0,70,0
+30,Vårgårda,97,4,114,5
+30,Vänersborg,76,2,299,6
+30,Vännäs,,,<15,<15
+30,Värmdö,76,1,344,5
+30,Värnamo,91,2,314,8
+30,Västervik,29,0,106,1
+30,Västerås,105,1,1618,19
+30,Växjö,49,1,457,14
+30,Ydre,,,<15,<15
+30,Ystad,9,1,29,2
+30,Åmål,59,0,74,0
+30,Ånge,48,2,45,2
+30,Åre,111,1,130,1
+30,Årjäng,,,<15,<15
+30,Åsele,,,<15,<15
+30,Åstorp,21,3,34,4
+30,Åtvidaberg,70,0,81,0
+30,Älmhult,56,2,99,4
+30,Älvdalen,,,<15,<15
+30,Älvkarleby,67,2,63,2
+30,Älvsbyn,,,<15,<15
+30,Ängelholm,23,2,98,8
+30,Öckerö,100,2,129,2
+30,Ödeshög,37,0,20,0
+30,Örebro,96,1,1487,20
+30,Örkelljunga,16,1,16,1
+30,Örnsköldsvik,26,1,144,6
+30,Östersund,90,2,573,15
+30,Österåker,66,1,299,3
+30,Östhammar,64,0,143,0
+30,Östra Göinge,22,3,33,4
+30,Överkalix,,,<15,<15
+30,Övertorneå,58,0,25,0
